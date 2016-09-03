@@ -1,0 +1,58 @@
+Young Engineers Club Curriculum
+===============================
+Arthur Davis <art.davis@gmail.com>
+
+Introduction
+------------
+
+Traditionally, education in the field of engineering is not made available to
+students until they reach the college level. Even though primary school
+students may not be prepared to handle the advanced science and mathematics
+that are the typical domain of the engineering disciplines it's never too early
+to apply engineering principles to solving problems.
+
+The Young Engineers Club is open to all ages attending the Saratoga Independent
+School and will expose students to engineering fundamentals on a level they
+will find engaging and fun.
+
+Each club meeting will briefly introduce an engineering discipline and then
+pose an open ended engineering challenge in that realm.  Sometimes the whole
+club will work together to solve a problem, other times we will break out in to
+teams for some friendly competition. This self-directed problem based
+approach is an enjoyable way to foster engineering fundamentals such as
+innovation and original thought.
+
+Engineering areas that we'll be exploring include: Acoustical, Aerospace,
+Architectural, Biomedical, Chemical, Computer Aided Design, Electrical,
+Mechanical, Naval, Optical, Robotics, Rocketry, Software and more.  As the
+school year progresses, club members will add skills from earlier topics to
+their toolkit which they may bring to bear for solving more interdisciplinary
+challenges. If students develop an affinity to certain activities then we'll
+find ways to incorporate those activities into the various subjects that we
+cover. We'll also include tangential topics based on student interest.
+
+Club members will be using tools that may typically be labeled "Keep out of
+reach of children" (e.g. cordless drill, soldering iron, etc.). We'll be sure
+to closely supervise as necessary but also promote empowering students to use
+tools safely and effectively. On days where we use tools we'll always start out
+by emphasizing safety procedures and make sure participants are wearing
+appropriate safety gear. Additional precautions will be taken based on age.
+
+Occasionally we may ask students to bring in craft supplies, various
+recyclables or broken gadgets from home for use in the club. If you have a
+technological household item that you are going to throw away, consider hanging
+on to it to send in when called for so that we can explore some reverse
+engineering and disassembling skills.
+
+Club meetings will be weekly occurring after school on Tuesdays. Parents are
+welcome to attend meetings to help with organization and safety but remember,
+please try to participate only as a passive resource. The process of trying to
+solve a problem without boundary is part of the joy of engineering. As
+difficult as it may be to watch your child try to do something the "wrong" way,
+this more often than not can lead to a very clever solution that you will find
+wonderfully surprising.
+
+Finally, we may plan an occasional weekend meet up at local events that are of
+interest to the club (for example, FIRST LEGO tournament).
+
+// vim: set syntax=asciidoc:
