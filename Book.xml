@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<book lang="en">
+<bookinfo>
+    <title>Young Engineers Club Curriculum</title>
+    <author>
+        <firstname>Arthur</firstname>
+        <surname>Davis</surname>
+        <email>art.davis@gmail.com</email>
+    </author>
+    <authorinitials>AD</authorinitials>
+</bookinfo>
+<preface id="_introduction">
+<title>Introduction</title>
+<simpara>Traditionally, education in the field of engineering is not made available to
+students until they reach the college level. Even though primary school
+students may not be prepared to handle the advanced science and mathematics
+that are the typical domain of the engineering disciplines it&#8217;s never too early
+to apply engineering principles to solving problems.</simpara>
+<simpara>The Young Engineers Club is open to all ages attending the Saratoga Independent
+School and will expose students to engineering fundamentals on a level they
+will find engaging and fun.</simpara>
+<simpara>Each club meeting will briefly introduce an engineering discipline and then
+pose an open ended engineering challenge in that realm.  Sometimes the whole
+club will work together to solve a problem, other times we will break out in to
+teams for some friendly competition. This self-directed problem based
+approach is an enjoyable way to foster engineering fundamentals such as
+innovation and original thought.</simpara>
+<simpara>Engineering areas that we&#8217;ll be exploring include: Acoustical, Aerospace,
+Architectural, Biomedical, Chemical, Computer Aided Design, Electrical,
+Mechanical, Naval, Optical, Robotics, Rocketry, Software and more.  As the
+school year progresses, club members will add skills from earlier topics to
+their toolkit which they may bring to bear for solving more interdisciplinary
+challenges. If students develop an affinity to certain activities then we&#8217;ll
+find ways to incorporate those activities into the various subjects that we
+cover. We&#8217;ll also include tangential topics based on student interest.</simpara>
+<simpara>Club members will be using tools that may typically be labeled "Keep out of
+reach of children" (e.g. cordless drill, soldering iron, etc.). We&#8217;ll be sure
+to closely supervise as necessary but also promote empowering students to use
+tools safely and effectively. On days where we use tools we&#8217;ll always start out
+by emphasizing safety procedures and make sure participants are wearing
+appropriate safety gear. Additional precautions will be taken based on age.</simpara>
+<simpara>Occasionally we may ask students to bring in craft supplies, various
+recyclables or broken gadgets from home for use in the club. If you have a
+technological household item that you are going to throw away, consider hanging
+on to it to send in when called for so that we can explore some reverse
+engineering and disassembling skills.</simpara>
+<simpara>Club meetings will be weekly occurring after school on Tuesdays. Parents are
+welcome to attend meetings to help with organization and safety but remember,
+please try to participate only as a passive resource. The process of trying to
+solve a problem without boundary is part of the joy of engineering. As
+difficult as it may be to watch your child try to do something the "wrong" way,
+this more often than not can lead to a very clever solution that you will find
+wonderfully surprising.</simpara>
+<simpara>Finally, we may plan an occasional weekend meet up at local events that are of
+interest to the club (for example, FIRST LEGO tournament).</simpara>
+</preface>
+<part id="_workshop_1_what_is_engineering">
+<title>Workshop 1: What is Engineering?</title>
+<chapter id="_what_is_engineering">
+<title>What is Engineering?</title>
+<section id="_disciplines">
+<title>Disciplines</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Engineering Fundamentals
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_setup">
+<title>Setup</title>
+<section id="_resources">
+<title>Resources</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf">http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_materials">
+<title>Materials</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Large whiteboard and dry erase markers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Masking tape (that will be easily removable from whiteboard)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Index cards
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computer workstation with internet access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Make Magazines
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Various gears and other engineering like gizmos
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+3-hole engineering graph paper
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_location">
+<title>Location</title>
+<simpara>Indoor classroom/lab environment</simpara>
+</section>
+<section id="_preparation">
+<title>Preparation</title>
+<simpara>Distribute the gears/gizmos, magazines and index cards across all the classroom
+tables.  Don&#8217;t offer direction one way or another whether the kids are allowed
+to touch these things. When they do start playing/reading don&#8217;t make them stop
+when you move on to new activities.</simpara>
+<simpara>Have a computer workstation set up and pointing at the webpage:
+<ulink url="http://spacefem.com/quizzes/engineer/">http://spacefem.com/quizzes/engineer/</ulink> During the challenge allow students to
+individually come up and take the quiz (with assistance if necessary).  Have
+them log their results on the first page in their engineering notebook.</simpara>
+</section>
+</section>
+<section id="_challenge">
+<title>Challenge</title>
+<simpara>Pose the question "What is engineering?". Allow the discussion to be
+driven by the students. Invite the students to write down or draw something on
+the index cards that they think has to do with engineering. Let them make as
+many index cards as they want.</simpara>
+<simpara>Also create cards (optionally extra large) with your own selection of
+engineering disciplines.  My choices include: Acoustical, Aerospace,
+Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided,
+Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software</simpara>
+<simpara>Place your cards up on the board and have the kids group their cards with
+the topical areas they think they fit with. You can connect categories
+with marker lines and/or have multiple cards made if they fit into several
+categories. Add categories as necessary. Try to use Venn diagrams to group
+things together.</simpara>
+<simpara>Based on the results ask the students to pick some of their favorite cards
+and try to identify a discipline that they like. Have them log the result
+in their notebook and compare that to their quiz results. Have them put their
+name and date on the page.</simpara>
+<simpara>Redistribute the notebooks so everyone has somebody else&#8217;s notebook.
+Invite the students to report on whose notebook they got and what kind of
+engineer their colleague is. As a "peer review" then they can sign and date
+their name at the bottom of the page and return the notebook to the owner.</simpara>
+</section>
+</chapter>
+</part>
+<part id="_workshop_2_siphon_and_boat">
+<title>Workshop 2: Siphon and Boat</title>
+<chapter id="_siphon">
+<title>Siphon</title>
+<section id="_disciplines_2">
+<title>Disciplines</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_setup_2">
+<title>Setup</title>
+<section id="_materials_2">
+<title>Materials</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+20ft of clear 1" diameter tubing
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Several large balloons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Food coloring
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Step ladder
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_location_2">
+<title>Location</title>
+<simpara>Best to do this activity on a hot day outside.</simpara>
+</section>
+</section>
+<section id="_demonstration">
+<title>Demonstration</title>
+<simpara>Illustrate the workings of the siphon.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Place the tub up on the step ladder and fill it with water.
+</simpara>
+</listitem>
+</itemizedlist>
+<warning><simpara>STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
+    HIGH IS A FALLING HAZARD.</simpara></warning>
+<itemizedlist>
+<listitem>
+<simpara>
+Fill the hose with water, block it with your thumb and take one end out to
+  demonstrate siphoning.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Go to aim the end of the hose at the students but bring it up above the level
+  of the tub as you do so and the water will stop flowing.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bring the hose down to look into the end "Huh I wonder why it&#8217;s not working"
+  to get sprayed in the face for raucous laughter.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Partially block the tube output with your thumb to spray the water.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask the class if they think you can spray the water back up into the tub
+  and show what happens.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask what will happen if an empty balloon is put at the end of the siphon.
+  A balloon full of air? Hold the tube above the level of the tub to stop
+  the flow of water and put a drop of food coloring in. Then try the different
+  tests with the balloon.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Fill the tube with water, add food coloring and plug it with your thumb.
+  Bring it down below the level of the tub. Remove the end in the tub and allow
+  some water to bleed out with your thumb so there is a large air gap on the
+  tub side. Put the tube on the tub side back in the water. Ask the class
+  what they think will happen when you remove your thumb and show them. Try
+  it with different sized air gaps.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Challenge the students for a way to get the siphon going without submerging
+  the tube. If the water and the tube are clean enough, demonstrate sucking
+  out the air in the tube to get the siphon started.
+</simpara>
+</listitem>
+</itemizedlist>
+<important><simpara>WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
+    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</simpara></important>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatively if there is a hose available to backfill the tube (or make
+  a water balloon that can be used to back fill the tube) this also will get
+  the siphon going.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When demonstration is complete, drain the tub to a safe weight and take it
+  down from the ladder to refill on the ground for the club&#8217;s engineering
+  challenge.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_unsinkable_boat">
+<title>Unsinkable Boat</title>
+<section id="_disciplines_3">
+<title>Disciplines</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_setup_3">
+<title>Setup</title>
+<section id="_resources_2">
+<title>Resources</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/parentseducators/resources/watercraft.html">http://pbskids.org/designsquad/parentseducators/resources/watercraft.html</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_materials_3">
+<title>Materials</title>
+<itemizedlist>
+<listitem>
+<simpara>
+50 plastic straws per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+1 roll of tape per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+25 pennies
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+5 paper cups per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic Wrap
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Additional coins/washers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Digital scale (or triple balance scale)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Internet Media Access
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_location_3">
+<title>Location</title>
+<simpara>Inside or outside on a warm day.</simpara>
+</section>
+<section id="_preparation_2">
+<title>Preparation</title>
+<simpara>Fill the tub with water.</simpara>
+</section>
+</section>
+<section id="_demonstration_2">
+<title>Demonstration</title>
+<simpara>Show the Design Squad video:
+<ulink url="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</ulink></simpara>
+</section>
+<section id="_teaming">
+<title>Teaming</title>
+<simpara>Teams of 2-3 making sure youngest are teamed with older student(s)</simpara>
+</section>
+<section id="_challenge_2">
+<title>Challenge</title>
+<simpara>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</simpara>
+<simpara>Give each team tape and straws and let them have at it. Have teams log their
+designs and results in their engineering notebooks. For those interested, try
+adding additional weight (coins and/or washers) to see how much their boats can
+take before sinking.</simpara>
+<simpara>Students can weigh the coins/washers their boat held and log it in their
+notebook. If the scale is sensitive enough they might also weigh their boat.</simpara>
+</section>
+</chapter>
+</part>
+<part id="_workshop_3_paddle_power">
+<title>Workshop 3: Paddle Power</title>
+<chapter id="_paddle_power">
+<title>Paddle Power</title>
+<section id="_disciplines_4">
+<title>Disciplines</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_setup_4">
+<title>Setup</title>
+<section id="_resources_3">
+<title>Resources:</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Design Squad Season 2, Episode 8: Aquatic Robots
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_materials_4">
+<title>Materials</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Internet Media Access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Per team:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Chipboard cardboard (such as a cereal box)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic tape
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+2 paper cups (≥8oz)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic wrap
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+5 rubber bands
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Scissors
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Straws
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Washers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Dowels
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_location_4">
+<title>Location</title>
+<simpara>Inside or outside on a warm day</simpara>
+</section>
+<section id="_preparation_3">
+<title>Preparation</title>
+<simpara>Fill the tub with water.</simpara>
+</section>
+</section>
+<section id="_demonstration_3">
+<title>Demonstration</title>
+<simpara>Watch the Design Squad video when done.
+<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink></simpara>
+<simpara>Loop a 1x2" piece of cardboard through a rubber band hold taught between
+your fingers. Illustrate winding it up and letting it go to show how it spins.</simpara>
+<simpara>Introduct potential (wound up rubber band) and kinetic energy (unwinding
+rubber band and spinning paddle).</simpara>
+<section id="_class_inquiry">
+<title>Class Inquiry</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Where is the energy stored?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can the potential energy be increase?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can you tell when potential energy is being used?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What are the different kinds of kinetic energy that occurs as the boat moves
+  through the water?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What other examples of potential and kinetic energy can you think of?
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section id="_teaming_2">
+<title>Teaming</title>
+<simpara>Teams of 2-3 making sure youngest are teamed with older student(s)</simpara>
+</section>
+<section id="_challenge_3">
+<title>Challenge</title>
+<simpara>Build a boat that paddles itself using a rubber band as its power source.</simpara>
+<simpara>Time how long it takes for the boat to travel across the tub. Have students
+keep records in their engineeering notebooks.</simpara>
+</section>
+</chapter>
+</part>
+</book>

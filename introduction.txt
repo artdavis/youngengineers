@@ -1,10 +1,3 @@
-Young Engineers Club Curriculum
-===============================
-Arthur Davis <art.davis@gmail.com>
-
-Introduction
-------------
-
 Traditionally, education in the field of engineering is not made available to
 students until they reach the college level. Even though primary school
 students may not be prepared to handle the advanced science and mathematics

@@ -1,0 +1,20 @@
+Young Engineers Club Curriculum
+===============================
+Arthur Davis <art.davis@gmail.com>
+:doctype: book
+
+[preface]
+== Introduction
+include::introduction.txt[]
+
+= Workshop {counter:workshop}: What is Engineering?
+include::workshops/what_is_engineering.txt[]
+
+= Workshop {counter:workshop}: Siphon and Boat
+include::demos/siphon.txt[]
+include::workshops/unsinkable_boat.txt[]
+
+= Workshop {counter:workshop}: Paddle Power
+include::workshops/paddle_power.txt[]
+
+// vim: set syntax=asciidoc:

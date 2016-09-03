@@ -1,0 +1,61 @@
+== What is Engineering?
+=== Disciplines
+- Engineering Fundamentals
+
+=== Setup
+
+==== Resources
+* http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
+* http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf
+
+==== Materials
+* Large whiteboard and dry erase markers
+* Masking tape (that will be easily removable from whiteboard)
+* Index cards
+* Computer workstation with internet access
+* Make Magazines
+* Various gears and other engineering like gizmos
+* 3-hole engineering graph paper
+
+==== Location
+Indoor classroom/lab environment
+
+==== Preparation
+Distribute the gears/gizmos, magazines and index cards across all the classroom
+tables.  Don't offer direction one way or another whether the kids are allowed
+to touch these things. When they do start playing/reading don't make them stop
+when you move on to new activities.
+
+Have a computer workstation set up and pointing at the webpage:
+http://spacefem.com/quizzes/engineer/ During the challenge allow students to
+individually come up and take the quiz (with assistance if necessary).  Have
+them log their results on the first page in their engineering notebook.
+
+=== Challenge
+Pose the question "What is engineering?". Allow the discussion to be
+driven by the students. Invite the students to write down or draw something on
+the index cards that they think has to do with engineering. Let them make as
+many index cards as they want.
+
+Also create cards (optionally extra large) with your own selection of
+engineering disciplines.  My choices include: Acoustical, Aerospace,
+Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided,
+Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software
+
+Place your cards up on the board and have the kids group their cards with
+the topical areas they think they fit with. You can connect categories
+with marker lines and/or have multiple cards made if they fit into several
+categories. Add categories as necessary. Try to use Venn diagrams to group
+things together.
+
+Based on the results ask the students to pick some of their favorite cards
+and try to identify a discipline that they like. Have them log the result
+in their notebook and compare that to their quiz results. Have them put their
+name and date on the page.
+
+Redistribute the notebooks so everyone has somebody else's notebook.
+Invite the students to report on whose notebook they got and what kind of
+engineer their colleague is. As a "peer review" then they can sign and date
+their name at the bottom of the page and return the notebook to the owner.
+
+// vim: set syntax=asciidoc:

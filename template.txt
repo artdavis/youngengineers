@@ -1,0 +1,25 @@
+== Title
+=== Disciplines
+- 
+
+=== Setup
+
+==== Resources
+- 
+
+==== Materials
+- 
+
+==== Location
+Where?
+
+==== Preparation
+
+=== Demonstration
+
+=== Teaming
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+=== Challenge
+
+// vim: set syntax=asciidoc:

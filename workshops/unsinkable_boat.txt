@@ -1,0 +1,50 @@
+== Unsinkable Boat
+=== Disciplines
+- Naval Engineering
+
+=== Setup
+
+==== Resources
+- http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
+- http://pbskids.org/designsquad/parentseducators/resources/watercraft.html
+- http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf
+- http://pbskids.org/designsquad/build/watercraft/
+
+==== Materials
+- 50 plastic straws per team
+- 1 roll of tape per team
+- 25 pennies
+- 5 paper cups per team
+- Plastic Wrap
+- Additional coins/washers
+- Large tub or large watertight storage bin
+- Stopwatch
+- Digital scale (or triple balance scale)
+- Internet Media Access
+
+==== Location
+Inside or outside on a warm day.
+
+==== Preparation
+Fill the tub with water.
+
+
+=== Demonstration
+Show the Design Squad video:
+http://pbskids.org/designsquad/build/watercraft/
+
+=== Teaming
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+=== Challenge
+Build a boat that can hold 25 pennies for at least 10 seconds before sinking
+
+Give each team tape and straws and let them have at it. Have teams log their
+designs and results in their engineering notebooks. For those interested, try
+adding additional weight (coins and/or washers) to see how much their boats can
+take before sinking.
+
+Students can weigh the coins/washers their boat held and log it in their
+notebook. If the scale is sensitive enough they might also weigh their boat.
+
+// vim: set syntax=asciidoc:

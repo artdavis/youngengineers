@@ -1,0 +1,61 @@
+== Siphon
+=== Disciplines
+- Naval Engineering
+
+
+=== Setup
+
+==== Materials
+- Large tub or large watertight storage bin
+- 20ft of clear 1" diameter tubing
+- Several large balloons
+- Food coloring
+- Step ladder
+
+==== Location
+Best to do this activity on a hot day outside.
+
+
+=== Demonstration
+Illustrate the workings of the siphon.
+
+- Place the tub up on the step ladder and fill it with water.
+
+WARNING: STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
+    HIGH IS A FALLING HAZARD.
+
+- Fill the hose with water, block it with your thumb and take one end out to
+  demonstrate siphoning.
+- Go to aim the end of the hose at the students but bring it up above the level
+  of the tub as you do so and the water will stop flowing.
+- Bring the hose down to look into the end "Huh I wonder why it's not working"
+  to get sprayed in the face for raucous laughter.
+- Partially block the tube output with your thumb to spray the water.
+- Ask the class if they think you can spray the water back up into the tub
+  and show what happens.
+- Ask what will happen if an empty balloon is put at the end of the siphon.
+  A balloon full of air? Hold the tube above the level of the tub to stop
+  the flow of water and put a drop of food coloring in. Then try the different
+  tests with the balloon.
+- Fill the tube with water, add food coloring and plug it with your thumb.
+  Bring it down below the level of the tub. Remove the end in the tub and allow
+  some water to bleed out with your thumb so there is a large air gap on the
+  tub side. Put the tube on the tub side back in the water. Ask the class
+  what they think will happen when you remove your thumb and show them. Try
+  it with different sized air gaps.
+- Challenge the students for a way to get the siphon going without submerging
+  the tube. If the water and the tube are clean enough, demonstrate sucking
+  out the air in the tube to get the siphon started.
+
+IMPORTANT: WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
+    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.
+
+-  Alternatively if there is a hose available to backfill the tube (or make
+  a water balloon that can be used to back fill the tube) this also will get
+  the siphon going.
+- When demonstration is complete, drain the tub to a safe weight and take it
+  down from the ladder to refill on the ground for the club's engineering
+  challenge.
+
+
+// vim: set syntax=asciidoc:
