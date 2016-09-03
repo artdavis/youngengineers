@@ -1,2 +1,2 @@
 # youngengineers
-Curriculum for Educating Young Engineers Secondary School After School Program
+Curriculum for educating young engineers in a secondary school weekly after-school program.
