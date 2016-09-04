@@ -1,9 +1,10 @@
-# youngengineers
-Curriculum for educating young engineers in a secondary school weekly
-after-school program.
+# Young Engineers Club Curriculum
+
+This is a curriculum for a teacher/facilitator to use in a secondary school
+weekly young engineers educational program.
 
 For a complete formatted compilation of all the information here, check
-out the file `Book.pdf`.
+out `Young_Engineers_Club_Curriculum.pdf`.
 
 The documentation here is written in [asciidoc](http://asciidoc.org/) format.
 You can build the pdf document via docbook:
