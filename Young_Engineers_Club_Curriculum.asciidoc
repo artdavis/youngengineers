@@ -6,28 +6,245 @@ Arthur Davis <art.davis@gmail.com>
 :toc:
 
 [preface]
-== Introduction
 include::introduction.asciidoc[]
 
 = Curriculum Workshops
 
 == Workshop {counter:workshop}: Intro to Engineering
+****
+2016-09-20
+
+First Day
+****
 include::workshops/what_is_engineering.asciidoc[]
 
 == Workshop {counter:workshop}: Siphon and Boat
+****
+2016-09-27
+****
 include::demos/siphon.asciidoc[]
 include::workshops/unsinkable_boat.asciidoc[]
 
 == Workshop {counter:workshop}: Paddle Power
+****
+2016-10-04
+****
 include::workshops/paddle_power.asciidoc[]
 
 == Workshop {counter:workshop}: Block Tower Battle
+****
+2016-10-11
+
+Meeting on 10/18 will be cancelled.
+****
 include::workshops/block_tower_battle.asciidoc[]
+
+== Workshop {counter:workshop}
+****
+2016-10-25
+
+Last meeting before Halloween
+****
+Build trebuchet/slingshot
+
+== Workshop {counter:workshop}
+****
+2016-11-01
+****
+Punkin Chunkin
+
+== Workshop {counter:workshop}
+****
+2016-11-08
+****
+LEGO Engineering Challenges
+
+== Workshop {counter:workshop}
+****
+2016-11-15
+
+Meeting on 11/22 may or may not be cancelled.
+****
+SCONES: Conic Section Cone Cakes. Vi Hart videos on cooking with math.
+
+== Workshop {counter:workshop}
+****
+2016-11-22
+
+IMPORTANT: Check with parents whether to cancel this meeting due to
+Thanksgiving Holiday.
+****
+
+== Workshop {counter:workshop}
+****
+2016-11-29
+
+Field trip to Balston Spa tournament over the weekend 12/3.
+****
+FIRST LEGO Challenges. Watch cideos of past challenges.
+
+== Workshop {counter:workshop}
+****
+2016-12-06
+****
+Odyssey of the Mind videos and sample challenges.
+
+== Workshop {counter:workshop}
+****
+2016-12-13
+****
+Bridge Building Challenge
+
+== Workshop {counter:workshop}
+****
+2016-12-20
+
+Last meeting before Christmas/New Years break.
+Meeting on 12/27 will be cancelled.
+
+****
+Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
+
+== Workshop {counter:workshop}
+****
+2017-01-03
+****
+Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.
+
+== Workshop {counter:workshop}
+****
+2017-01-10
+****
+Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
+
+== Workshop {counter:workshop}
+****
+2017-01-17
+****
+Make Makey, soldering, electrical engineering
+
+== Workshop {counter:workshop}
+****
+2017-01-24
+****
+Software engineering, coding, scratch, python, lightbot, TurtleArt
+
+== Workshop {counter:workshop}
+****
+2017-01-31
+****
+CAD, OpenSCAD, OnShape, Inventor
+
+== Workshop {counter:workshop}
+****
+2017-02-07
+****
+3D Printing, Perler Beads, Foam Board layering, bring in printer,
+automation, plastics mfg.
+
+== Workshop {counter:workshop}
+****
+2017-02-14
+
+Meeting on 2/21 will be cancelled. Meeting is before valentines.
+****
+Biomedical engineering, 3D Printed hearts, Red blood siphon pump
+
+
+== Workshop {counter:workshop}
+****
+2017-02-28
+****
+Biomedical engineering, Optical Engineering
+Monoculight Maker Faire Edition
+
+== Workshop {counter:workshop}
+****
+2017-03-07
+****
+Optical Engineering, telescope, microscope, rochester cloak, giant Frensl lenses
+
+== Workshop {counter:workshop}
+****
+2017-03-14
+****
+LED light mixer, multi-disciplinary, LEDs, Optics, Electronigs, 3D Printing
+
+== Workshop {counter:workshop}
+****
+2017-03-21
+****
+Raspberry Pi
+
+== Workshop {counter:workshop}
+****
+2017-03-28
+****
+== Workshop {counter:workshop}
+****
+2017-04-04
+****
+Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
+force, egg survival, egg destruction
+
+== Workshop {counter:workshop}
+****
+2017-04-11
+
+Meeting on 4/18 will be cancelled
+Pre-Easter
+****
+Egg drop challenge
+Egg Olympics
+
+== Workshop {counter:workshop}
+****
+2017-04-25
+****
+Rocketry, start build, Launch electronics
+
+== Workshop {counter:workshop}
+****
+2017-05-02
+****
+Rocket Launch
+
+== Workshop {counter:workshop}
+****
+2017-05-09
+****
+Battlebots build
+
+== Workshop {counter:workshop}
+****
+2017-05-16
+****
+Battlebots battle
+
+== Workshop {counter:workshop}
+****
+2017-05-23
+****
+
+== Workshop {counter:workshop}
+****
+2017-05-30
+****
+
+== Workshop {counter:workshop}
+****
+2017-06-06
+****
+Engineering Olympic Games. Paper airplane challenge, egg toss, egg launch.
 
 = Supplemental Workshops
 
 == Supplemental {counter:supplemental}: Ramp Racers
 include::supplemental/ramp_racers.asciidoc[]
+
+= Appendix
+[appendix]
+include::materials.asciidoc[]
 
 [colophon]
 == License
