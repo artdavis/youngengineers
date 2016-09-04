@@ -8,8 +8,8 @@ out the file `Book.pdf`.
 The documentation here is written in [asciidoc](http://asciidoc.org/) format.
 You can build the pdf document via docbook:
 ```bash
-asciidoc -b docbook Book.txt
-dblatex Book.xml
+asciidoc -b docbook Young_Engineers_Club_Curriculum.asciidoc
+dblatex Young_Engineers_Club_Curriculum.xml
 ```
 
 The `demos/` directory present non-interactive lessons that may be
