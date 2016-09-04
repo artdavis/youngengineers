@@ -1,31 +1,31 @@
-== Title
-=== Disciplines
+=== Title
+.Disciplines:
 - 
 
-=== Setup
+.Setup:
 
-==== Resources
+.Resources:
 - 
 
-==== Materials
+.Materials:
 - 
 
-==== Location
+.Location:
 Where?
 
-==== Preparation
+.Preparation:
 
-=== Demonstration
+.Demonstration:
 
-==== Class Inquiry
+.Class Inquiry:
 
-=== Teaming
+.Teaming:
 Teams of 2-3 making sure youngest are teamed with older student(s)
 
-=== Challenge
+.Challenge:
 
-==== Class Inquiry
+.Class Inquiry:
 
-==== Further Challenges
+.Further Challenges:
 
 // vim: set syntax=asciidoc:

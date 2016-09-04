@@ -1,10 +1,10 @@
-== Block Tower Battle
-=== Disciplines
+=== Block Tower Battle
+.Disciplines:
 - Architectural Engineering
 
-=== Setup
+.Setup:
 
-==== Materials
+.Materials:
 - Large Building blocks
   - Alternatively plastic cups, cut up 2x4's, paper/cardboard crafted blocks
 - 10-20 foam balls or wiffle balls
@@ -12,20 +12,20 @@
 - Stopwatch
 - TODO: materials for ball hurling contraptions
 
-==== Location
+.Location:
 Gymnasium or outdoors
 
-==== Preparation
+.Preparation:
 TODO: Locate some appropriate video on the topic
 
-=== Demonstration
+.Demonstration:
 
-==== Class Inquiry
+.Class Inquiry:
 
-=== Teaming
+.Teaming:
 Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.
 
-=== Challenge
+.Challenge:
 "Build the best structure for a variety of challenges"
 
 If you have enough building blocks for all teams, they can build their
@@ -43,9 +43,9 @@ can knock down their tower with the fewest shots. Otherwise teams can pit
 their building agains other teams wrecking contraptions. Be sure to encourage
 keeping track of the the results in the students notebooks.
 
-==== Class Inquiry
+.Class Inquiry:
 
-==== Further Challenges
+.Further Challenges:
 
 // vim: set syntax=asciidoc:
 

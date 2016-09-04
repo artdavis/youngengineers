@@ -1,16 +1,16 @@
-== Paddle Power
-=== Disciplines
+=== Paddle Power
+.Disciplines:
 - Naval Engineering
 - Mechanical Engineering
 
-=== Setup
+.Setup:
 
-==== Resources:
+.Resources:
 - http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
 - http://pbskids.org/designsquad/build/paddle-power/
 - Design Squad Season 2, Episode 8: Aquatic Robots
 
-==== Materials
+.Materials:
 - Large tub or large watertight storage bin
 - Stopwatch
 - Internet Media Access
@@ -25,34 +25,34 @@
   * Washers
   * Dowels
 
-==== Location
+.Location:
 Inside or outside on a warm day
 
-==== Preparation
+.Preparation:
 Fill the tub with water.
 
-=== Demonstration
+.Demonstration:
 Watch the Design Squad video when done.
 http://pbskids.org/designsquad/build/paddle-power/
 
 Loop a 1x2" piece of cardboard through a rubber band hold taught between
 your fingers. Illustrate winding it up and letting it go to show how it spins.
 
-Introduct potential (wound up rubber band) and kinetic energy (unwinding
+Introduce potential (wound up rubber band) and kinetic energy (unwinding
 rubber band and spinning paddle).
 
-==== Class Inquiry
+.Class Inquiry:
 * Where is the energy stored?
-* How can the potential energy be increase?
+* How can the potential energy be increased?
 * How can you tell when potential energy is being used?
 * What are the different kinds of kinetic energy that occurs as the boat moves
   through the water?
 * What other examples of potential and kinetic energy can you think of?
 
-=== Teaming
-Teams of 2-3 making sure youngest are teamed with older student(s)
+.Teaming:
+Teams of 2-3. Partnering younger with older students.
 
-=== Challenge
+.Challenge:
 Build a boat that paddles itself using a rubber band as its power source.
 
 Time how long it takes for the boat to travel across the tub. Have students

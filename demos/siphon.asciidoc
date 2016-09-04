@@ -1,22 +1,22 @@
-== Siphon
-=== Disciplines
+=== Siphon
+.Disciplines:
 - Naval Engineering
 
+.Setup:
 
-=== Setup
-
-==== Materials
+.Materials:
 - Large tub or large watertight storage bin
 - 20ft of clear 1" diameter tubing
 - Several large balloons
 - Food coloring
 - Step ladder
 
-==== Location
-Best to do this activity on a hot day outside.
+.Location:
+Outside on a warm day near a water hose feed or
+in a lab/kitchen area with a large sink.
 
 
-=== Demonstration
+.Demonstration
 Illustrate the workings of the siphon.
 
 - Place the tub up on the step ladder and fill it with water.

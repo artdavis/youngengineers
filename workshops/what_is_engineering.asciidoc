@@ -1,14 +1,16 @@
-== What is Engineering?
-=== Disciplines
+=== What is Engineering?
+
+.Disciplines:
+
 - Engineering Fundamentals
 
-=== Setup
+.Setup:
 
-==== Resources
+.Resources:
 * http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
 * http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf
 
-==== Materials
+.Materials:
 * Large whiteboard and dry erase markers
 * Masking tape (that will be easily removable from whiteboard)
 * Index cards
@@ -17,10 +19,10 @@
 * Various gears and other engineering like gizmos
 * 3-hole engineering graph paper
 
-==== Location
+.Location:
 Indoor classroom/lab environment
 
-==== Preparation
+.Preparation:
 Distribute the gears/gizmos, magazines and index cards across all the classroom
 tables.  Don't offer direction one way or another whether the kids are allowed
 to touch these things. When they do start playing/reading don't make them stop
@@ -31,7 +33,7 @@ http://spacefem.com/quizzes/engineer/ During the challenge allow students to
 individually come up and take the quiz (with assistance if necessary).  Have
 them log their results on the first page in their engineering notebook.
 
-=== Challenge
+.Challenge:
 Pose the question "What is engineering?". Allow the discussion to be
 driven by the students. Invite the students to write down or draw something on
 the index cards that they think has to do with engineering. Let them make as

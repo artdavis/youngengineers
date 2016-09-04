@@ -58,25 +58,20 @@ wonderfully surprising.</simpara>
 <simpara>Finally, we may plan an occasional weekend meet up at local events that are of
 interest to the club (for example, FIRST LEGO tournament).</simpara>
 </preface>
-<part id="_workshop_1_what_is_engineering">
-<title>Workshop 1: What is Engineering?</title>
-<chapter id="_what_is_engineering">
+<part id="_curriculum_workshops">
+<title>Curriculum Workshops</title>
+<chapter id="_workshop_1_intro_to_engineering">
+<title>Workshop 1: Intro to Engineering</title>
+<section id="_what_is_engineering">
 <title>What is Engineering?</title>
-<section id="_disciplines">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Engineering Fundamentals
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup">
-<title>Setup</title>
-<section id="_resources">
-<title>Resources</title>
-<itemizedlist>
+<itemizedlist><title>Resources:</title>
 <listitem>
 <simpara>
 <ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
@@ -88,10 +83,7 @@ Engineering Fundamentals
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_materials">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 Large whiteboard and dry erase markers
@@ -128,29 +120,19 @@ Various gears and other engineering like gizmos
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location">
-<title>Location</title>
-<simpara>Indoor classroom/lab environment</simpara>
-</section>
-<section id="_preparation">
-<title>Preparation</title>
-<simpara>Distribute the gears/gizmos, magazines and index cards across all the classroom
+<formalpara><title>Location:</title><para>Indoor classroom/lab environment</para></formalpara>
+<formalpara><title>Preparation:</title><para>Distribute the gears/gizmos, magazines and index cards across all the classroom
 tables.  Don&#8217;t offer direction one way or another whether the kids are allowed
 to touch these things. When they do start playing/reading don&#8217;t make them stop
-when you move on to new activities.</simpara>
+when you move on to new activities.</para></formalpara>
 <simpara>Have a computer workstation set up and pointing at the webpage:
 <ulink url="http://spacefem.com/quizzes/engineer/">http://spacefem.com/quizzes/engineer/</ulink> During the challenge allow students to
 individually come up and take the quiz (with assistance if necessary).  Have
 them log their results on the first page in their engineering notebook.</simpara>
-</section>
-</section>
-<section id="_challenge">
-<title>Challenge</title>
-<simpara>Pose the question "What is engineering?". Allow the discussion to be
+<formalpara><title>Challenge:</title><para>Pose the question "What is engineering?". Allow the discussion to be
 driven by the students. Invite the students to write down or draw something on
 the index cards that they think has to do with engineering. Let them make as
-many index cards as they want.</simpara>
+many index cards as they want.</para></formalpara>
 <simpara>Also create cards (optionally extra large) with your own selection of
 engineering disciplines.  My choices include: Acoustical, Aerospace,
 Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided,
@@ -170,26 +152,18 @@ engineer their colleague is. As a "peer review" then they can sign and date
 their name at the bottom of the page and return the notebook to the owner.</simpara>
 </section>
 </chapter>
-</part>
-<part id="_workshop_2_siphon_and_boat">
+<chapter id="_workshop_2_siphon_and_boat">
 <title>Workshop 2: Siphon and Boat</title>
-<chapter id="_siphon">
+<section id="_siphon">
 <title>Siphon</title>
-<section id="_disciplines_2">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Naval Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup_2">
-<title>Setup</title>
-<section id="_materials_2">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 Large tub or large watertight storage bin
@@ -216,15 +190,9 @@ Step ladder
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location_2">
-<title>Location</title>
-<simpara>Best to do this activity on a hot day outside.</simpara>
-</section>
-</section>
-<section id="_demonstration">
-<title>Demonstration</title>
-<simpara>Illustrate the workings of the siphon.</simpara>
+<formalpara><title>Location:</title><para>Outside on a warm day near a water hose feed or
+in a lab/kitchen area with a large sink.</para></formalpara>
+<formalpara><title>Demonstration</title><para>Illustrate the workings of the siphon.</para></formalpara>
 <itemizedlist>
 <listitem>
 <simpara>
@@ -309,24 +277,16 @@ When demonstration is complete, drain the tub to a safe weight and take it
 </listitem>
 </itemizedlist>
 </section>
-</chapter>
-<chapter id="_unsinkable_boat">
+<section id="_unsinkable_boat">
 <title>Unsinkable Boat</title>
-<section id="_disciplines_3">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Naval Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup_3">
-<title>Setup</title>
-<section id="_resources_2">
-<title>Resources</title>
-<itemizedlist>
+<itemizedlist><title>Resources:</title>
 <listitem>
 <simpara>
 <ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
@@ -348,10 +308,7 @@ Naval Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_materials_3">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 50 plastic straws per team
@@ -403,28 +360,12 @@ Internet Media Access
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location_3">
-<title>Location</title>
-<simpara>Inside or outside on a warm day.</simpara>
-</section>
-<section id="_preparation_2">
-<title>Preparation</title>
-<simpara>Fill the tub with water.</simpara>
-</section>
-</section>
-<section id="_demonstration_2">
-<title>Demonstration</title>
-<simpara>Show the Design Squad video:
-<ulink url="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</ulink></simpara>
-</section>
-<section id="_teaming">
-<title>Teaming</title>
-<simpara>Teams of 2-3 making sure youngest are teamed with older student(s)</simpara>
-</section>
-<section id="_challenge_2">
-<title>Challenge</title>
-<simpara>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</simpara>
+<formalpara><title>Location:</title><para>Inside or outside on a warm day.</para></formalpara>
+<formalpara><title>Preparation:</title><para>Fill the tub with water.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Show the Design Squad video:
+<ulink url="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</ulink></para></formalpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+<formalpara><title>Challenge:</title><para>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</para></formalpara>
 <simpara>Give each team tape and straws and let them have at it. Have teams log their
 designs and results in their engineering notebooks. For those interested, try
 adding additional weight (coins and/or washers) to see how much their boats can
@@ -433,14 +374,11 @@ take before sinking.</simpara>
 notebook. If the scale is sensitive enough they might also weigh their boat.</simpara>
 </section>
 </chapter>
-</part>
-<part id="_workshop_3_paddle_power">
+<chapter id="_workshop_3_paddle_power">
 <title>Workshop 3: Paddle Power</title>
-<chapter id="_paddle_power">
+<section id="_paddle_power">
 <title>Paddle Power</title>
-<section id="_disciplines_4">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Naval Engineering
@@ -452,12 +390,7 @@ Mechanical Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup_4">
-<title>Setup</title>
-<section id="_resources_3">
-<title>Resources:</title>
-<itemizedlist>
+<itemizedlist><title>Resources:</title>
 <listitem>
 <simpara>
 <ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
@@ -474,10 +407,7 @@ Design Squad Season 2, Episode 8: Aquatic Robots
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_materials_4">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 Large tub or large watertight storage bin
@@ -546,27 +476,15 @@ Dowels
 </itemizedlist>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location_4">
-<title>Location</title>
-<simpara>Inside or outside on a warm day</simpara>
-</section>
-<section id="_preparation_3">
-<title>Preparation</title>
-<simpara>Fill the tub with water.</simpara>
-</section>
-</section>
-<section id="_demonstration_3">
-<title>Demonstration</title>
-<simpara>Watch the Design Squad video when done.
-<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink></simpara>
+<formalpara><title>Location:</title><para>Inside or outside on a warm day</para></formalpara>
+<formalpara><title>Preparation:</title><para>Fill the tub with water.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Watch the Design Squad video when done.
+<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink></para></formalpara>
 <simpara>Loop a 1x2" piece of cardboard through a rubber band hold taught between
 your fingers. Illustrate winding it up and letting it go to show how it spins.</simpara>
 <simpara>Introduct potential (wound up rubber band) and kinetic energy (unwinding
 rubber band and spinning paddle).</simpara>
-<section id="_class_inquiry">
-<title>Class Inquiry</title>
-<itemizedlist>
+<itemizedlist><title>Class Inquiry:</title>
 <listitem>
 <simpara>
 Where is the energy stored?
@@ -594,39 +512,24 @@ What other examples of potential and kinetic energy can you think of?
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-</section>
-<section id="_teaming_2">
-<title>Teaming</title>
-<simpara>Teams of 2-3 making sure youngest are teamed with older student(s)</simpara>
-</section>
-<section id="_challenge_3">
-<title>Challenge</title>
-<simpara>Build a boat that paddles itself using a rubber band as its power source.</simpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+<formalpara><title>Challenge:</title><para>Build a boat that paddles itself using a rubber band as its power source.</para></formalpara>
 <simpara>Time how long it takes for the boat to travel across the tub. Have students
 keep records in their engineeering notebooks.</simpara>
 </section>
 </chapter>
-</part>
-<part id="_workshop_4_block_tower_battle">
+<chapter id="_workshop_4_block_tower_battle">
 <title>Workshop 4: Block Tower Battle</title>
-<chapter id="_block_tower_battle">
+<section id="_block_tower_battle">
 <title>Block Tower Battle</title>
-<section id="_disciplines_5">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Architectural Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup_5">
-<title>Setup</title>
-<section id="_materials_5">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 Large Building blocks
@@ -658,29 +561,10 @@ TODO: materials for ball hurling contraptions
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location_5">
-<title>Location</title>
-<simpara>Gymnasium or outdoors</simpara>
-</section>
-<section id="_preparation_4">
-<title>Preparation</title>
-<simpara>TODO: Locate some appropriate video on the topic</simpara>
-</section>
-</section>
-<section id="_demonstration_4">
-<title>Demonstration</title>
-<section id="_class_inquiry_2">
-<title>Class Inquiry</title>
-</section>
-</section>
-<section id="_teaming_3">
-<title>Teaming</title>
-<simpara>Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.</simpara>
-</section>
-<section id="_challenge_4">
-<title>Challenge</title>
-<simpara>"Build the best structure for a variety of challenges"</simpara>
+<formalpara><title>Location:</title><para>Gymnasium or outdoors</para></formalpara>
+<formalpara><title>Preparation:</title><para>TODO: Locate some appropriate video on the topic</para></formalpara>
+<formalpara><title>Teaming:</title><para>Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Build the best structure for a variety of challenges"</para></formalpara>
 <simpara>If you have enough building blocks for all teams, they can build their
 architectural structures simultaneously. Otherwise one team can build their
 structure while the other teams constructs a ball hurling device that will
@@ -693,22 +577,16 @@ team can be tasked with building it&#8217;s own "wrecking ball" device to see wh
 can knock down their tower with the fewest shots. Otherwise teams can pit
 their building agains other teams wrecking contraptions. Be sure to encourage
 keeping track of the the results in the students notebooks.</simpara>
-<section id="_class_inquiry_3">
-<title>Class Inquiry</title>
-</section>
-<section id="_further_challenges">
-<title>Further Challenges</title>
-</section>
 </section>
 </chapter>
 </part>
 <part id="_supplemental_workshops">
 <title>Supplemental Workshops</title>
-<chapter id="_ramp_racers">
+<chapter id="_supplemental_1_ramp_racers">
+<title>Supplemental 1: Ramp Racers</title>
+<section id="_ramp_racers">
 <title>Ramp Racers</title>
-<section id="_disciplines_6">
-<title>Disciplines</title>
-<itemizedlist>
+<itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
 Mechanical Engineering
@@ -720,22 +598,14 @@ Automotive Engineering
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_setup_6">
-<title>Setup</title>
-<section id="_resources_4">
-<title>Resources</title>
-<itemizedlist>
+<itemizedlist><title>Resources:</title>
 <listitem>
 <simpara>
 <ulink url="http://www.thingiverse.com/thing:1219729">http://www.thingiverse.com/thing:1219729</ulink>
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_materials_6">
-<title>Materials</title>
-<itemizedlist>
+<itemizedlist><title>Materials:</title>
 <listitem>
 <simpara>
 Ramp. A large board or table that can be tipped at an angle. You may even
@@ -769,37 +639,19 @@ Board or otherwise improvised road block
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_location_6">
-<title>Location</title>
-<simpara>Classroom/lab with materials on hand for improvised construction</simpara>
-</section>
-<section id="_preparation_5">
-<title>Preparation</title>
-<simpara>Write the challenge statement up on the whiteboard. Don&#8217;t call the "racer" a
+<formalpara><title>Location:</title><para>Classroom/lab with materials on hand for improvised construction</para></formalpara>
+<formalpara><title>Preparation:</title><para>Write the challenge statement up on the whiteboard. Don&#8217;t call the "racer" a
 "car" and don&#8217;t call attention to the fact that it doesn&#8217;t have to be a car.
-Many students may start out building cars.</simpara>
-</section>
-</section>
-<section id="_demonstration_5">
-<title>Demonstration</title>
-</section>
-<section id="_teaming_4">
-<title>Teaming</title>
-<simpara>Students may form teams or work individually</simpara>
-</section>
-<section id="_challenge_5">
-<title>Challenge</title>
-<simpara>"Build a racer that is the fastest down the ramp."</simpara>
+Many students may start out building cars.</para></formalpara>
+<formalpara><title>Teaming:</title><para>Students may form teams or work individually</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Build a racer that is the fastest down the ramp."</para></formalpara>
 <simpara>As students complete their builds use the stopwatch to time their racer down
 the ramp. They should record each time in their engineering notebook. They are
 free to modify their racer and try again. Changes and new trial times are good
 details to keep records of in their notebook. Keep a leader board of times.</simpara>
 <simpara>Ask them to review their notes to identify the changes that made the
 best improvement to their times.</simpara>
-<section id="_class_inquiry_4">
-<title>Class Inquiry</title>
-<itemizedlist>
+<itemizedlist><title>Class Inquiry:</title>
 <listitem>
 <simpara>
 Why does the racer go down the ramp?
@@ -833,10 +685,7 @@ How will larger or smaller diameter wheels affect the racer?
 </simpara>
 </listitem>
 </itemizedlist>
-</section>
-<section id="_further_challenges_2">
-<title>Further Challenges</title>
-<itemizedlist>
+<itemizedlist><title>Further Challenges:</title>
 <listitem>
 <simpara>
 Facilitator enter your own racer for a time trial. Start with just a ball.
@@ -886,7 +735,20 @@ Add a board or otherwise complete roadblock halfway down the middle of the
 </listitem>
 </itemizedlist>
 </section>
-</section>
 </chapter>
+<colophon id="_license">
+<title>License</title>
+<simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="cc-by-sa.png" contentdepth="16"/>
+  </imageobject>
+  <textobject><phrase>CC-BY-SA</phrase></textobject>
+</inlinemediaobject></simpara>
+<simpara>Young Engineers Club Curriculum by
+<ulink url="mailto:art.davis@gmail.com">Arthur Davis</ulink> is licensed under a
+<ulink url="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution-ShareAlike 4.0 International License</ulink>.</simpara>
+<simpara>Original work is available at <ulink url="https://github.com/artdavis/youngengineers">https://github.com/artdavis/youngengineers</ulink>.</simpara>
+</colophon>
 </part>
 </book>

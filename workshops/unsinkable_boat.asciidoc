@@ -1,16 +1,16 @@
-== Unsinkable Boat
-=== Disciplines
+=== Unsinkable Boat
+.Disciplines:
 - Naval Engineering
 
-=== Setup
+.Setup:
 
-==== Resources
+.Resources:
 - http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
 - http://pbskids.org/designsquad/parentseducators/resources/watercraft.html
 - http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf
 - http://pbskids.org/designsquad/build/watercraft/
 
-==== Materials
+.Materials:
 - 50 plastic straws per team
 - 1 roll of tape per team
 - 25 pennies
@@ -22,20 +22,20 @@
 - Digital scale (or triple balance scale)
 - Internet Media Access
 
-==== Location
+.Location:
 Inside or outside on a warm day.
 
-==== Preparation
+.Preparation:
 Fill the tub with water.
 
-=== Demonstration
+.Demonstration:
 Show the Design Squad video:
 http://pbskids.org/designsquad/build/watercraft/
 
-=== Teaming
+.Teaming:
 Teams of 2-3 making sure youngest are teamed with older student(s)
 
-=== Challenge
+.Challenge:
 Build a boat that can hold 25 pennies for at least 10 seconds before sinking
 
 Give each team tape and straws and let them have at it. Have teams log their

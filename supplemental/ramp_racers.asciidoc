@@ -1,14 +1,14 @@
-== Ramp Racers
-=== Disciplines
+=== Ramp Racers
+.Disciplines:
 - Mechanical Engineering
 - Automotive Engineering
 
-=== Setup
+.Setup:
 
-==== Resources
+.Resources:
 - http://www.thingiverse.com/thing:1219729
 
-==== Materials
+.Materials:
 - Ramp. A large board or table that can be tipped at an angle. You may even
   task the students to come up with a suitable ramp.
 - Building materials on hand like gears, wheels, Legos, K'Nex. Let the kids
@@ -18,20 +18,20 @@
 - Slingmobiles: http://www.thingiverse.com/thing:1219729
 - Board or otherwise improvised road block
 
-==== Location
+.Location:
 Classroom/lab with materials on hand for improvised construction
 
-==== Preparation
+.Preparation:
 Write the challenge statement up on the whiteboard. Don't call the "racer" a
 "car" and don't call attention to the fact that it doesn't have to be a car.
 Many students may start out building cars.
 
-=== Demonstration
+.Demonstration:
 
-=== Teaming
+.Teaming:
 Students may form teams or work individually
 
-=== Challenge
+.Challenge:
 "Build a racer that is the fastest down the ramp."
 
 As students complete their builds use the stopwatch to time their racer down
@@ -42,7 +42,7 @@ details to keep records of in their notebook. Keep a leader board of times.
 Ask them to review their notes to identify the changes that made the
 best improvement to their times.
 
-==== Class Inquiry
+.Class Inquiry:
 - Why does the racer go down the ramp?
   - What is gravity?
 - Put a car sideways on the ramp. Why doesn't it go down the ramp?
@@ -52,7 +52,7 @@ best improvement to their times.
     ramp?
   - How will larger or smaller diameter wheels affect the racer?
 
-==== Further Challenges
+.Further Challenges:
 - Facilitator enter your own racer for a time trial. Start with just a ball.
   When the students object, point at the challenge on the whiteboard indicating
   that a "racer" doesn't need to be a car.

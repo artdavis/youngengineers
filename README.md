@@ -32,7 +32,7 @@ curriculum.
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
 Young Engineers Club Curriculum</span> by
 <a xmlns:cc="http://creativecommons.org/ns#"
-   href="https://github.com/artdavis/youngengineers"
+   href="mailto:art.davis@gmail.com"
    property="cc:attributionName"
    rel="cc:attributionURL">Arthur Davis</a> is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
