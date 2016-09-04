@@ -17,9 +17,15 @@ Where?
 
 === Demonstration
 
+==== Class Inquiry
+
 === Teaming
 Teams of 2-3 making sure youngest are teamed with older student(s)
 
 === Challenge
+
+==== Class Inquiry
+
+==== Further Challenges
 
 // vim: set syntax=asciidoc:

@@ -17,4 +17,11 @@ include::workshops/unsinkable_boat.txt[]
 = Workshop {counter:workshop}: Paddle Power
 include::workshops/paddle_power.txt[]
 
+= Workshop {counter:workshop}: Block Tower Battle
+include::workshops/block_tower_battle.txt[]
+
+= Supplemental Workshops
+include::supplemental/ramp_racers.txt[]
+
+
 // vim: set syntax=asciidoc:

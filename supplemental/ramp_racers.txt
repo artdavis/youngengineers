@@ -1,0 +1,73 @@
+== Ramp Racers
+=== Disciplines
+- Mechanical Engineering
+- Automotive Engineering
+
+=== Setup
+
+==== Resources
+- http://www.thingiverse.com/thing:1219729
+
+==== Materials
+- Ramp. A large board or table that can be tipped at an angle. You may even
+  task the students to come up with a suitable ramp.
+- Building materials on hand like gears, wheels, Legos, K'Nex. Let the kids
+  find what they may.
+- Stopwatch
+- Ball
+- Slingmobiles: http://www.thingiverse.com/thing:1219729
+- Board or otherwise improvised road block
+
+==== Location
+Classroom/lab with materials on hand for improvised construction
+
+==== Preparation
+Write the challenge statement up on the whiteboard. Don't call the "racer" a
+"car" and don't call attention to the fact that it doesn't have to be a car.
+Many students may start out building cars.
+
+=== Demonstration
+
+=== Teaming
+Students may form teams or work individually
+
+=== Challenge
+"Build a racer that is the fastest down the ramp."
+
+As students complete their builds use the stopwatch to time their racer down
+the ramp. They should record each time in their engineering notebook. They are
+free to modify their racer and try again. Changes and new trial times are good
+details to keep records of in their notebook. Keep a leader board of times.
+
+Ask them to review their notes to identify the changes that made the
+best improvement to their times.
+
+==== Class Inquiry
+- Why does the racer go down the ramp?
+  - What is gravity?
+- Put a car sideways on the ramp. Why doesn't it go down the ramp?
+  - What is friction? Where is the friction? (High friction where the wheel
+    meets the ramp, low friction on the wheel axles).
+  - Can anyone come up with a racer that will slide (instead of roll) down the
+    ramp?
+  - How will larger or smaller diameter wheels affect the racer?
+
+==== Further Challenges
+- Facilitator enter your own racer for a time trial. Start with just a ball.
+  When the students object, point at the challenge on the whiteboard indicating
+  that a "racer" doesn't need to be a car.
+- Allow the kids to make a new round of "racers" and have them keep track of
+  their new designs and times.
+- Race your ball again this time giving it a strong rolling push at the
+  starting line. Also not expressly against any rules.
+- The kids will probably get carried away in the next round zooming their
+  racers down the ramp.
+- Add the constraint that the racers may no longer be pushed down the ramp.
+- Bring out the Slingmobiles with their rubber band catapult and see how they
+  do in the time trials.
+- Invite the kids to build their own launching systems.
+- Add a board or otherwise complete roadblock halfway down the middle of the
+  ramp. See how the kids design around surmounting that challenge.
+
+// vim: set syntax=asciidoc:
+

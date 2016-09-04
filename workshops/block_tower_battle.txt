@@ -1,0 +1,51 @@
+== Block Tower Battle
+=== Disciplines
+- Architectural Engineering
+
+=== Setup
+
+==== Materials
+- Large Building blocks
+  - Alternatively plastic cups, cut up 2x4's, paper/cardboard crafted blocks
+- 10-20 foam balls or wiffle balls
+- Tape measure
+- Stopwatch
+- TODO: materials for ball hurling contraptions
+
+==== Location
+Gymnasium or outdoors
+
+==== Preparation
+TODO: Locate some appropriate video on the topic
+
+=== Demonstration
+
+==== Class Inquiry
+
+=== Teaming
+Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.
+
+=== Challenge
+"Build the best structure for a variety of challenges"
+
+If you have enough building blocks for all teams, they can build their
+architectural structures simultaneously. Otherwise one team can build their
+structure while the other teams constructs a ball hurling device that will
+be used to try to knock it down.
+
+Start with a 5 minute limit. See who can build the tallest structure.
+Measure with a measuring tape and have the students make a schematic in their
+notebook of their structure and its dimensions.
+
+If everyone was able to build their own structures at the same time then each
+team can be tasked with building it's own "wrecking ball" device to see who
+can knock down their tower with the fewest shots. Otherwise teams can pit
+their building agains other teams wrecking contraptions. Be sure to encourage
+keeping track of the the results in the students notebooks.
+
+==== Class Inquiry
+
+==== Further Challenges
+
+// vim: set syntax=asciidoc:
+
