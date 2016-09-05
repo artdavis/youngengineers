@@ -1,0 +1,74 @@
+=== Spooky Engineering
+.Disciplines:
+- Chemical Engineering
+
+.Setup:
+
+.Resources:
+- http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas
+- http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/
+- http://www.weareteachers.com/lessons-resources/details/diy-slime
+- http://www.instructables.com/id/Oobleck/
+- https://en.wikipedia.org/wiki/Non-Newtonian_fluid
+
+.Materials:
+
+Per student:
+
+- A clear plastic bottle or jar
+- A bottle of vegetable oil
+- Water
+- Alka Seltzer
+- Food colouring
+- 1 cup water
+- 1.5 - 2 cups corn starch
+- Large mixing bowl
+- Silly Putty
+
+.Location:
+Classroom/Lab
+
+.Preparation:
+
+.Demonstration:
+
+.Class Inquiry:
+.Teaming:
+Individual or teams based on amount of supplies available.
+
+.Challenge:
+Perform some spooky Mad Scientist Experiments.
+
+*Creepy Lava Lamp*
+Fill the bottle or jar a quarter full with water. Fill the rest
+with begetable oil. After the seperation between the oil and water
+settles add several drops of food coloring.
+
+Add half an alka seltzer for a bubbling reaction. Add more bits of alka-seltzer
+to create a lava-lamp rising and falling of bubbles.
+
+.Class Inquiry:
+TODO: Education on reaction of alka-seltzer
+Discussion on density. Ask about why the oil and water seperate. Can the
+class think of different density gasses?
+
+*Oobleck*
+Non Newtonian fluid
+
+Mix 1 cup water with 1.5-2cups corn starch and a few drops of food coloring
+in mixing bowl. Student's will have a Non Newtonian Fluid which acts like
+a liquid when poured but as a solid when touched.
+
+.Class Inquiry
+Unlike most fluids, a non-NewtonianA fluid's viscosity is dependent on
+it the shear rate it is exposed to. Silly Putty is another example.
+It will stretch and mold, but ball it up and throw it and it bounces.
+
+.Further Challenges:
+Prepare for a Pumpkin Squash challenge for the next meeting after
+Halloween. Have students bring in small pumpkins that may be launched
+across the field outside. Brainstorm some ideas for launching pumpkins.
+Watch some videos on Trebuchets and Pumpkin Squash contests.
+
+// vim: set syntax=asciidoc:
+

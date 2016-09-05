@@ -39,32 +39,33 @@ Meeting on 10/18 will be cancelled.
 ****
 include::workshops/block_tower_battle.asciidoc[]
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Spooky Engineering
 ****
 2016-10-25
 
 Last meeting before Halloween
 ****
-Build trebuchet/slingshot
+include::workshops/spooky_engineering.asciidoc[]
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Ballistic Pumpkins
 ****
 2016-11-01
 ****
-Punkin Chunkin
+include::workshops/ballistic_pumpkins.asciidoc[]
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: LEGO Engineering Challenges
 ****
 2016-11-08
 ****
-LEGO Engineering Challenges
+include::workshops/lego_engineering_challenges.asciidoc[]
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Sconic Sections
 ****
 2016-11-15
 
 Meeting on 11/22 may or may not be cancelled.
 ****
+include::workshops/sconic_sections.asciidoc[]
 SCONES: Conic Section Cone Cakes. Vi Hart videos on cooking with math.
 
 == Workshop {counter:workshop}
@@ -79,9 +80,9 @@ Thanksgiving Holiday.
 ****
 2016-11-29
 
-Field trip to Balston Spa tournament over the weekend 12/3.
+Field trip to Ballston Spa tournament over the weekend 12/3.
 ****
-FIRST LEGO Challenges. Watch cideos of past challenges.
+FIRST LEGO Challenges. Watch videos of past challenges.
 
 == Workshop {counter:workshop}
 ****
@@ -162,7 +163,8 @@ Monoculight Maker Faire Edition
 ****
 2017-03-07
 ****
-Optical Engineering, telescope, microscope, rochester cloak, giant Frensl lenses
+Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
+lenses
 
 == Workshop {counter:workshop}
 ****
@@ -234,6 +236,8 @@ Battlebots battle
 == Workshop {counter:workshop}
 ****
 2017-06-06
+
+Last Day.
 ****
 Engineering Olympic Games. Paper airplane challenge, egg toss, egg launch.
 

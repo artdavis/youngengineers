@@ -65,4 +65,17 @@ students/teams participiating in the workshop.
 * Various gears and other engineering like gizmos
 * 3-hole engineering graph paper
 
+
+Per student:
+
+- A clear plastic bottle or jar
+- A bottle of vegetable oil
+- Water
+- Alka Seltzer
+- Food colouring
+- 1 cup water
+- 1.5 - 2 cups corn starch
+- Large mixing bowl
+- Silly Putty
+
 // vim: set syntax=asciidoc:

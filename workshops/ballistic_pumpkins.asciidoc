@@ -1,0 +1,50 @@
+=== Ballistic Pumpkins
+.Disciplines:
+- Mechanical Engineering
+
+.Setup:
+
+.Resources:
+- https://www.punkinchunkin.com/
+- http://www.sciencechannel.com/tv-shows/punkin-chunkin/
+- https://www.youtube.com/watch?v=dmSyrGsqmg8
+- http://www.real-world-physics-problems.com/trebuchet-physics.html
+- MythBusters:
+  * https://www.youtube.com/watch?v=9-Hwxw4fgqk
+  * https://www.youtube.com/watch?v=9-Hwxw4fgqk
+
+.Materials:
+- Lots of garbage bags for cleanup
+- TODO: slingshot/trebuchet building materials
+- Small pumpkins
+- ≥100ft long tape measure
+- Lawn Marking chalk
+- Online media access
+
+.Location:
+Large field outside.
+
+.Preparation:
+- Measure out 10ft increments in the field and mark with chalk
+
+.Demonstration:
+Show Punkin Chunkin documentary:
+https://www.youtube.com/watch?v=dmSyrGsqmg8
+
+Show discovery channel video:
+http://www.sciencechannel.com/tv-shows/punkin-chunkin/
+
+.Class Inquiry:
+
+.Teaming:
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+.Challenge:
+"Launch a pumpkin as far as possible"
+
+.Class Inquiry:
+
+.Further Challenges:
+
+// vim: set syntax=asciidoc:
+

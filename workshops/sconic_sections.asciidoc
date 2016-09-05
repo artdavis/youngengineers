@@ -1,0 +1,33 @@
+=== Sconic Sections
+.Disciplines:
+- Math
+
+.Setup:
+
+.Resources:
+- http://www.evilmadscientist.com/2013/sconic-sections/
+- https://www.youtube.com/watch?v=_n1126GoxbU
+
+.Materials:
+- 
+
+.Location:
+Where?
+
+.Preparation:
+
+.Demonstration:
+
+.Class Inquiry:
+
+.Teaming:
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+.Challenge:
+
+.Class Inquiry:
+
+.Further Challenges:
+
+// vim: set syntax=asciidoc:
+
