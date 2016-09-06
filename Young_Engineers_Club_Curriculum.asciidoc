@@ -59,14 +59,14 @@ include::workshops/ballistic_pumpkins.asciidoc[]
 ****
 include::workshops/lego_engineering_challenges.asciidoc[]
 
-== Workshop {counter:workshop}: Sconic Sections
+== Workshop {counter:workshop}: Delicious Engineering
 ****
 2016-11-15
 
 Meeting on 11/22 may or may not be cancelled.
+Check with parents whether they want to cancel or not.
 ****
-include::workshops/sconic_sections.asciidoc[]
-SCONES: Conic Section Cone Cakes. Vi Hart videos on cooking with math.
+include::workshops/delicious_engineering.asciidoc[]
 
 == Workshop {counter:workshop}
 ****
@@ -104,6 +104,7 @@ Last meeting before Christmas/New Years break.
 Meeting on 12/27 will be cancelled.
 
 ****
+https://www.youtube.com/user/Vihart
 Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
 
 == Workshop {counter:workshop}
