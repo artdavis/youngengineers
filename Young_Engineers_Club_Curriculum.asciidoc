@@ -56,6 +56,11 @@ include::workshops/ballistic_pumpkins.asciidoc[]
 == Workshop {counter:workshop}: LEGO Engineering Challenges
 ****
 2016-11-08
+
+Resources:
+http://www.bricklink.com/
+https://shop.lego.com/en-US/Pick-a-Brick
+https://education.lego.com/en-us/
 ****
 include::workshops/lego_engineering_challenges.asciidoc[]
 
@@ -68,12 +73,15 @@ Check with parents whether they want to cancel or not.
 ****
 include::workshops/delicious_engineering.asciidoc[]
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Acoustic Engineering
 ****
 2016-11-22
 
 IMPORTANT: Check with parents whether to cancel this meeting due to
 Thanksgiving Holiday.
+
+Blue man group PVC pipe instruments:
+http://makezine.com/projects/pvc-pipe-instrument/
 ****
 
 == Workshop {counter:workshop}: Past Challenges from FIRST LEGO League
@@ -203,6 +211,15 @@ Egg Olympics
 == Workshop {counter:workshop}: Rocketry Design and Build
 ****
 2017-04-25
+
+Resources:
+- https://www.apogeerockets.com/
+- https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS $60
+- https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46 $55
+- https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW $65
+- https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02 $50
+- https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78 $15
+- https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6 $20
 ****
 Rocketry, start build, Launch electronics
 
@@ -222,7 +239,7 @@ Battling Robots build
 ****
 2017-05-16
 ****
-Battlinf Robots battle
+Battling Robots battle
 
 == Workshop {counter:workshop}
 ****
