@@ -76,7 +76,7 @@ IMPORTANT: Check with parents whether to cancel this meeting due to
 Thanksgiving Holiday.
 ****
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Past Challenges from FIRST LEGO League
 ****
 2016-11-29
 
@@ -84,19 +84,19 @@ Field trip to Ballston Spa tournament over the weekend 12/3.
 ****
 FIRST LEGO Challenges. Watch videos of past challenges.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Past Challenges from Odyssey of the Mind
 ****
 2016-12-06
 ****
 Odyssey of the Mind videos and sample challenges.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Bridge Building
 ****
 2016-12-13
 ****
 Bridge Building Challenge
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Engineering Challenges for the Holidays
 ****
 2016-12-20
 
@@ -107,44 +107,44 @@ Meeting on 12/27 will be cancelled.
 https://www.youtube.com/user/Vihart
 Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Reverse Engineering
 ****
 2017-01-03
 ****
 Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Introduction to Electrical Engineering
 ****
 2017-01-10
 ****
 Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Electrical Engineering Projects
 ****
 2017-01-17
 ****
 Make Makey, soldering, electrical engineering
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Software Engineering
 ****
 2017-01-24
 ****
 Software engineering, coding, scratch, python, lightbot, TurtleArt
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Computer Aided Design
 ****
 2017-01-31
 ****
 CAD, OpenSCAD, OnShape, Inventor
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: 3D Printing
 ****
 2017-02-07
 ****
 3D Printing, Perler Beads, Foam Board layering, bring in printer,
 automation, plastics mfg.
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Biomedical Engineering
 ****
 2017-02-14
 
@@ -153,27 +153,27 @@ Meeting on 2/21 will be cancelled. Meeting is before valentines.
 Biomedical engineering, 3D Printed hearts, Red blood siphon pump
 
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Biomedical Optics
 ****
 2017-02-28
 ****
 Biomedical engineering, Optical Engineering
 Monoculight Maker Faire Edition
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Optical Engineering
 ****
 2017-03-07
 ****
 Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
 lenses
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Mult-Disciplinary Engineering
 ****
 2017-03-14
 ****
-LED light mixer, multi-disciplinary, LEDs, Optics, Electronigs, 3D Printing
+LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Raspberry Pi Computer
 ****
 2017-03-21
 ****
@@ -183,14 +183,14 @@ Raspberry Pi
 ****
 2017-03-28
 ****
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Egg Olympics Design and Build
 ****
 2017-04-04
 ****
 Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
 force, egg survival, egg destruction
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Egg Olympics Tournament
 ****
 2017-04-11
 
@@ -200,29 +200,29 @@ Pre-Easter
 Egg drop challenge
 Egg Olympics
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Rocketry Design and Build
 ****
 2017-04-25
 ****
 Rocketry, start build, Launch electronics
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Rocket Launch
 ****
 2017-05-02
 ****
 Rocket Launch
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Battling Robots Design and Build
 ****
 2017-05-09
 ****
-Battlebots build
+Battling Robots build
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Battling Robots Tournament
 ****
 2017-05-16
 ****
-Battlebots battle
+Battlinf Robots battle
 
 == Workshop {counter:workshop}
 ****
@@ -234,13 +234,15 @@ Battlebots battle
 2017-05-30
 ****
 
-== Workshop {counter:workshop}
+== Workshop {counter:workshop}: Engineering Showdown Games
 ****
 2017-06-06
 
 Last Day.
 ****
-Engineering Olympic Games. Paper airplane challenge, egg toss, egg launch.
+Engineering Olympic Games. Paper airplane challenge, egg toss etc.
+Challenges announced 15 minutes before each event. Each team then
+designs and constructs their entry before for competition.
 
 = Supplemental Workshops
 

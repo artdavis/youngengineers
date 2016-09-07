@@ -75,7 +75,9 @@ Engineering Fundamentals
 </simpara>
 </listitem>
 </itemizedlist>
-<formalpara><title>Setup:</title><para>Have the students assemble an Engineering Notebook. They can use a notebook of
+<formalpara><title>Setup:</title><para>Have the students assemble an Engineering Notebook. Notify club members
+before this first meeting to bring the necessary notebook supplies.
+They can use a notebook of
 their own choice suitable to their tastes (spiral bound, composition, binder,
 pocket folder with brads, etc.). Absent any strong student preference though,
 suggest a 1" 3 ring binder with 3-hole filler graph or engineering pad paper.
@@ -127,6 +129,11 @@ Various gears and other engineering like gizmos
 <listitem>
 <simpara>
 3-hole engineering graph paper
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ruler
 </simpara>
 </listitem>
 </itemizedlist>
@@ -641,6 +648,11 @@ Chemical Engineering
 <ulink url="https://en.wikipedia.org/wiki/Non-Newtonian_fluid">https://en.wikipedia.org/wiki/Non-Newtonian_fluid</ulink>
 </simpara>
 </listitem>
+<listitem>
+<simpara>
+Vi Hart Scary Sierpinski Skull: <ulink url="https://www.youtube.com/watch?v=z8ZWlUamNPI">https://www.youtube.com/watch?v=z8ZWlUamNPI</ulink>
+</simpara>
+</listitem>
 </itemizedlist>
 <formalpara><title>Materials:</title><para>Per student:</para></formalpara>
 <itemizedlist>
@@ -860,15 +872,16 @@ Assorted LEGO&#8217;s (≥100 pcs assorted per student plus multiple figurines)
 <formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
 </section>
 </chapter>
-<chapter id="_workshop_8_sconic_sections">
-<title>Workshop 8: Sconic Sections</title>
+<chapter id="_workshop_8_delicious_engineering">
+<title>Workshop 8: Delicious Engineering</title>
 <sidebar>
 <title>Further Challenges:</title>
 <simpara>2016-11-15</simpara>
-<simpara>Meeting on 11/22 may or may not be cancelled.</simpara>
+<simpara>Meeting on 11/22 may or may not be cancelled.
+Check with parents whether they want to cancel or not.</simpara>
 </sidebar>
-<section id="_sconic_sections">
-<title>Sconic Sections</title>
+<section id="_delicious_engineering">
+<title>Delicious Engineering</title>
 <itemizedlist><title>Disciplines:</title>
 <listitem>
 <simpara>
@@ -884,131 +897,190 @@ Math
 </listitem>
 <listitem>
 <simpara>
-<ulink url="https://www.youtube.com/watch?v=_n1126GoxbU">https://www.youtube.com/watch?v=_n1126GoxbU</ulink>
+Vi Hart Cookie Shapes: <ulink url="https://www.youtube.com/watch?v=_n1126GoxbU">https://www.youtube.com/watch?v=_n1126GoxbU</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Vi Hart Fruit by the Foot:  <ulink url="https://www.youtube.com/watch?v=Am-a5x9DGjg">https://www.youtube.com/watch?v=Am-a5x9DGjg</ulink>
 </simpara>
 </listitem>
 </itemizedlist>
-<formalpara><title>Materials:</title><para>-</para></formalpara>
-<formalpara><title>Location:</title><para>Where?</para></formalpara>
-<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
-<formalpara><title>Further Challenges:</title><para>SCONES: Conic Section Cone Cakes. Vi Hart videos on cooking with math.</para></formalpara>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+TODO: Adjust quantities
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Cone shaped paper cups
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+4 cups flour
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+1/3 cup sugar
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+4 1/2 teaspons baking powder
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+2 eggs, beaten
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+3/4 stick of butter, softened
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+1 cup milk
+</simpara>
+</listitem>
+</itemizedlist>
+<warning><simpara>Identify any food allergies and accommodate appropriately</simpara></warning>
+<formalpara><title>Location:</title><para>Start in classroom and move to kitchen facilities.</para></formalpara>
+<formalpara><title>Preparation:</title><para>Write the challenge on the board.</para></formalpara>
+<simpara>Consider making the dough ahead of time so the class can form it
+and bake it more quickly.</simpara>
+<formalpara><title>Class Inquiry:</title><para>Ask the class to come up with ideas for making edible things
+related to engineering.</para></formalpara>
+<important><simpara>Discuss kitchen safety and cleanliness</simpara></important>
+<formalpara><title>Class Inquiry:</title><para>Show the Vi Hart Cookie Shapes video:
+<ulink url="https://www.youtube.com/watch?v=_n1126GoxbU">https://www.youtube.com/watch?v=_n1126GoxbU</ulink></para></formalpara>
+<simpara>Fruit by the foot:
+<ulink url="https://www.youtube.com/watch?v=Am-a5x9DGjg">https://www.youtube.com/watch?v=Am-a5x9DGjg</ulink></simpara>
+<formalpara><title>Teaming:</title><para>Whole class activity</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Make engineering delicious"</para></formalpara>
 </section>
 </chapter>
 <chapter id="_workshop_9">
 <title>Workshop 9</title>
 <sidebar>
+<title>Further Challenges:</title>
 <simpara>2016-11-22</simpara>
 <important><simpara>Check with parents whether to cancel this meeting due to
 Thanksgiving Holiday.</simpara></important>
 </sidebar>
 </chapter>
-<chapter id="_workshop_10">
-<title>Workshop 10</title>
+<chapter id="_workshop_10_past_challenges_from_first_lego_league">
+<title>Workshop 10: Past Challenges from FIRST LEGO League</title>
 <sidebar>
 <simpara>2016-11-29</simpara>
 <simpara>Field trip to Ballston Spa tournament over the weekend 12/3.</simpara>
 </sidebar>
 <simpara>FIRST LEGO Challenges. Watch videos of past challenges.</simpara>
 </chapter>
-<chapter id="_workshop_11">
-<title>Workshop 11</title>
+<chapter id="_workshop_11_past_challenges_from_odyssey_of_the_mind">
+<title>Workshop 11: Past Challenges from Odyssey of the Mind</title>
 <sidebar>
 <simpara>2016-12-06</simpara>
 </sidebar>
 <simpara>Odyssey of the Mind videos and sample challenges.</simpara>
 </chapter>
-<chapter id="_workshop_12">
-<title>Workshop 12</title>
+<chapter id="_workshop_12_bridge_building">
+<title>Workshop 12: Bridge Building</title>
 <sidebar>
 <simpara>2016-12-13</simpara>
 </sidebar>
 <simpara>Bridge Building Challenge</simpara>
 </chapter>
-<chapter id="_workshop_13">
-<title>Workshop 13</title>
+<chapter id="_workshop_13_engineering_challenges_for_the_holidays">
+<title>Workshop 13: Engineering Challenges for the Holidays</title>
 <sidebar>
 <simpara>2016-12-20</simpara>
 <simpara>Last meeting before Christmas/New Years break.
 Meeting on 12/27 will be cancelled.</simpara>
 </sidebar>
-<simpara>Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.</simpara>
+<simpara><ulink url="https://www.youtube.com/user/Vihart">https://www.youtube.com/user/Vihart</ulink>
+Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.</simpara>
 </chapter>
-<chapter id="_workshop_14">
-<title>Workshop 14</title>
+<chapter id="_workshop_14_reverse_engineering">
+<title>Workshop 14: Reverse Engineering</title>
 <sidebar>
 <simpara>2017-01-03</simpara>
 </sidebar>
 <simpara>Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.</simpara>
 </chapter>
-<chapter id="_workshop_15">
-<title>Workshop 15</title>
+<chapter id="_workshop_15_introduction_to_electrical_engineering">
+<title>Workshop 15: Introduction to Electrical Engineering</title>
 <sidebar>
 <simpara>2017-01-10</simpara>
 </sidebar>
 <simpara>Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.</simpara>
 </chapter>
-<chapter id="_workshop_16">
-<title>Workshop 16</title>
+<chapter id="_workshop_16_electrical_engineering_projects">
+<title>Workshop 16: Electrical Engineering Projects</title>
 <sidebar>
 <simpara>2017-01-17</simpara>
 </sidebar>
 <simpara>Make Makey, soldering, electrical engineering</simpara>
 </chapter>
-<chapter id="_workshop_17">
-<title>Workshop 17</title>
+<chapter id="_workshop_17_software_engineering">
+<title>Workshop 17: Software Engineering</title>
 <sidebar>
 <simpara>2017-01-24</simpara>
 </sidebar>
 <simpara>Software engineering, coding, scratch, python, lightbot, TurtleArt</simpara>
 </chapter>
-<chapter id="_workshop_18">
-<title>Workshop 18</title>
+<chapter id="_workshop_18_computer_aided_design">
+<title>Workshop 18: Computer Aided Design</title>
 <sidebar>
 <simpara>2017-01-31</simpara>
 </sidebar>
 <simpara>CAD, OpenSCAD, OnShape, Inventor</simpara>
 </chapter>
-<chapter id="_workshop_19">
-<title>Workshop 19</title>
+<chapter id="_workshop_19_3d_printing">
+<title>Workshop 19: 3D Printing</title>
 <sidebar>
 <simpara>2017-02-07</simpara>
 </sidebar>
 <simpara>3D Printing, Perler Beads, Foam Board layering, bring in printer,
 automation, plastics mfg.</simpara>
 </chapter>
-<chapter id="_workshop_20">
-<title>Workshop 20</title>
+<chapter id="_workshop_20_biomedical_engineering">
+<title>Workshop 20: Biomedical Engineering</title>
 <sidebar>
 <simpara>2017-02-14</simpara>
 <simpara>Meeting on 2/21 will be cancelled. Meeting is before valentines.</simpara>
 </sidebar>
 <simpara>Biomedical engineering, 3D Printed hearts, Red blood siphon pump</simpara>
 </chapter>
-<chapter id="_workshop_21">
-<title>Workshop 21</title>
+<chapter id="_workshop_21_biomedical_optics">
+<title>Workshop 21: Biomedical Optics</title>
 <sidebar>
 <simpara>2017-02-28</simpara>
 </sidebar>
 <simpara>Biomedical engineering, Optical Engineering
 Monoculight Maker Faire Edition</simpara>
 </chapter>
-<chapter id="_workshop_22">
-<title>Workshop 22</title>
+<chapter id="_workshop_22_optical_engineering">
+<title>Workshop 22: Optical Engineering</title>
 <sidebar>
 <simpara>2017-03-07</simpara>
 </sidebar>
 <simpara>Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
 lenses</simpara>
 </chapter>
-<chapter id="_workshop_23">
-<title>Workshop 23</title>
+<chapter id="_workshop_23_mult_disciplinary_engineering">
+<title>Workshop 23: Mult-Disciplinary Engineering</title>
 <sidebar>
 <simpara>2017-03-14</simpara>
 </sidebar>
-<simpara>LED light mixer, multi-disciplinary, LEDs, Optics, Electronigs, 3D Printing</simpara>
+<simpara>LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing</simpara>
 </chapter>
-<chapter id="_workshop_24">
-<title>Workshop 24</title>
+<chapter id="_workshop_24_raspberry_pi_computer">
+<title>Workshop 24: Raspberry Pi Computer</title>
 <sidebar>
 <simpara>2017-03-21</simpara>
 </sidebar>
@@ -1020,16 +1092,16 @@ lenses</simpara>
 <simpara>2017-03-28</simpara>
 </sidebar>
 </chapter>
-<chapter id="_workshop_26">
-<title>Workshop 26</title>
+<chapter id="_workshop_26_egg_olympics_design_and_build">
+<title>Workshop 26: Egg Olympics Design and Build</title>
 <sidebar>
 <simpara>2017-04-04</simpara>
 </sidebar>
 <simpara>Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
 force, egg survival, egg destruction</simpara>
 </chapter>
-<chapter id="_workshop_27">
-<title>Workshop 27</title>
+<chapter id="_workshop_27_egg_olympics_tournament">
+<title>Workshop 27: Egg Olympics Tournament</title>
 <sidebar>
 <simpara>2017-04-11</simpara>
 <simpara>Meeting on 4/18 will be cancelled
@@ -1038,33 +1110,33 @@ Pre-Easter</simpara>
 <simpara>Egg drop challenge
 Egg Olympics</simpara>
 </chapter>
-<chapter id="_workshop_28">
-<title>Workshop 28</title>
+<chapter id="_workshop_28_rocketry_design_and_build">
+<title>Workshop 28: Rocketry Design and Build</title>
 <sidebar>
 <simpara>2017-04-25</simpara>
 </sidebar>
 <simpara>Rocketry, start build, Launch electronics</simpara>
 </chapter>
-<chapter id="_workshop_29">
-<title>Workshop 29</title>
+<chapter id="_workshop_29_rocket_launch">
+<title>Workshop 29: Rocket Launch</title>
 <sidebar>
 <simpara>2017-05-02</simpara>
 </sidebar>
 <simpara>Rocket Launch</simpara>
 </chapter>
-<chapter id="_workshop_30">
-<title>Workshop 30</title>
+<chapter id="_workshop_30_battling_robots_design_and_build">
+<title>Workshop 30: Battling Robots Design and Build</title>
 <sidebar>
 <simpara>2017-05-09</simpara>
 </sidebar>
-<simpara>Battlebots build</simpara>
+<simpara>Battling Robots build</simpara>
 </chapter>
-<chapter id="_workshop_31">
-<title>Workshop 31</title>
+<chapter id="_workshop_31_battling_robots_tournament">
+<title>Workshop 31: Battling Robots Tournament</title>
 <sidebar>
 <simpara>2017-05-16</simpara>
 </sidebar>
-<simpara>Battlebots battle</simpara>
+<simpara>Battlinf Robots battle</simpara>
 </chapter>
 <chapter id="_workshop_32">
 <title>Workshop 32</title>
@@ -1078,13 +1150,15 @@ Egg Olympics</simpara>
 <simpara>2017-05-30</simpara>
 </sidebar>
 </chapter>
-<chapter id="_workshop_34">
-<title>Workshop 34</title>
+<chapter id="_workshop_34_engineering_showdown_games">
+<title>Workshop 34: Engineering Showdown Games</title>
 <sidebar>
 <simpara>2017-06-06</simpara>
 <simpara>Last Day.</simpara>
 </sidebar>
-<simpara>Engineering Olympic Games. Paper airplane challenge, egg toss, egg launch.</simpara>
+<simpara>Engineering Olympic Games. Paper airplane challenge, egg toss etc.
+Challenges announced 15 minutes before each event. Each team then
+designs and constructs their entry before for competition.</simpara>
 </chapter>
 </part>
 <part id="_supplemental_workshops">
