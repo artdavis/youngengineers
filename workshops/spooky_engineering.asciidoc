@@ -42,7 +42,7 @@ Perform some spooky Mad Scientist Experiments.
 
 *Creepy Lava Lamp*
 Fill the bottle or jar a quarter full with water. Fill the rest
-with begetable oil. After the seperation between the oil and water
+with vegetable oil. After the seperation between the oil and water
 settles add several drops of food coloring.
 
 Add half an alka seltzer for a bubbling reaction. Add more bits of alka-seltzer
@@ -61,15 +61,15 @@ in mixing bowl. Student's will have a Non Newtonian Fluid which acts like
 a liquid when poured but as a solid when touched.
 
 .Class Inquiry
-Unlike most fluids, a non-NewtonianA fluid's viscosity is dependent on
-it the shear rate it is exposed to. Silly Putty is another example.
+Unlike most fluids, a non-Newtonian fluid's viscosity is dependent on
+the shear rate it is exposed to. Silly Putty is another example.
 It will stretch and mold, but ball it up and throw it and it bounces.
 
 .Further Challenges:
-Prepare for a Pumpkin Squash challenge for the next meeting after
-Halloween. Have students bring in small pumpkins that may be launched
-across the field outside. Brainstorm some ideas for launching pumpkins.
-Watch some videos on Trebuchets and Pumpkin Squash contests.
+Prepare for a Ballistic Pumpkin challenge for the next meeting after Halloween.
+Have students bring in small pumpkins/Jack-O-Lanterns that may be launched
+across the field outside. Brainstorm some ideas for launching pumpkins.  Watch
+some videos on Trebuchets and Pumpkin Squash contests.
 
 // vim: set syntax=asciidoc:
 

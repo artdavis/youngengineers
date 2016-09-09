@@ -633,7 +633,7 @@ TODO: materials for ball hurling contraptions
 </itemizedlist>
 <formalpara><title>Location:</title><para>Gymnasium or outdoors</para></formalpara>
 <formalpara><title>Preparation:</title><para>TODO: Locate some appropriate video on the topic</para></formalpara>
-<formalpara><title>Teaming:</title><para>Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.</para></formalpara>
+<formalpara><title>Teaming:</title><para>Split the students into 2 evenly distributed teams or teams of 4-6 each.</para></formalpara>
 <formalpara><title>Challenge:</title><para>"Build the best structure for a variety of challenges"</para></formalpara>
 <simpara>If you have enough building blocks for all teams, they can build their
 architectural structures simultaneously. Otherwise one team can build their
@@ -750,7 +750,7 @@ Silly Putty
 <formalpara><title>Challenge:</title><para>Perform some spooky Mad Scientist Experiments.</para></formalpara>
 <simpara><emphasis role="strong">Creepy Lava Lamp</emphasis>
 Fill the bottle or jar a quarter full with water. Fill the rest
-with begetable oil. After the seperation between the oil and water
+with vegetable oil. After the seperation between the oil and water
 settles add several drops of food coloring.</simpara>
 <simpara>Add half an alka seltzer for a bubbling reaction. Add more bits of alka-seltzer
 to create a lava-lamp rising and falling of bubbles.</simpara>
@@ -762,13 +762,13 @@ Non Newtonian fluid</simpara>
 <simpara>Mix 1 cup water with 1.5-2cups corn starch and a few drops of food coloring
 in mixing bowl. Student&#8217;s will have a Non Newtonian Fluid which acts like
 a liquid when poured but as a solid when touched.</simpara>
-<formalpara><title>Class Inquiry</title><para>Unlike most fluids, a non-NewtonianA fluid&#8217;s viscosity is dependent on
-it the shear rate it is exposed to. Silly Putty is another example.
+<formalpara><title>Class Inquiry</title><para>Unlike most fluids, a non-Newtonian fluid&#8217;s viscosity is dependent on
+the shear rate it is exposed to. Silly Putty is another example.
 It will stretch and mold, but ball it up and throw it and it bounces.</para></formalpara>
-<formalpara><title>Further Challenges:</title><para>Prepare for a Pumpkin Squash challenge for the next meeting after
-Halloween. Have students bring in small pumpkins that may be launched
-across the field outside. Brainstorm some ideas for launching pumpkins.
-Watch some videos on Trebuchets and Pumpkin Squash contests.</para></formalpara>
+<formalpara><title>Further Challenges:</title><para>Prepare for a Ballistic Pumpkin challenge for the next meeting after Halloween.
+Have students bring in small pumpkins/Jack-O-Lanterns that may be launched
+across the field outside. Brainstorm some ideas for launching pumpkins.  Watch
+some videos on Trebuchets and Pumpkin Squash contests.</para></formalpara>
 </section>
 </chapter>
 <chapter id="_workshop_6_ballistic_pumpkins">
@@ -1051,8 +1051,7 @@ Thanksgiving Holiday.</simpara></important>
 <simpara>Last meeting before Christmas/New Years break.
 Meeting on 12/27 will be cancelled.</simpara>
 </sidebar>
-<simpara><ulink url="https://www.youtube.com/user/Vihart">https://www.youtube.com/user/Vihart</ulink>
-Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.</simpara>
+<simpara>Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.</simpara>
 </chapter>
 <chapter id="_workshop_14_reverse_engineering">
 <title>Workshop 14: Reverse Engineering</title>
@@ -1163,15 +1162,44 @@ Egg Olympics</simpara>
 <title>Workshop 28: Rocketry Design and Build</title>
 <sidebar>
 <simpara>2017-04-25</simpara>
-<simpara>Resources:
-- <ulink url="https://www.apogeerockets.com/">https://www.apogeerockets.com/</ulink>
-- <ulink url="https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS">https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS</ulink> $60
-- <ulink url="https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46">https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46</ulink> $55
-- <ulink url="https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW">https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW</ulink> $65
-- <ulink url="https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02">https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02</ulink> $50
-- <ulink url="https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78">https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78</ulink> $15
-- <ulink url="https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6">https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6</ulink> $20</simpara>
 </sidebar>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="https://www.apogeerockets.com/">https://www.apogeerockets.com/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS">https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS</ulink> $60
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46">https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46</ulink> $55
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW">https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW</ulink> $65
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02">https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02</ulink> $50
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78">https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78</ulink> $15
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6">https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6</ulink> $20
+</simpara>
+</listitem>
+</itemizedlist>
 <simpara>Rocketry, start build, Launch electronics</simpara>
 </chapter>
 <chapter id="_workshop_29_rocket_launch">
@@ -1179,7 +1207,9 @@ Egg Olympics</simpara>
 <sidebar>
 <simpara>2017-05-02</simpara>
 </sidebar>
-<simpara>Rocket Launch</simpara>
+<formalpara><title>Rocket Launch</title><para>Zany contest categories: Longest air time, shortest air time,
+best crash, catch a recovery out of the air, loudest countdown,
+best decorated rocket, craziest flight pattern</para></formalpara>
 </chapter>
 <chapter id="_workshop_30_battling_robots_design_and_build">
 <title>Workshop 30: Battling Robots Design and Build</title>
@@ -1213,7 +1243,7 @@ Egg Olympics</simpara>
 <simpara>2017-06-06</simpara>
 <simpara>Last Day.</simpara>
 </sidebar>
-<simpara>Engineering Olympic Games. Paper airplane challenge, egg toss etc.
+<simpara>Engineering Showdown Games. Paper airplane challenge, egg toss etc.
 Challenges announced 15 minutes before each event. Each team then
 designs and constructs their entry before for competition.</simpara>
 </chapter>

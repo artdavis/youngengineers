@@ -112,7 +112,6 @@ Last meeting before Christmas/New Years break.
 Meeting on 12/27 will be cancelled.
 
 ****
-https://www.youtube.com/user/Vihart
 Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
 
 == Workshop {counter:workshop}: Reverse Engineering
@@ -211,8 +210,10 @@ Egg Olympics
 == Workshop {counter:workshop}: Rocketry Design and Build
 ****
 2017-04-25
+****
 
-Resources:
+.Resources:
+
 - https://www.apogeerockets.com/
 - https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS $60
 - https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46 $55
@@ -220,14 +221,19 @@ Resources:
 - https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02 $50
 - https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78 $15
 - https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6 $20
-****
+
 Rocketry, start build, Launch electronics
 
 == Workshop {counter:workshop}: Rocket Launch
 ****
 2017-05-02
 ****
-Rocket Launch
+
+.Rocket Launch
+Zany contest categories: Longest air time, shortest air time,
+best crash, catch a recovery out of the air, loudest countdown,
+best decorated rocket, craziest flight pattern
+
 
 == Workshop {counter:workshop}: Battling Robots Design and Build
 ****
@@ -257,7 +263,7 @@ Battling Robots battle
 
 Last Day.
 ****
-Engineering Olympic Games. Paper airplane challenge, egg toss etc.
+Engineering Showdown Games. Paper airplane challenge, egg toss etc.
 Challenges announced 15 minutes before each event. Each team then
 designs and constructs their entry before for competition.
 

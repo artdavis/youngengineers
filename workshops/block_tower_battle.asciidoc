@@ -23,7 +23,7 @@ TODO: Locate some appropriate video on the topic
 .Class Inquiry:
 
 .Teaming:
-Split the ctudents into 2 evenly distributed teams or teams of 4-6 each.
+Split the students into 2 evenly distributed teams or teams of 4-6 each.
 
 .Challenge:
 "Build the best structure for a variety of challenges"
