@@ -3,8 +3,9 @@
 This is a curriculum for a teacher/facilitator to use in a secondary school
 weekly young engineers educational program.
 
-For a complete formatted compilation of all the information here, check
-out `Young_Engineers_Club_Curriculum.pdf`.
+For a formatted compilation of all the information here, check out
+[Young_Engineers_Club_Curriculum.pdf](https://github.com/artdavis/youngengineers/blob/master/Young_Engineers_Club_Curriculum.pdf).
+The rendered html document is available in [Young_Engineers_Club_curriculum.html](http://htmlpreview.github.io/?https://github.com/artdavis/youngengineers/blob/master/Young_Engineers_Club_Curriculum.html).
 
 The documentation here is written in [asciidoc](http://asciidoc.org/) format.
 You can build the pdf document via docbook:
@@ -22,7 +23,6 @@ Also handy to build as an html document:
 ```bash
 a2x -f xhtml --icons Young_Engineers_Club_Curriculum.asciidoc
 ```
-View the rendered html document [here](http://htmlpreview.github.io/?https://github.com/artdavis/youngengineers/blob/master/Young_Engineers_Club_Curriculum.html).
 
 The `demos/` directory present non-interactive lessons that may be
 useful to run before launching into a challenge.
