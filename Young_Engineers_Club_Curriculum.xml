@@ -57,13 +57,13 @@ this more often than not can lead to a very clever solution that you will find
 wonderfully surprising.</simpara>
 <simpara>Finally, we may plan an occasional weekend meet up at local events that are of
 interest to the club (for example, FIRST LEGO tournament).</simpara>
-</preface>
-<chapter id="_materials">
+<section id="_materials">
 <title>Materials</title>
 <simpara>Required materials are listed within each workshop decription.
 Alternative supplies may be substituted or often you can improvise
 around not having supplies by adjusting the workshop activities.</simpara>
-</chapter>
+</section>
+</preface>
 <part id="_curriculum_workshops">
 <title>Curriculum Workshops</title>
 <chapter id="_workshop_1_intro_to_engineering">
@@ -218,134 +218,11 @@ engineer their colleague is. As a "peer review" then they can sign and date
 their name at the bottom of the page and return the notebook to the owner.</simpara>
 </section>
 </chapter>
-<chapter id="_workshop_2_siphon_and_boat">
-<title>Workshop 2: Siphon and Boat</title>
+<chapter id="_workshop_2_unsinkable_boat">
+<title>Workshop 2: Unsinkable Boat</title>
 <sidebar>
 <simpara>2016-09-27</simpara>
 </sidebar>
-<section id="_siphon">
-<title>Siphon</title>
-<itemizedlist><title>Disciplines:</title>
-<listitem>
-<simpara>
-Naval Engineering
-</simpara>
-</listitem>
-</itemizedlist>
-<itemizedlist><title>Materials:</title>
-<listitem>
-<simpara>
-Large tub or large watertight storage bin
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-20ft of clear 1" diameter tubing
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Several large balloons
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Food coloring
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Step ladder
-</simpara>
-</listitem>
-</itemizedlist>
-<formalpara><title>Location:</title><para>Outside on a warm day near a water hose feed or
-in a lab/kitchen area with a large sink.</para></formalpara>
-<formalpara><title>Demonstration</title><para>Illustrate the workings of the siphon.</para></formalpara>
-<itemizedlist>
-<listitem>
-<simpara>
-Place the tub up on the step ladder and fill it with water.
-</simpara>
-</listitem>
-</itemizedlist>
-<warning><simpara>STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
-    HIGH IS A FALLING HAZARD.</simpara></warning>
-<itemizedlist>
-<listitem>
-<simpara>
-Fill the hose with water, block it with your thumb and take one end out to
-  demonstrate siphoning.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Go to aim the end of the hose at the students but bring it up above the level
-  of the tub as you do so and the water will stop flowing.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Bring the hose down to look into the end "Huh I wonder why it&#8217;s not working"
-  to get sprayed in the face for raucous laughter.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Partially block the tube output with your thumb to spray the water.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Ask the class if they think you can spray the water back up into the tub
-  and show what happens.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Ask what will happen if an empty balloon is put at the end of the siphon.
-  A balloon full of air? Hold the tube above the level of the tub to stop
-  the flow of water and put a drop of food coloring in. Then try the different
-  tests with the balloon.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Fill the tube with water, add food coloring and plug it with your thumb.
-  Bring it down below the level of the tub. Remove the end in the tub and allow
-  some water to bleed out with your thumb so there is a large air gap on the
-  tub side. Put the tube on the tub side back in the water. Ask the class
-  what they think will happen when you remove your thumb and show them. Try
-  it with different sized air gaps.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-Challenge the students for a way to get the siphon going without submerging
-  the tube. If the water and the tube are clean enough, demonstrate sucking
-  out the air in the tube to get the siphon started.
-</simpara>
-</listitem>
-</itemizedlist>
-<important><simpara>WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
-    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</simpara></important>
-<itemizedlist>
-<listitem>
-<simpara>
-Alternatively if there is a hose available to backfill the tube (or make
-  a water balloon that can be used to back fill the tube) this also will get
-  the siphon going.
-</simpara>
-</listitem>
-<listitem>
-<simpara>
-When demonstration is complete, drain the tub to a safe weight and take it
-  down from the ladder to refill on the ground for the club&#8217;s engineering
-  challenge.
-</simpara>
-</listitem>
-</itemizedlist>
-</section>
 <section id="_unsinkable_boat">
 <title>Unsinkable Boat</title>
 <itemizedlist><title>Disciplines:</title>
@@ -1256,8 +1133,133 @@ designs and constructs their entry before for competition.</simpara>
 </part>
 <part id="_supplemental_workshops">
 <title>Supplemental Workshops</title>
-<chapter id="_supplemental_1_ramp_racers">
-<title>Supplemental 1: Ramp Racers</title>
+<chapter id="_supplemental_1_siphon">
+<title>Supplemental 1: Siphon</title>
+<section id="_siphon">
+<title>Siphon</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+20ft of clear 1" diameter tubing
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Several large balloons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Food coloring
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Step ladder
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Outside on a warm day near a water hose feed or
+in a lab/kitchen area with a large sink.</para></formalpara>
+<formalpara><title>Demonstration</title><para>Illustrate the workings of the siphon.</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Place the tub up on the step ladder and fill it with water.
+</simpara>
+</listitem>
+</itemizedlist>
+<warning><simpara>STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
+    HIGH IS A FALLING HAZARD.</simpara></warning>
+<itemizedlist>
+<listitem>
+<simpara>
+Fill the hose with water, block it with your thumb and take one end out to
+  demonstrate siphoning.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Go to aim the end of the hose at the students but bring it up above the level
+  of the tub as you do so and the water will stop flowing.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bring the hose down to look into the end "Huh I wonder why it&#8217;s not working"
+  to get sprayed in the face for raucous laughter.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Partially block the tube output with your thumb to spray the water.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask the class if they think you can spray the water back up into the tub
+  and show what happens.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask what will happen if an empty balloon is put at the end of the siphon.
+  A balloon full of air? Hold the tube above the level of the tub to stop
+  the flow of water and put a drop of food coloring in. Then try the different
+  tests with the balloon.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Fill the tube with water, add food coloring and plug it with your thumb.
+  Bring it down below the level of the tub. Remove the end in the tub and allow
+  some water to bleed out with your thumb so there is a large air gap on the
+  tub side. Put the tube on the tub side back in the water. Ask the class
+  what they think will happen when you remove your thumb and show them. Try
+  it with different sized air gaps.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Challenge the students for a way to get the siphon going without submerging
+  the tube. If the water and the tube are clean enough, demonstrate sucking
+  out the air in the tube to get the siphon started.
+</simpara>
+</listitem>
+</itemizedlist>
+<important><simpara>WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
+    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</simpara></important>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatively if there is a hose available to backfill the tube (or make
+  a water balloon that can be used to back fill the tube) this also will get
+  the siphon going.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When demonstration is complete, drain the tub to a safe weight and take it
+  down from the ladder.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_supplemental_2_ramp_racers">
+<title>Supplemental 2: Ramp Racers</title>
 <section id="_ramp_racers">
 <title>Ramp Racers</title>
 <itemizedlist><title>Disciplines:</title>

@@ -18,11 +18,10 @@ First Day
 ****
 include::workshops/what_is_engineering.asciidoc[]
 
-== Workshop {counter:workshop}: Siphon and Boat
+== Workshop {counter:workshop}: Unsinkable Boat
 ****
 2016-09-27
 ****
-include::demos/siphon.asciidoc[]
 include::workshops/unsinkable_boat.asciidoc[]
 
 == Workshop {counter:workshop}: Paddle Power
@@ -268,6 +267,9 @@ Challenges announced 15 minutes before each event. Each team then
 designs and constructs their entry before for competition.
 
 = Supplemental Workshops
+
+== Supplemental {counter:supplemental}: Siphon
+include::demos/siphon.asciidoc[]
 
 == Supplemental {counter:supplemental}: Ramp Racers
 include::supplemental/ramp_racers.asciidoc[]
