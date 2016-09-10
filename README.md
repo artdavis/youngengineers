@@ -22,6 +22,7 @@ Also handy to build as an html document:
 ```bash
 a2x -f xhtml --icons Young_Engineers_Club_Curriculum.asciidoc
 ```
+View the rendered html document [here](http://htmlpreview.github.io/?https://github.com/artdavis/youngengineers/blob/master/Young_Engineers_Club_Curriculum.html).
 
 The `demos/` directory present non-interactive lessons that may be
 useful to run before launching into a challenge.
