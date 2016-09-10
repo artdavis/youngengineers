@@ -9,8 +9,18 @@ out `Young_Engineers_Club_Curriculum.pdf`.
 The documentation here is written in [asciidoc](http://asciidoc.org/) format.
 You can build the pdf document via docbook:
 ```bash
-asciidoc -b docbook Young_Engineers_Club_Curriculum.asciidoc
-dblatex Young_Engineers_Club_Curriculum.xml
+a2x Young_Engineers_Club_Curriculum.asciidoc
+```
+
+If you're not getting the admonition icons in the document on Linux this
+may do the trick:
+```bash
+a2x -f pdf --icons --dblatex-opts='-I /etc/asciidoc/images/icons' Young_Engineers_Club_Curriculum.asciidoc
+```
+
+Also be handy to build as an html document:
+```bash
+a2x -f xhtml --icons Young_Engineers_Club_Curriculum.asciidoc
 ```
 
 The `demos/` directory present non-interactive lessons that may be
