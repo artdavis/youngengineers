@@ -134,6 +134,14 @@ Make Makey, soldering, electrical engineering
 == Workshop {counter:workshop}: Software Engineering
 ****
 2017-01-24
+
+This deserves 2 workshops. Add a second one. The first one
+doesn't need a computer. Run challenges with Scratch programming
+using large foamboard cutouts of scratch command blocks, play
+Robot Turtle, get Marbles on Rails programming game put together.
+
+For the second one prep by having kids get Scratch accounts wuth their parents.
+Next workshop will be in the computer lab.
 ****
 Software engineering, coding, scratch, python, lightbot, TurtleArt
 
