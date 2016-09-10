@@ -131,72 +131,71 @@ Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
 ****
 Make Makey, soldering, electrical engineering
 
-== Workshop {counter:workshop}: Software Engineering
+== Workshop {counter:workshop}: Software Engineering I
 ****
 2017-01-24
 
-This deserves 2 workshops. Add a second one. The first one
-doesn't need a computer. Run challenges with Scratch programming
-using large foamboard cutouts of scratch command blocks, play
+This first workshop doesn't need a computer. Run challenges with Scratch
+programming using large foamboard cutouts of scratch command blocks, play
 Robot Turtle, get Marbles on Rails programming game put together.
 
-For the second one prep by having kids get Scratch accounts wuth their parents.
-Next workshop will be in the computer lab.
+For the next workshop prepare by having kids get Scratch accounts with their
+parents.  Next workshop will be in the computer lab.
 ****
 Software engineering, coding, scratch, python, lightbot, TurtleArt
 
-== Workshop {counter:workshop}: Computer Aided Design
+== Workshop {counter:workshop}: Software Engineering II
 ****
 2017-01-31
+****
+
+== Workshop {counter:workshop}: Computer Aided Design
+****
+2017-02-07
 ****
 CAD, OpenSCAD, OnShape, Inventor
 
 == Workshop {counter:workshop}: 3D Printing
 ****
-2017-02-07
+2017-02-14
+
+Meeting on 2/21 will be cancelled. Meeting is before Valentines Day.
 ****
 3D Printing, Perler Beads, Foam Board layering, bring in printer,
 automation, plastics mfg.
 
+
 == Workshop {counter:workshop}: Biomedical Engineering
 ****
-2017-02-14
-
-Meeting on 2/21 will be cancelled. Meeting is before valentines.
+2017-02-28
 ****
 Biomedical engineering, 3D Printed hearts, Red blood siphon pump
 
-
 == Workshop {counter:workshop}: Biomedical Optics
 ****
-2017-02-28
+2017-03-07
 ****
 Biomedical engineering, Optical Engineering
 Monoculight Maker Faire Edition
 
 == Workshop {counter:workshop}: Optical Engineering
 ****
-2017-03-07
+2017-03-14
 ****
 Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
 lenses
 
 == Workshop {counter:workshop}: Mult-Disciplinary Engineering
 ****
-2017-03-14
-****
-LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing
-
-== Workshop {counter:workshop}: Raspberry Pi Computer
-****
 2017-03-21
 ****
-Raspberry Pi
+LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing
 
 == Workshop {counter:workshop}
 ****
 2017-03-28
 ****
+
 == Workshop {counter:workshop}: Egg Olympics Design and Build
 ****
 2017-04-04
@@ -242,22 +241,23 @@ best crash, catch a recovery out of the air, loudest countdown,
 best decorated rocket, craziest flight pattern
 
 
-== Workshop {counter:workshop}: Battling Robots Design and Build
+== Workshop {counter:workshop}: Raspberry Pi Computer
 ****
 2017-05-09
+****
+Raspberry Pi
+
+== Workshop {counter:workshop}: Battling Robots Design and Build
+****
+2017-05-16
 ****
 Battling Robots build
 
 == Workshop {counter:workshop}: Battling Robots Tournament
 ****
-2017-05-16
-****
-Battling Robots battle
-
-== Workshop {counter:workshop}
-****
 2017-05-23
 ****
+Battling Robots battle
 
 == Workshop {counter:workshop}
 ****
