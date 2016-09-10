@@ -272,12 +272,8 @@ designs and constructs their entry before for competition.
 == Supplemental {counter:supplemental}: Ramp Racers
 include::supplemental/ramp_racers.asciidoc[]
 
-= Appendix
-[appendix]
-include::materials.asciidoc[]
-
 [colophon]
-== License
+= License
 image:cc-by-sa.png["CC-BY-SA", height=16]
 
 Young Engineers Club Curriculum by
