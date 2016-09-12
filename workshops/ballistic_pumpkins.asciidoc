@@ -3,6 +3,13 @@
 - Mechanical Engineering
 
 .Setup:
+Can either have teams build multiple trebs or build one trebuchet (let
+the whole class assemble it as 1 team) and then let them break out and
+compete on getting the best distance with their own customized sling designs.
+
+Miniature pumpkin gourds or alternatively golf balls may be used for
+launching. You could get orange golf balls and or decorate them like
+jack-o-lanterns to keep with the pumpkin theme.
 
 .Resources:
 - https://www.punkinchunkin.com/
@@ -12,11 +19,13 @@
 - MythBusters:
   * https://www.youtube.com/watch?v=9-Hwxw4fgqk
   * https://www.youtube.com/watch?v=9-Hwxw4fgqk
+- http://www.instructables.com/id/Trebuchet-Project/
 
 .Materials:
-- Lots of garbage bags for cleanup
+- Garbage bags for cleanup
 - TODO: slingshot/trebuchet building materials
-- Small pumpkins
+- Minature pumpkins/gourds
+- Golf balls
 - ≥100ft long tape measure
 - Lawn Marking chalk
 - Online media access
@@ -40,11 +49,12 @@ http://www.sciencechannel.com/tv-shows/punkin-chunkin/
 Teams of 2-3 making sure youngest are teamed with older student(s)
 
 .Challenge:
-"Launch a pumpkin as far as possible"
+"Launch a mini-pumpkin as far as possible"
 
 .Class Inquiry:
 
 .Further Challenges:
+"Launch a mini-pumpkin into a target bucket"
 
 // vim: set syntax=asciidoc:
 

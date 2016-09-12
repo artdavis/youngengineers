@@ -62,6 +62,12 @@ necessary while archival worthy pages can be placed in the binder.
 
 Encourage doodling in their notebooks
 
+NOTE: A good engineering notebook is a valuable tool to a practicing engineer
+but assigning too much importance to it here may be of minimal value.
+Especially if it gets in the way of the creative process. It may be better to
+instead have a class notebook/binder that students can take turns writing in or
+that students can submit reports to.
+
 .Challenge:
 Pose the question "What is engineering?". Allow the discussion to be
 driven by the students. Invite the students to write down or draw something on
