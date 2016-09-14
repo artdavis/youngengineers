@@ -10,6 +10,25 @@ exploration but there's no need to hold fast to them. If the class is motivated
 to do something totally different, encourage this even if it's not part of
 the plan.
 
+For reference, Wikipedia defines Engineering as follows. No need to actually
+read this to the class, but it may be helpful in case you get a few pedantic
+inquires:
+
+[quote, Wikipedia, Engineering]
+_______________________________
+Engineering is the application of mathematics, empirical evidence and
+scientific, economic, social, and practical knowledge in order to invent,
+innovate, design, build, maintain, research, and improve structures, machines,
+tools, systems, components, materials, processes and organizations.
+
+The discipline of engineering is extremely broad, and encompasses a range of
+more specialized fields of engineering, each with a more specific emphasis on
+particular areas of applied science, technology and types of application.
+
+The term Engineering is derived from the Latin ingenium, meaning "cleverness"
+and ingeniare, meaning "to contrive, devise".
+_______________________________
+
 .Resources:
 * http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
 * http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf
@@ -38,6 +57,14 @@ Indoor classroom/lab environment
 .Preparation:
 Write the challenge "What is engineering?" on the board.
 
+Draw five large circles on the board. At the top of each circle write each of
+the following categories:
+- Mecahnical
+- Chemical
+- Civil
+- Electrical
+- Software
+
 Distribute the gears/gizmos, magazines and index cards across all the classroom
 tables.  Don't offer direction one way or another whether the kids are allowed
 to touch these things. When they do start playing/reading don't make them stop
@@ -52,6 +79,9 @@ Consider starting the meeting seated among the students: "So, who's going
 to teach us today?". If there are any volunteers, see where it goes before
 taking formal charge.
 
+[NOTE]
+.Engineering Notebook (Optional)
+========================
 Have the students assemble an Engineering Notebook. Notify club members before
 this first meeting to bring the necessary notebook supplies.  They can use a
 notebook of their own choice suitable to their tastes (spiral bound,
@@ -59,14 +89,14 @@ composition, binder, pocket folder with brads, etc.). Absent any strong student
 preference though, suggest a 1" 3 ring binder with 3-hole filler graph or
 engineering pad paper.  This way paper can be used for scratch work as
 necessary while archival worthy pages can be placed in the binder.
-
 Encourage doodling in their notebooks
 
-NOTE: A good engineering notebook is a valuable tool to a practicing engineer
+A good engineering notebook is a valuable tool to a practicing engineer
 but assigning too much importance to it here may be of minimal value.
 Especially if it gets in the way of the creative process. It may be better to
 instead have a class notebook/binder that students can take turns writing in or
 that students can submit reports to.
+========================
 
 .Challenge:
 Pose the question "What is engineering?". Allow the discussion to be
@@ -79,13 +109,16 @@ engineering disciplines.  My choices include: Acoustical, Aerospace,
 Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided,
 Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software
 
-Place your cards up on the board and have the kids group their cards with
-the topical areas they think they fit with. You can connect categories
-with marker lines and/or have multiple cards made if they fit into several
-categories. Add categories as necessary. Try to use Venn diagrams to group
-things together.
+have the students tape their cards into as many of the 5 category circles
+drawn up on the board. For example an Automotive engineering card might well be
+placed in each of the circles wheras the gears would likely only be placed
+in the Mechanical circle.
 
-Based on the results ask the students to pick some of their favorite cards
+TODO: Put wikipedia definitions and sub-discipline categorization here for
+reference.
+
+Based on the results illustrate some Venn diagrams for various disciplines.
+Ask the students to pick some of their favorite cards
 and try to identify a discipline that they like. Have them log the result
 in their notebook and compare that to their quiz results. Have them put their
 name and date on the page.
@@ -95,4 +128,26 @@ Invite the students to report on whose notebook they got and what kind of
 engineer their colleague is. As a "peer review" then they can sign and date
 their name at the bottom of the page and return the notebook to the owner.
 
+==== Development in progress
+Make worksheets that the students can populate Venn diagrams themselves.
+Make 1" - 1.5" diameter circular icon images on a printed page that can be
+punched out with a 1" - 1.5" punch. Each image can be an engineering related
+picture/term. The graphics can be line art and the students can be encouraged
+to color them as they please.
+- Gears: mechanical, automotive
+- Computer workstation: software and all disciplines
+- Iconic lab glassware: chemical
+- Optics, Laser: optical
+- Rocket, airplane: aerospace
+- Heart: biomedical
+- Eyeball: biomedical optics
+- Boat, Dam: Marine, mechanical
+- Robot: electrical, software robotic
+- Assembly line: manufacturing
+- Bridge: civil, mechanical, architectural
+- Computer chip: electrical
+- skyscraper building: architectural, mechanical
+- electrical symbols: resistor, capacitor, power supply, opamp etc
+- drafting symbols: centerline, dimensional callout etc
+Also have some blank disks for the kids to draw their own pictures/terms
 // vim: set syntax=asciidoc:
