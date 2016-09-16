@@ -1,11 +1,12 @@
-=== Title
+=== Straw Rocket
 .Disciplines:
 * 
 
 .Setup:
 
 .Resources:
-* 
+* http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/
+* http://www.pleasantestthing.com/make-straw-rockets
 
 .Materials:
 * 
@@ -29,3 +30,4 @@ Teams of 2-3 making sure youngest are teamed with older student(s)
 .Further Challenges:
 
 // vim: set syntax=asciidoc:
+

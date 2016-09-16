@@ -1,16 +1,16 @@
 === LEGO Engineering Challenges
 .Disciplines:
-- Mechanical Engineering
+* Mechanical Engineering
 
 .Setup:
 
 .Resources:
-- http://www.educatingyoungengineers.com/lego-clubs/
-  - http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
-  - http://www.educatingyoungengineers.com/lego-club-activity-ideas
+* http://www.educatingyoungengineers.com/lego-clubs/
+** http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
+** http://www.educatingyoungengineers.com/lego-club-activity-ideas
 
 .Materials:
-- Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
+* Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
 
 .Location:
 Classroom/Lab

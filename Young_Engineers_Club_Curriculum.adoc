@@ -11,6 +11,16 @@ include::introduction.adoc[]
 
 = Curriculum Workshops
 
+== Demo: Club Recruitment
+****
+Date: TBD
+
+Demonstration to the whole school to encourage students to
+join the club. Should be very brief, engaging and demonstrate
+some engineering principles.
+****
+include::demos/straw_rocket.adoc[]
+
 == Workshop {counter:workshop}: Spooky Engineering
 ****
 2016-10-25
@@ -195,13 +205,13 @@ Egg Olympics
 
 .Resources:
 
-- https://www.apogeerockets.com/
-- https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS $60
-- https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46 $55
-- https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW $65
-- https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02 $50
-- https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78 $15
-- https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6 $20
+* https://www.apogeerockets.com/
+* https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS $60
+* https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46 $55
+* https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW $65
+* https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02 $50
+* https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78 $15
+* https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6 $20
 
 Rocketry, start build, Launch electronics
 

@@ -1,21 +1,21 @@
 === Delicious Engineering
 .Disciplines:
-- Math
+* Math
 
 .Resources:
-- http://www.evilmadscientist.com/2013/sconic-sections/
-- Vi Hart Cookie Shapes: https://www.youtube.com/watch?v=_n1126GoxbU
-- Vi Hart Fruit by the Foot:  https://www.youtube.com/watch?v=Am-a5x9DGjg
+* http://www.evilmadscientist.com/2013/sconic-sections/
+* Vi Hart Cookie Shapes: https://www.youtube.com/watch?v=_n1126GoxbU
+* Vi Hart Fruit by the Foot:  https://www.youtube.com/watch?v=Am-a5x9DGjg
 
 .Materials:
-- TODO: Adjust quantities
-- Cone shaped paper cups
-- 4 cups flour
-- 1/3 cup sugar
-- 4 1/2 teaspons baking powder
-- 2 eggs, beaten
-- 3/4 stick of butter, softened
-- 1 cup milk
+* TODO: Adjust quantities
+* Cone shaped paper cups
+* 4 cups flour
+* 1/3 cup sugar
+* 4 1/2 teaspons baking powder
+* 2 eggs, beaten
+* 3/4 stick of butter, softened
+* 1 cup milk
 
 WARNING: Identify any food allergies and accommodate appropriately
 

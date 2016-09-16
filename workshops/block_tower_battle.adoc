@@ -1,16 +1,16 @@
 === Block Tower Battle
 .Disciplines:
-- Architectural Engineering
+* Architectural Engineering
 
 .Setup:
 
 .Materials:
-- Large Building blocks
-  - Alternatively plastic cups, cut up 2x4's, paper/cardboard crafted blocks
-- 10-20 foam balls or wiffle balls
-- Tape measure
-- Stopwatch
-- TODO: materials for ball hurling contraptions
+* Large Building blocks
+** Alternatively plastic cups, cut up 2x4's, paper/cardboard crafted blocks
+* 10-20 foam balls or wiffle balls
+* Tape measure
+* Stopwatch
+* TODO: materials for ball hurling contraptions
 
 .Location:
 Gymnasium or outdoors
