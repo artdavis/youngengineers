@@ -1,26 +1,26 @@
 === Unsinkable Boat
 .Disciplines:
-- Naval Engineering
+* Naval Engineering
 
 .Setup:
 
 .Resources:
-- http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
-- http://pbskids.org/designsquad/parentseducators/resources/watercraft.html
-- http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf
-- http://pbskids.org/designsquad/build/watercraft/
+* http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
+* http://pbskids.org/designsquad/parentseducators/resources/watercraft.html
+* http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf
+* http://pbskids.org/designsquad/build/watercraft/
 
 .Materials:
-- 50 plastic straws per team
-- 1 roll of tape per team
-- 25 pennies
-- 5 paper cups per team
-- Plastic Wrap
-- Additional coins/washers
-- Large tub or large watertight storage bin
-- Stopwatch
-- Digital scale (or triple balance scale)
-- Internet Media Access
+* 50 plastic straws per team
+* 1 roll of tape per team
+* 25 pennies
+* 5 paper cups per team
+* Plastic Wrap
+* Additional coins/washers
+* Large tub or large watertight storage bin
+* Stopwatch
+* Digital scale (or triple balance scale)
+* Internet Media Access
 
 .Location:
 Inside or outside on a warm day.

@@ -1,18 +1,21 @@
 === Straw Rocket
 .Disciplines:
-* 
+* Aerospace Engineering
 
 .Setup:
 
 .Resources:
 * http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/
 * http://www.pleasantestthing.com/make-straw-rockets
+* http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./
+* https://www.youtube.com/watch?v=_kJodRNFphE
 
 .Materials:
-* 
+* Straw
+* 1/2" Backer Rod
 
 .Location:
-Where?
+Large room or auditorium where all students have a good view.
 
 .Preparation:
 
@@ -20,10 +23,8 @@ Where?
 
 .Class Inquiry:
 
-.Teaming:
-Teams of 2-3 making sure youngest are teamed with older student(s)
-
 .Challenge:
+"Build and launch a rocket out of these parts"
 
 .Class Inquiry:
 

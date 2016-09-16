@@ -1,29 +1,29 @@
 === Paddle Power
 .Disciplines:
-- Naval Engineering
-- Mechanical Engineering
+* Naval Engineering
+* Mechanical Engineering
 
 .Setup:
 
 .Resources:
-- http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
-- http://pbskids.org/designsquad/build/paddle-power/
-- Design Squad Season 2, Episode 8: Aquatic Robots
+* http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
+* http://pbskids.org/designsquad/build/paddle-power/
+* Design Squad Season 2, Episode 8: Aquatic Robots
 
 .Materials:
-- Large tub or large watertight storage bin
-- Stopwatch
-- Internet Media Access
-- Per team:
-  * Chipboard cardboard (such as a cereal box)
-  * Plastic tape
-  * 2 paper cups (≥8oz)
-  * Plastic wrap
-  * 5 rubber bands
-  * Scissors
-  * Straws
-  * Washers
-  * Dowels
+* Large tub or large watertight storage bin
+* Stopwatch
+* Internet Media Access
+* Per team:
+** Chipboard cardboard (such as a cereal box)
+** Plastic tape
+** 2 paper cups (≥8oz)
+** Plastic wrap
+** 5 rubber bands
+** Scissors
+** Straws
+** Washers
+** Dowels
 
 .Location:
 Inside or outside on a warm day

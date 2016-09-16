@@ -1,7 +1,7 @@
 === What is Engineering?
 
 .Disciplines:
-- Engineering Fundamentals
+* Engineering Fundamentals
 
 .Philosophy:
 For this and all ensuing workshops, prioritize allowing the students to steer
@@ -45,11 +45,11 @@ _______________________________
 * Various stickers and coloring sheets of technical items for students
   to choose for personalizing their engineering notebooks. Example
   coloring sheet ideas:
-  - Gears, pulleys, clocks, Rube Goldberg
-  - Vehicles: automotive, nautical, construction equipment, aerospace
-  - Instrumentation
-  - Computers
-  - Drafting symbols/stickers
+** Gears, pulleys, clocks, Rube Goldberg
+** Vehicles: automotive, nautical, construction equipment, aerospace
+** Instrumentation
+** Computers
+** Drafting symbols/stickers
 
 .Location:
 Indoor classroom/lab environment
@@ -59,11 +59,11 @@ Write the challenge "What is engineering?" on the board.
 
 Draw five large circles on the board. At the top of each circle write each of
 the following categories:
-- Mechanical
-- Chemical
-- Civil
-- Electrical
-- Software
+* Mechanical
+* Chemical
+* Civil
+* Electrical
+* Software
 
 Distribute the gears/gizmos, magazines and index cards across all the classroom
 tables.  Don't offer direction one way or another whether the kids are allowed
@@ -134,20 +134,20 @@ Make 1" - 1.5" diameter circular icon images on a printed page that can be
 punched out with a 1" - 1.5" punch. Each image can be an engineering related
 picture/term. The graphics can be line art and the students can be encouraged
 to color them as they please.
-- Gears: mechanical, automotive
-- Computer workstation: software and all disciplines
-- Iconic lab glassware: chemical
-- Optics, Laser: optical
-- Rocket, airplane: aerospace
-- Heart: biomedical
-- Eyeball: biomedical optics
-- Boat, Dam: Marine, mechanical
-- Robot: electrical, software robotic
-- Assembly line: manufacturing
-- Bridge: civil, mechanical, architectural
-- Computer chip: electrical
-- skyscraper building: architectural, mechanical
-- electrical symbols: resistor, capacitor, power supply, opamp etc
-- drafting symbols: centerline, dimensional callout etc
+* Gears: mechanical, automotive
+* Computer workstation: software and all disciplines
+* Iconic lab glassware: chemical
+* Optics, Laser: optical
+* Rocket, airplane: aerospace
+* Heart: biomedical
+* Eyeball: biomedical optics
+* Boat, Dam: Marine, mechanical
+* Robot: electrical, software robotic
+* Assembly line: manufacturing
+* Bridge: civil, mechanical, architectural
+* Computer chip: electrical
+* skyscraper building: architectural, mechanical
+* electrical symbols: resistor, capacitor, power supply, opamp etc
+* drafting symbols: centerline, dimensional callout etc
 Also have some blank disks for the kids to draw their own pictures/terms
 // vim: set syntax=asciidoc:
