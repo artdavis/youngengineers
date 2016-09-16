@@ -59,7 +59,7 @@ Write the challenge "What is engineering?" on the board.
 
 Draw five large circles on the board. At the top of each circle write each of
 the following categories:
-- Mecahnical
+- Mechanical
 - Chemical
 - Civil
 - Electrical
