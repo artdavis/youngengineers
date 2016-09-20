@@ -132,6 +132,9 @@ Software engineering, coding, scratch, python, lightbot, TurtleArt
 == Workshop {counter:workshop}: Software Engineering II
 ****
 2017-01-31
+
+
+MID YEAR BREAK
 ****
 
 == Workshop {counter:workshop}: Computer Aided Design
@@ -181,14 +184,14 @@ LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing
 2017-03-28
 ****
 
-== Workshop {counter:workshop}: Egg Olympics Design and Build
+== Workshop {counter:workshop}: Crash Test Eggs Design and Build
 ****
 2017-04-04
 ****
 Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
 force, egg survival, egg destruction
 
-== Workshop {counter:workshop}: Egg Olympics Tournament
+== Workshop {counter:workshop}: Crash Test Eggs Tournament
 ****
 2017-04-11
 

@@ -64,6 +64,45 @@ the following categories:
 * Civil
 * Electrical
 * Software
+* Interdisciplinary
+
+[quote, Wikipedia, List of engineering branches]
+_______________________________
+
+Mechanical engineering comprises the design, analysis and of heat and
+mechanical power for the operation of machines and mechanical systems.
+
+Chemical engineering is the application of chemical, physical, and biological
+sciences to the process of converting raw materials or chemicals into more
+useful or valuable forms....
+
+Civil engineering comprises the design, construction, and maintenance of the
+physical and natural built environments.
+
+Electrical engineering comprises the study and application of electricity,
+electronics, and electromagnetism.
+
+Software engineering is the study and an application of engineering to the
+design, development, implementation and maintenance of software in a systematic
+method.
+_______________________________
+
+Wikipedia classifies the sub-disciplines as follows:
+* Civil
+** Architectural, Construction, Earthquake, Hydraulic, Mining, Structural,
+   Geotechnical, Transportation, Environmental
+* Mechanical
+** Aerospace, Acoustical, Automotive, Maring, Mechatronics, Railway
+* Electrical
+** Computer, Control, Electronifs, Electromechanics, Optical, Power,
+   Photonics, Telecommunications, Radio Frequency
+* Chemical
+** Biochemical, Biological, Molecular, Nanotechnology, Process, Reaction,
+   Thermodynamics, Transport phenomena
+* Interdisciplinary
+** Audio, Engineering mathematics, Biomedical, Fire, Industrial,
+   Materials science, Robotics, Military, Nuclear, Security, Systems, Privacy
+
 
 Distribute the gears/gizmos, magazines and index cards across all the classroom
 tables.  Don't offer direction one way or another whether the kids are allowed

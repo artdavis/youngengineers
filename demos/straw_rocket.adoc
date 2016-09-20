@@ -12,7 +12,7 @@
 
 .Materials:
 * Straw
-* 1/2" Backer Rod
+* 5/8" Backer Rod
 
 .Location:
 Large room or auditorium where all students have a good view.
@@ -20,11 +20,33 @@ Large room or auditorium where all students have a good view.
 .Preparation:
 
 .Demonstration:
+Review the basics of the club meetings
+* Each meeting we will have an Engineering Challenge
+* We'll have materials to work with and we might ask you to bring in some
+  craft supplies or recyclables from home.
+
+Highlight topics:
+* Mechanical, Chemical, Civil, Electrical, Software
+* 3D Printing
+* Rocketry
+* Crash Test Eggs
+* Battling Robots
 
 .Class Inquiry:
+* Does anyone know what Engineering is?
+** Write some answers on the board.
+* Does anyone know what kinds of Engineers there are?
+** Also write suggestions down.
+* Write down:
+** Mechanical
+** Chemical
+** Civil
+** Electrical
+** Software
+** Interdisciplinary
 
 .Challenge:
-"Build and launch a rocket out of these parts"
+"Build and launch a rocket out of foam rod"
 
 .Class Inquiry:
 
