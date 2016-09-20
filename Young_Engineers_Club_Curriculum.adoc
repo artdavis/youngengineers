@@ -13,7 +13,7 @@ include::introduction.adoc[]
 
 == Demo: Club Recruitment
 ****
-Date: TBD
+2016-09-20
 
 Demonstration to the whole school to encourage students to
 join the club. Should be very brief, engaging and demonstrate
@@ -21,11 +21,27 @@ some engineering principles.
 ****
 include::demos/straw_rocket.adoc[]
 
+== Workshop {counter:workshop}: Introduction to Engineering
+****
+2016-10-04
+
+NOTE: First meeting
+****
+include::workshops/what_is_engineering.adoc[]
+
+== Workshop {counter:workshop}: Unsinkable Boat
+****
+2016-10-11
+
+IMPORTANT: Notify students that meeting on 10/18 will be cancelled.
+****
+include::workshops/unsinkable_boad.adoc[]
+
+
 == Workshop {counter:workshop}: Spooky Engineering
 ****
 2016-10-25
 
-NOTE: First meeting
 
 Meeting before Halloween
 ****
@@ -264,8 +280,6 @@ designs and constructs their entry before for competition.
 
 = Supplemental Workshops
 
-== Supplemental {counter:workshop}: Intro to Engineering
-include::workshops/what_is_engineering.adoc[]
 
 == Supplemental {counter:supplemental}: Siphon
 include::demos/siphon.adoc[]
@@ -275,9 +289,6 @@ include::workshops/ramp_racers.adoc[]
 
 == Supplemental {counter:supplemental}: Block Tower Battle
 include::workshops/block_tower_battle.adoc[]
-
-== Supplemental {counter:workshop}: Unsinkable Boat
-include::workshops/unsinkable_boat.adoc[]
 
 == Supplemental {counter:workshop}: Paddle Power
 include::workshops/paddle_power.adoc[]
