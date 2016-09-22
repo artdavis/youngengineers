@@ -19,6 +19,14 @@ Demonstration to the whole school to encourage students to
 join the club. Should be very brief, engaging and demonstrate
 some engineering principles.
 ****
+.Demonstration:
+* Introduction
+* Ask for ideas about "What is Engineering?"
+* Ask for suggestions on what different types of Engineering there is.
+* Engineering is the application of knowledge to invent, design and build systems.
+* Review the basics of the club meetings
+* "Each meeting we will have an Engineering Challenge. Would you like to try one?"
+
 include::demos/straw_rocket.adoc[]
 
 == Workshop {counter:workshop}: Introduction to Engineering

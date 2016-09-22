@@ -1,4 +1,11 @@
 === Straw Rocket
+This demonstration can just as well be repurposed as a full class
+activity.
+
+.Attribution
+This rocket design is inspired by "Stefan" type Nerf darts:
+http://nerf.wikia.com/wiki/Stefan
+
 .Disciplines:
 * Aerospace Engineering
 
@@ -11,42 +18,66 @@
 * https://www.youtube.com/watch?v=_kJodRNFphE
 
 .Materials:
+* White board
 * Straw
 * 5/8" Backer Rod
+* Business cards or thick index cards
+* 3D Printed parts from: www.thingiverse.com/thing:1782060
+* Optional: squishy bottle
 
 .Location:
 Large room or auditorium where all students have a good view.
 
 .Preparation:
-
-.Demonstration:
-Review the basics of the club meetings
-* Each meeting we will have an Engineering Challenge
-* We'll have materials to work with and we might ask you to bring in some
-  craft supplies or recyclables from home.
-
-Highlight topics:
-* Mechanical, Chemical, Civil, Electrical, Software
-* 3D Printing
-* Rocketry
-* Crash Test Eggs
-* Battling Robots
-
-.Class Inquiry:
-* Does anyone know what Engineering is?
-** Write some answers on the board.
-* Does anyone know what kinds of Engineers there are?
-** Also write suggestions down.
-* Write down:
-** Mechanical
-** Chemical
-** Civil
-** Electrical
-** Software
-** Interdisciplinary
+* 3D Print the `Forming-Rod` in a rigid material such as PLA
+* The `Straw-Holder` and `bottle-tube-coupler` are optional.
+  Print these parts if you want to connect the straw to a squeeze bottle for launching.
+* Print `Fin-Holder` and `nosecone-plug` in your material of choice.
+** Test the fit of a card in the slots of the `Fin-Holder`.
+   Use a blade to clean out the slots for a good fit if necessary.
+* Preferably print `nose-ogive` in a flex material for safety.
+* Push the `nose-ogive` part onto the slotted side of the `nosecone-plug`.
+  The friction fit should be sufficient or you may use glue if needed.
 
 .Challenge:
-"Build and launch a rocket out of foam rod"
+"Design, Build and Launch a Rocket"
+
+.Demonstration
+* Inquire of the group what are the parts of a rocket.
+  Draw the parts on the whiteboard as they give them to you.
+  Keep going until you get the key components:
+** Body tube
+** Fins
+** Nosecone
+** Engine
+* For the body tube, cut a 3" (75mm) length of 5/8" foam backer rod.
+* Use the 3D printed "Forming-Rod" to core a hole through the foam.
+  Coring half way through from each side works well.
+** Alternatively a straw that has been cut with serrations may be used, but the 3D printed rigid tool is much more effective.
+* Ask for ideas for how to make the nosecone.
+*  Introduce the 3D printed nosecone assembly and attach that to one end of the foam body tube.
+** Alternatives to the 3D printed nosecone might include a shaped piece of clay, candy corn or card stock formed into a cone.
+* Announce that you plan to make the fins out of some business/index cards.
+  Ask how you might cut 3 exactly identical fins.
+* Stack three cards together and cut a fin shape of choice about 1" (25mm) in length.
+* Ask how to attach the fins to the body tube.
+* Slide the fin-holder onto the rocket body and attach the fins.
+** If you don't have the 3D fin-holder it should be possible to glue or tape the fins on.
+   You may try scoring three a shallow slits in the foam body or folding the root edge of the fins to help attach them.
+* Inquire for ideas about what to use for an engine.
+* Bring out the straw and say that we'll use the straw as the engine.
+  Slide the rocket on to the long end.
+* Have the class do a countdown and on "blastoff" put the straw in your ear.
+* Everyone should offer the suggestion that you need to blow into the straw.
+* Do another countdown and blow into the straw like your saying "Ha" without closing your mouth around it.
+* OK, this time for real, countdown an launch the rocket.
+
+.Optional
+If you've got a squishy bottle (a bottle that will survive stomping on and return to it's original shape) you can make a more powerful launcher.
+You'll just need a proper sized coupling to connect the bottle to the straw.
+The default bottle tube coupler included with on the thingiverse page will fit a 16mm diameter bottle opening.
+TODO: create a customizer for this
+
 
 .Class Inquiry:
 
