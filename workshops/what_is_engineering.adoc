@@ -29,6 +29,9 @@ The term Engineering is derived from the Latin ingenium, meaning "cleverness"
 and ingeniare, meaning "to contrive, devise".
 _______________________________
 
+In short: Engineering is the application of knowledge to invent, design and
+build systems.
+
 .Resources:
 * http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf
 * http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf
@@ -59,6 +62,7 @@ Write the challenge "What is engineering?" on the board.
 
 Draw five large circles on the board. At the top of each circle write each of
 the following categories:
+
 * Mechanical
 * Chemical
 * Civil
