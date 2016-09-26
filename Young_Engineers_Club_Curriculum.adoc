@@ -43,7 +43,7 @@ include::workshops/what_is_engineering.adoc[]
 
 IMPORTANT: Notify students that meeting on 10/18 will be cancelled.
 ****
-include::workshops/unsinkable_boad.adoc[]
+include::workshops/unsinkable_boat.adoc[]
 
 
 == Workshop {counter:workshop}: Spooky Engineering
