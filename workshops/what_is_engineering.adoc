@@ -4,15 +4,11 @@
 * Engineering Fundamentals
 
 .Philosophy:
-For this and all ensuing workshops, prioritize allowing the students to steer
-the direction. These workshops are guidelines for providing a medium for
-exploration but there's no need to hold fast to them. If the class is motivated
-to do something totally different, encourage this even if it's not part of
-the plan.
+For this and all ensuing workshops, prioritize allowing the students to steer the direction.
+These workshops are guidelines for providing a medium for exploration but there's no need to hold fast to them.
+If the class is motivated to do something totally different, encourage this even if it's not part of the plan.
 
-For reference, Wikipedia defines Engineering as follows. No need to actually
-read this to the class, but it may be helpful in case you get a few pedantic
-inquires:
+For reference, Wikipedia defines Engineering as follows, (there's no need to actually read this to the class, but it may be helpful in case you get a few pedantic inquires):
 
 [quote, Wikipedia, Engineering]
 _______________________________
@@ -43,7 +39,6 @@ build systems.
 * Computer workstation with internet access
 * Make Magazines and/or similar
 * Various gears and other engineering like gizmos
-* 3-hole engineering graph paper
 * Ruler
 * Various stickers and coloring sheets of technical items for students
   to choose for personalizing their engineering notebooks. Example
@@ -70,35 +65,32 @@ the following categories:
 * Software
 * Interdisciplinary
 
+For reference here are some definitions:
+
 [quote, Wikipedia, List of engineering branches]
 _______________________________
 
-Mechanical engineering comprises the design, analysis and of heat and
-mechanical power for the operation of machines and mechanical systems.
+Mechanical engineering:: is the discipline that applies the principles of engineering, physics, and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery. It is one of the oldest and broadest of the engineering disciplines.
 
-Chemical engineering is the application of chemical, physical, and biological
-sciences to the process of converting raw materials or chemicals into more
-useful or valuable forms....
+Chemical engineering:: is a branch of engineering that applies physical sciences (physics and chemistry) and life sciences (microbiology and biochemistry) together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy. Essentially, chemical engineers design large-scale processes that convert chemicals, raw materials, living cells, microorganisms and energy into useful forms and products.
 
-Civil engineering comprises the design, construction, and maintenance of the
-physical and natural built environments.
+Civil engineering:: is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, canals, dams, and buildings.
 
-Electrical engineering comprises the study and application of electricity,
+Electrical engineering:: comprises the study and application of electricity,
 electronics, and electromagnetism.
 
-Software engineering is the study and an application of engineering to the
-design, development, implementation and maintenance of software in a systematic
-method.
+Software engineering:: is the application of engineering to the design, development, implementation and maintenance of software in a systematic method.
 _______________________________
 
 Wikipedia classifies the sub-disciplines as follows:
+
 * Civil
 ** Architectural, Construction, Earthquake, Hydraulic, Mining, Structural,
    Geotechnical, Transportation, Environmental
 * Mechanical
-** Aerospace, Acoustical, Automotive, Maring, Mechatronics, Railway
+** Aerospace, Acoustical, Automotive, Marine, Mechatronics, Railway
 * Electrical
-** Computer, Control, Electronifs, Electromechanics, Optical, Power,
+** Computer, Control, Electronics, Electromechanics, Optical, Power,
    Photonics, Telecommunications, Radio Frequency
 * Chemical
 ** Biochemical, Biological, Molecular, Nanotechnology, Process, Reaction,
@@ -113,14 +105,12 @@ tables.  Don't offer direction one way or another whether the kids are allowed
 to touch these things. When they do start playing/reading don't make them stop
 when you move on to new activities.
 
-Have a computer workstation set up and pointing at the webpage:
-http://spacefem.com/quizzes/engineer/ During the challenge allow students to
-individually come up and take the quiz (with assistance if necessary).  Have
-them log their results on the first page in their engineering notebook.
+Have a computer workstation set up and pointing at the webpage: http://spacefem.com/quizzes/engineer .
+During the challenge allow students to individually come up and take the quiz (with assistance if necessary).
+If you have engineering notebooks, have them log their results.
 
-Consider starting the meeting seated among the students: "So, who's going
-to teach us today?". If there are any volunteers, see where it goes before
-taking formal charge.
+Consider starting the meeting seated among the students: "So, who's going to teach us today?".
+If there are any volunteers, see where it goes before taking formal charge.
 
 [NOTE]
 .Engineering Notebook (Optional)
@@ -142,41 +132,37 @@ that students can submit reports to.
 ========================
 
 .Challenge:
-Pose the question "What is engineering?". Allow the discussion to be
-driven by the students. Invite the students to write down or draw something on
-the index cards that they think has to do with engineering. Let them make as
-many index cards as they want.
+Pose the question "What is engineering?".
+Allow the discussion to be driven by the students.
+Invite the students to write down or draw something on the index cards that they think has to do with engineering.
+Let them make as many index cards as they want.
 
-Also create cards (optionally extra large) with your own selection of
-engineering disciplines.  My choices include: Acoustical, Aerospace,
-Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided,
-Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software
+Also create cards (optionally extra large) with your own selection of engineering disciplines.
+My choices include: Acoustical, Aerospace, Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided, Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software.
 
-have the students tape their cards into as many of the 5 category circles
-drawn up on the board. For example an Automotive engineering card might well be
-placed in each of the circles wheras the gears would likely only be placed
-in the Mechanical circle.
-
-TODO: Put wikipedia definitions and sub-discipline categorization here for
-reference.
+Have the students tape their cards into as many of the 5 category circles drawn up on the board.
+For example an Automotive engineering card might well be placed in each of the circles whereas the gears would likely only be placed in the Mechanical circle.
 
 Based on the results illustrate some Venn diagrams for various disciplines.
-Ask the students to pick some of their favorite cards
-and try to identify a discipline that they like. Have them log the result
-in their notebook and compare that to their quiz results. Have them put their
-name and date on the page.
+Ask the students to pick some of their favorite cards and try to identify a discipline that they like.
+
+.Optional notebook activity
+Have the students log their favorite discipline in their notebook and compare that to their quiz results.
+Have them put their name and date on the page.
 
 Redistribute the notebooks so everyone has somebody else's notebook.
-Invite the students to report on whose notebook they got and what kind of
-engineer their colleague is. As a "peer review" then they can sign and date
-their name at the bottom of the page and return the notebook to the owner.
+Invite the students to report on whose notebook they got and what kind of engineer their colleague is.
+As a "peer review" then they can sign and date their name at the bottom of the page and return the notebook to the owner.
 
-==== Development in progress
+==== Additional activities
+
+Optionally bring the <<straw_rocket>> materials as an additional activity for students.
+
 Make worksheets that the students can populate Venn diagrams themselves.
-Make 1" - 1.5" diameter circular icon images on a printed page that can be
-punched out with a 1" - 1.5" punch. Each image can be an engineering related
-picture/term. The graphics can be line art and the students can be encouraged
-to color them as they please.
+Make 1" - 1.5" diameter circular icon images on a printed page that can be punched out with a 1" - 1.5" punch.
+Each image can be an engineering related picture/term.
+The graphics can be line art and the students can be encouraged to color them as they please.
+
 * Gears: mechanical, automotive
 * Computer workstation: software and all disciplines
 * Iconic lab glassware: chemical
@@ -192,5 +178,6 @@ to color them as they please.
 * skyscraper building: architectural, mechanical
 * electrical symbols: resistor, capacitor, power supply, opamp etc
 * drafting symbols: centerline, dimensional callout etc
-Also have some blank disks for the kids to draw their own pictures/terms
+* Also have some blank disks for the kids to draw their own pictures/terms
+
 // vim: set syntax=asciidoc:

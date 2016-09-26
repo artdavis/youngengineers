@@ -1,4 +1,5 @@
 === Straw Rocket
+[[straw_rocket,Straw Rocket]]
 This demonstration can just as well be repurposed as a full class
 activity.
 
@@ -23,7 +24,7 @@ http://nerf.wikia.com/wiki/Stefan
 * 5/8" Foam Backer Rod
 * Business cards or thick index cards
 * 3D Printed parts from: www.thingiverse.com/thing:1782060
-* Optional: squishy bottle
+* Optional: squishy bottle (a bottle that will survive stomping on and return to it's original shape)
 
 .Location:
 Large room or auditorium where all students have a good view.
@@ -73,7 +74,7 @@ Large room or auditorium where all students have a good view.
 * OK, this time for real, countdown an launch the rocket.
 
 .Optional
-If you've got a squishy bottle (a bottle that will survive stomping on and return to it's original shape) you can make a more powerful launcher.
+If you've got a squishy bottle you can make a more powerful launcher.
 You'll just need a proper sized coupling to connect the bottle to the straw.
 The default bottle tube coupler included with on the thingiverse page will fit a 16mm diameter bottle opening.
 
@@ -86,9 +87,8 @@ TODO: create a customizer for this to fit any bottle size.
   class does the countdown.
 
 
-.Class Inquiry:
-
-.Further Challenges:
+//.Class Inquiry:
+//.Further Challenges:
 
 // vim: set syntax=asciidoc:
 
