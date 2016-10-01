@@ -50,10 +50,49 @@ wonderfully surprising.
 Finally, we may plan an occasional weekend meet up at local events that are of
 interest to the club (for example, FIRST LEGO tournament).
 
+.Optional Materials
+
+Some optional materials you may consider supplying for your child include:
+
+* Safety Glasses. We will have safety glasses on hand for
+  every club member. But if preferred, students may bring in their own safety
+  glasses. Please be sure they are labeled with their name. Alternatively if
+  your child wears prescription glasses you may find compatible clip on side
+  shields.
+* Engineering Notebook. Keeping an engineering notebook is not required, but
+  older students may want to keep one. Exactly what to use for an engineering
+  notebook is a matter of personal preference. Typically graph paper type
+  stationary is used (for instance, an engineering computation notepad and a 1"
+  3 ring binder).
+* Tools. We'll have tools on hand for projects as needed though students are
+  welcome to bring their own tools if available. A minimum tool set would be a
+  small toolbox that includes Phillips and common blade screwdrivers, slip
+  joint pliers, needle nose pliers, a ruler, a tape measure and diagonal
+  cutters.  Please clearly label everything with the student's name.
+* Broken gadgets. Remember to keep an eye out for things that can be sent
+  in for disassembly. Our reverse engineering workshop is planned for early
+  January. Whatever you send in, be sure it's disposable as it will be
+  thoroughly unusable once we're done with it.
+
+Also please check with your child after each meetup for any additional
+preparation requests for the following week's club meeting. I will provide
+handouts with any additional supplies or actions requested as necessary.
+
+
 === Materials
 
 Required materials are listed within each workshop decription.
 Alternative supplies may be substituted or often you can improvise
 around not having supplies by adjusting the workshop activities.
+
+=== TODO
+
+Suggested materials for parents to get for their kids.
+- Kids safety glasses or side shields for prescription glasses.
+  We will have some on hand for the club but you may also want their own.
+  Make sure to put names on glasses.
+- Engineering notebook optional. Filler paper and ring binder an option.
+
+
 
 // vim: set syntax=asciidoc:
