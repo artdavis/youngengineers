@@ -29,7 +29,7 @@ some engineering principles.
 
 include::demos/straw_rocket.adoc[]
 
-== Workshop {counter:workshop}: Introduction to Engineering
+== Workshop {counter:workshop}: What is Engineering
 ****
 2016-10-04
 
@@ -85,8 +85,7 @@ include::workshops/delicious_engineering.adoc[]
 ****
 2016-11-22
 
-IMPORTANT: Check with parents whether to cancel this meeting due to
-Thanksgiving Holiday.
+IMPORTANT: This meeting is cancelled. Relocate this workshop.
 
 Blue man group PVC pipe instruments:
 http://makezine.com/projects/pvc-pipe-instrument/
