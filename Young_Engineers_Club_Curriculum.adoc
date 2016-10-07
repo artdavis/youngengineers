@@ -50,6 +50,8 @@ Resources:
 http://www.bricklink.com/
 https://shop.lego.com/en-US/Pick-a-Brick
 https://education.lego.com/en-us/
+
+Ask kids to bring in their own LEGO minifigure
 ****
 include::workshops/lego_engineering_challenges.adoc[]
 
