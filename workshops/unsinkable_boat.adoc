@@ -21,12 +21,18 @@
 * Stopwatch
 * Digital scale (or triple balance scale)
 * Internet Media Access
+* golf ball
+* ping pong ball
 
 .Location:
 Inside or outside on a warm day.
 
 .Preparation:
 Fill the tub with water.
+
+.Facilitator notes
+* Buoyancy is the force of the water against the boat
+* Increasing surface area will increase water displacement and increase buoyancy
 
 .Demonstration:
 Show the Design Squad video:
@@ -38,12 +44,31 @@ Teams of 2-3 making sure youngest are teamed with older student(s)
 .Challenge:
 Build a boat that can hold 25 pennies for at least 10 seconds before sinking
 
-Give each team tape and straws and let them have at it. Have teams log their
-designs and results in their engineering notebooks. For those interested, try
-adding additional weight (coins and/or washers) to see how much their boats can
-take before sinking.
+Discuss buoyancy. Inquire for some items to float test and try them.
+Demonstrate the golf ball and ping pong ball buoyancy.
 
-Students can weigh the coins/washers their boat held and log it in their
-notebook. If the scale is sensitive enough they might also weigh their boat.
+Discuss the challenge and the provided materials to the class. Allow them to
+come up with some ideas in an open discussion ahead of time. Have them draw
+some sketches for their ideas.
+
+Give each team tape, straws, a sheet of plastic wrap and the cups.
+The cups are there as a vessel for holding the pennies.
+But don't discourage students if they decide to use them in other creative ways.
+For those interested, try adding additional weight (coins and/or washers) to see how much their boats can take before sinking.
+
+Students can weigh the coins/washers their boat held and log it in their notebook.
+If the scale is sensitive enough they might also weigh their boat.
+
+.TODO
+Before grouping, have everybody make their own boat design on paper
+knowing the materials available on hand.
+
+Once everyone is grouped, task teammates to build the other team members
+design (students do not build their own design at first).
+
+After everyone has float tested their boats, see about modifying the boats
+that didn't hold up as a group effort.
+
+Next see how much total weight each boat can take before sinking.
 
 // vim: set syntax=asciidoc:

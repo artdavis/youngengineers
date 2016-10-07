@@ -1,7 +1,7 @@
 Young Engineers Club Curriculum
 ===============================
 Arthur Davis <art.davis@gmail.com>
-v0.1, 2016-09-13
+v0.2, 2016-10-02
 :doctype: book
 :description: Compilation of workshops for Young Engineers Club Curriculum
 :toc:
@@ -10,24 +10,6 @@ v0.1, 2016-09-13
 include::introduction.adoc[]
 
 = Curriculum Workshops
-
-== Demo: Club Recruitment
-****
-2016-09-20
-
-Demonstration to the whole school to encourage students to
-join the club. Should be very brief, engaging and demonstrate
-some engineering principles.
-****
-.Demonstration:
-* Introduction
-* Ask for ideas about "What is Engineering?"
-* Ask for suggestions on what different types of Engineering there is.
-* Engineering is the application of knowledge to invent, design and build systems.
-* Review the basics of the club meetings
-* "Each meeting we will have an Engineering Challenge. Would you like to try one?"
-
-include::demos/straw_rocket.adoc[]
 
 == Workshop {counter:workshop}: What is Engineering
 ****
@@ -49,7 +31,6 @@ include::workshops/unsinkable_boat.adoc[]
 == Workshop {counter:workshop}: Spooky Engineering
 ****
 2016-10-25
-
 
 Meeting before Halloween
 ****
@@ -287,6 +268,9 @@ designs and constructs their entry before for competition.
 
 = Supplemental Workshops
 
+
+== Supplemental {counter:supplemental}: Straw Rockets
+include::demos/straw_rocket.adoc[]
 
 == Supplemental {counter:supplemental}: Siphon
 include::demos/siphon.adoc[]
