@@ -9,12 +9,13 @@
 * http://pbskids.org/designsquad/parentseducators/resources/watercraft.html
 * http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf
 * http://pbskids.org/designsquad/build/watercraft/
+* https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy
 
 .Materials:
 * 50 plastic straws per team
 * 1 roll of tape per team
 * 25 pennies
-* 5 paper cups per team
+* 1 paper cups per team
 * Plastic Wrap
 * Additional coins/washers
 * Large tub or large watertight storage bin
@@ -23,6 +24,7 @@
 * Internet Media Access
 * golf ball
 * ping pong ball
+* Clay
 
 .Location:
 Inside or outside on a warm day.
@@ -32,11 +34,12 @@ Fill the tub with water.
 
 .Facilitator notes
 * Buoyancy is the force of the water against the boat
+* An object that floats displaces it's equal weight in water
 * Increasing surface area will increase water displacement and increase buoyancy
 
 .Demonstration:
-Show the Design Squad video:
-http://pbskids.org/designsquad/build/watercraft/
+Show the first 6.5 minutes of the Bill Nye video:
+https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy
 
 .Teaming:
 Teams of 2-3 making sure youngest are teamed with older student(s)
@@ -47,28 +50,20 @@ Build a boat that can hold 25 pennies for at least 10 seconds before sinking
 Discuss buoyancy. Inquire for some items to float test and try them.
 Demonstrate the golf ball and ping pong ball buoyancy.
 
-Discuss the challenge and the provided materials to the class. Allow them to
-come up with some ideas in an open discussion ahead of time. Have them draw
-some sketches for their ideas.
+Use a balled up blob of modeling clay that is about the same size as the golf ball.
+Demonstrate that it sinks.
+Reshape it to a boat shape and demonstrate that it floats.
 
-Give each team tape, straws, a sheet of plastic wrap and the cups.
-The cups are there as a vessel for holding the pennies.
-But don't discourage students if they decide to use them in other creative ways.
+Discuss the challenge and the provided materials to the class.
+Allow them to come up with some ideas in an open discussion ahead of time.
+Have them draw some sketches for their ideas.
+
+Give each team tape, straws, a sheet of plastic wrap and a cup.
+The cups are there as a vessel for holding the pennies (but don't discourage students if they decide to use them in other creative ways).
 For those interested, try adding additional weight (coins and/or washers) to see how much their boats can take before sinking.
 
 Students can weigh the coins/washers their boat held and log it in their notebook.
 If the scale is sensitive enough they might also weigh their boat.
 
-.TODO
-Before grouping, have everybody make their own boat design on paper
-knowing the materials available on hand.
-
-Once everyone is grouped, task teammates to build the other team members
-design (students do not build their own design at first).
-
-After everyone has float tested their boats, see about modifying the boats
-that didn't hold up as a group effort.
-
-Next see how much total weight each boat can take before sinking.
 
 // vim: set syntax=asciidoc:

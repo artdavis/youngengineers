@@ -1,0 +1,53 @@
+Young Engineers Club
+====================
+
+[big]#Meeting October 11, 2016#
+
+****
+NOTE: Next meeting: October 25, 2016
+
+*Next meeting is in 2 weeks. There will be no meeting on Oct. 18*
+
+The next challenge is entitled "Spooky Engineering".
+Please bring the following materials to the next meeting:
+
+* A clear jar or bottle (12 to 24 fluid oz) with watertight top/cap.
+  A water bottle or a sauce jar should work well.
+  We'll be making a "spooky lava lamp" so the effect will be best if the label can be removed.
+
+****
+
+Our first meetup was a bit chaotic but we did manage to complete some good exercises.
+
+For future meetings everyone has responsibilities to help improve organization:
+
+* Everyone should bring their art supply box with them to the meeting
+* Bookbags and outerwear should be neatly stowed at the back of the room
+* After eating snack it should be cleaned up and any garbage thrown away
+
+Cleanup at the end of meeting then includes:
+
+* Tidying workspace and throwing away trash
+* Packing up art box and returning it to homeroom cubby
+* Stacking chairs back up on the side of the room
+
+In this week's challenge we split up into teams and encouraged everyone to do independent problem solving.
+
+Starting this week we're trying out having a student appointed "Principal Engineer".
+The Principal Engineer for the day helps out the parent facilitators with club activities.
+
+We learned a process for problem solving. When we get stuck we:
+
+* Try to solve the problem ourself a different way
+* Try to solve the problem ourself another different way
+* Ask a teammate/another club member for suggestions
+* Ask for help from the student Principal Engineer
+* Ask a parent facilitator
+
+And finally, when we complete our challenge we should:
+
+* Help out other students still working on completing their task
+* Try to take the current engineering challenge to "the next level"
+
+
+// vim: set syntax=asciidoc:
