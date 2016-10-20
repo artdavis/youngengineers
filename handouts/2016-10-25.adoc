@@ -1,0 +1,23 @@
+Young Engineers Club
+====================
+
+[big]#Meeting October 25, 2016#
+
+****
+NOTE: Next meeting: November 1, 2016
+
+The next challenge is entitled "Ballistic Pumpkins".
+The activity will take place (weather permitting) in the SIS play field.
+Please bring the following materials to the next meeting:
+
+* Weather appropriate warm clothing for spending an hour outdoors.
+* *OPTIONAL* Mini pumpkins (approximately tennis ball size).
+  We will be launching these pumpkins in the field using a trebuchet so they will be ruined.
+  You don't need to go out and buy mini pumpkins, just bring any you might have that you don't mind turning into compost.
+* *OPTIONAL* Tennis ball. We'll have tennis balls on hand, but you can also decorate your own with marker and bring it.
+
+****
+
+
+
+// vim: set syntax=asciidoc:
