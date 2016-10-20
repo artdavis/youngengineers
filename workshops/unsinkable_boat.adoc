@@ -15,7 +15,7 @@
 * 50 plastic straws per team
 * 1 roll of tape per team
 * 25 pennies
-* 1 paper cups per team
+* 1 paper cup per team
 * Plastic Wrap
 * Additional coins/washers
 * Large tub or large watertight storage bin
@@ -39,6 +39,7 @@ Fill the tub with water.
 
 .Demonstration:
 Show the first 6.5 minutes of the Bill Nye video:
+
 https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy
 
 .Teaming:
