@@ -14,22 +14,25 @@
 
 .Materials:
 
+* Food coloring
+* Alka-seltzer
+* Vegetable oil
+* Dish soap
+
 Per student:
 
 * A clear plastic bottle or jar
 * A bottle of vegetable oil
-* Water
-* Alka Seltzer
-* Food colouring
-* 1 cup water
-* 1.5 - 2 cups corn starch
-* Large mixing bowl
-* Silly Putty
+* Cup of water
+* Dixie cup of corn starch
+* Paper bowl
+* Spoon
 
 .Location:
 Classroom/Lab
 
 .Preparation:
+* Divvy up corn starch into Dixie cups.
 
 .Demonstration:
 
@@ -40,9 +43,13 @@ Individual or teams based on amount of supplies available.
 .Challenge:
 Perform some spooky Mad Scientist Experiments.
 
+"Make a Lava Lamp from varying density liquids"
+
+"Make Oobleck a Non Newtonian Fluid"
+
 *Creepy Lava Lamp*
 Fill the bottle or jar a quarter full with water. Fill the rest
-with vegetable oil. After the seperation between the oil and water
+with vegetable oil. After the separation between the oil and water
 settles add several drops of food coloring.
 
 Add half an alka seltzer for a bubbling reaction. Add more bits of alka-seltzer
@@ -50,15 +57,22 @@ to create a lava-lamp rising and falling of bubbles.
 
 .Class Inquiry:
 TODO: Education on reaction of alka-seltzer
-Discussion on density. Ask about why the oil and water seperate. Can the
+Discussion on density. Ask about why the oil and water separate. Can the
 class think of different density gasses?
 
 *Oobleck*
 Non Newtonian fluid
 
-Mix 1 cup water with 1.5-2cups corn starch and a few drops of food coloring
+Mix 1 cup water with 1.5-2cups corn starch (about 1:2 ratio water to cornstarch)
+and a few drops of food coloring
 in mixing bowl. Student's will have a Non Newtonian Fluid which acts like
 a liquid when poured but as a solid when touched.
+
+* If the oobleck is too watery add a spoon of cornstarch and mix in thoroughly
+* If it isn't watery when picked up, add a spoon of water
+* Repeat until achieving proper consistency
+
+
 
 .Class Inquiry
 Unlike most fluids, a non-Newtonian fluid's viscosity is dependent on
