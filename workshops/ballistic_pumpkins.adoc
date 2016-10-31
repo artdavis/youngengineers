@@ -15,10 +15,10 @@ jack-o-lanterns to keep with the pumpkin theme.
 .Resources:
 * https://www.punkinchunkin.com/
 * http://www.sciencechannel.com/tv-shows/punkin-chunkin/
-* https://www.youtube.com/watch?v=dmSyrGsqmg8
+* Punkin Chunkin documentary:
+** https://www.youtube.com/watch?v=dmSyrGsqmg8
 * http://www.real-world-physics-problems.com/trebuchet-physics.html
 * MythBusters:
-** https://www.youtube.com/watch?v=9-Hwxw4fgqk
 ** https://www.youtube.com/watch?v=9-Hwxw4fgqk
 * http://www.instructables.com/id/Trebuchet-Project/
 * http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html
@@ -26,28 +26,33 @@ jack-o-lanterns to keep with the pumpkin theme.
 
 .Materials:
 * Garbage bags for cleanup
-* TODO: slingshot/trebuchet building materials
+* Trebuchet (see below)
 * Minature pumpkins/gourds
+* Tennis balls
 * Golf balls
+* Bouncy balls
 * ≥100ft long tape measure
 * Lawn Marking chalk
 * Online media access
-* wastebasket or bucket
+* Wastebasket or bucket
 
 .Location:
 Large field outside.
 
 .Preparation:
-* Measure out 10ft increments in the field and mark with chalk
+* Build PVC pipe trebuchet
+
+image::images/Trebuchet-Assem2.png["Trebuchet Build",width=640]
+
+Some experimentation will be necessary to build the throwing arm and might
+be incorporated into a workshop. I made a throwing arm out of plywood with
+good success.
 
 .Demonstration:
-Show Punkin Chunkin documentary:
-https://www.youtube.com/watch?v=dmSyrGsqmg8
 
-Show discovery channel video:
-http://www.sciencechannel.com/tv-shows/punkin-chunkin/
+Show Mythbusters trebuchet prototype video:
 
-.Class Inquiry:
+* https://www.youtube.com/watch?v=9-Hwxw4fgqk
 
 .Teaming:
 Teams of 2-3 making sure youngest are teamed with older student(s)
@@ -55,10 +60,23 @@ Teams of 2-3 making sure youngest are teamed with older student(s)
 .Challenge:
 "Launch a mini-pumpkin as far as possible"
 
-.Class Inquiry:
+WARNING: Be sure to use a rope to pull the trigger pin while everyone stands clear of the trebuchet.
+
+For consistency, and if you don't have mini-pumpkins, tennis balls may be used instead.
+See what modifications can be made to get the projectiles the farthest.
+Try launching different kinds of balls like golf balls and bouncy balls.
+See what happens when the sling is filled with several smaller bouncy balls.
+
+WARNING: Make sure to take necessary precautions to avoid having a projectile
+hit someone. Particularly with hard projectiles like golf balls.
 
 .Further Challenges:
 "Launch a mini-pumpkin into a target bucket"
+
+Adjusting the pin on the sling arm can control the release angle.
+Changing the sling length will have an effect on distance.
+Safely increasing the conterweight will make the balls launch farther.
+Mounting wheels on the frame will make it launch farther.
 
 // vim: set syntax=asciidoc:
 
