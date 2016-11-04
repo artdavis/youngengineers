@@ -19,6 +19,13 @@ design challenges:
 * MythBusters LEGO Ball:
 ** https://www.youtube.com/watch?v=KLWLTs90_po
 ** https://www.youtube.com/watch?v=M8vdTXO0lpE
+** This is a great video to show the celebration of failure. Point out
+   how many weeks of hard work it was building the ball and then what was
+   everyone's reaction when it crumbled. Absolute joy!
+** Also see what else the class notices from the experiment. Another
+   thing to call attention to was the safety precautions. Yes the experiment
+   failed, but by making sure everyone is safe, nobody was in danger of
+   getting hurt.
 * LEGO Rube Goldberg ball run: https://www.youtube.com/watch?v=xwUg3sf4Lvo
 * 10 most amazing LEGO machines: https://www.youtube.com/watch?v=3_q8O8xQnlQ
 
@@ -39,8 +46,22 @@ Activities helper students may do:
 * Sort/distribute/cleanup LEGOs
 * Judge
 
+.Preparation
+Show the MythBusters LEGO ball video and have a discussion about celebrating
+failute and practicing safety. What other comments do the students have on
+the experiment?
+
+Explain that we're going to have a game show style challenge because a little
+competition makes it fun. But remember there's more to be learned by not
+winning. If another team gets more points, try not to get frustrated.  Observe
+carefull what they did. Learn from your observations. Improve your own methods.
+Keep trying.
+
+When something doesn't work shout "Hooray! Science!". Everybody together
+shout "Hooray! Science!". Maybe one more time louder. Then jump into the game.
+
 .Challenge:
-LEGO creations game show
+Play the LEGO Creations Game Show
 
 Pick a build time limit like 5 minutes.
 
@@ -55,7 +76,9 @@ teams that would benefit identification via the use of minifigures.
 At the end of the round, each team holds up their creations in turn while
 the others secretly write down what they think it is. Every team that
 gets a right answer gets a point. Every team that gets their creation judged
-correctly gets a point for every correct guess.
+correctly gets a point for every correct guess. The points can be tallied
+seperately and it will be interesting at the end to analyze which teams
+did the best guessing and which teams got the most correctly guessed builds.
 
 For the next round teams may keep their creation and use it as part of their
 next build or take parts off of it as they need. You may want to distribute
