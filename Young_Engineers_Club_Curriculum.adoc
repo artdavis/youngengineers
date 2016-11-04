@@ -270,7 +270,6 @@ designs and constructs their entry before for competition.
 
 = Supplemental Workshops
 
-
 == Supplemental {counter:supplemental}: Straw Rockets
 include::demos/straw_rocket.adoc[]
 

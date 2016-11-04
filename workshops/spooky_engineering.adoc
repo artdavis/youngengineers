@@ -32,7 +32,14 @@ Per student:
 Classroom/Lab
 
 .Preparation:
-* Divvy up corn starch into Dixie cups.
+
+WARNING: Collect all of the bottle/jar tops before beginning the activity. The
+students won't be able to resist capping their lava lamps after putting in the
+alka-seltzer which will cause pressure build up and potential explosion.  You
+could also make a safety demonstration by putting water and alka-seltzer into a
+capped bottle made of lightweight plastic and then leaving it in a safe
+location where it can explode without injuring anyone (safety glasses
+recommended).
 
 .Demonstration:
 
@@ -46,8 +53,6 @@ Perform some spooky Mad Scientist Experiments.
 "Make a Lava Lamp from varying density liquids"
 
 "Make Oobleck: a Non Newtonian Fluid"
-
-*Creepy Lava Lamp*
 
 Standard lava lamp:
 * Fill the bottle or jar a quarter full with water and fill the rest with vegetable oil.
@@ -67,7 +72,7 @@ TODO: Education on reaction of alka-seltzer
 Discussion on density. Ask about why the oil and water separate. Can the
 class think of different density gasses?
 
-*Oobleck*
+.Oobleck
 Non Newtonian fluid
 
 Mix 1 cup water with 1.5-2cups corn starch (about 1:2 ratio water to cornstarch)
