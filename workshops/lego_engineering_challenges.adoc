@@ -3,32 +3,75 @@
 * Mechanical Engineering
 
 .Setup:
+By selecting one building challenge activity for all of the teams to work
+on there is more opportunity for collaboration. If a team completes their
+project try to direct them on to additional challenges on the same
+project. They may also help out other teams or work on sorting the main LEGO
+collection.
 
 .Resources:
-* http://www.educatingyoungengineers.com/lego-clubs/
+The Educating Young Engineers website provides very good ideas for LEGO
+design challenges:
+** http://www.educatingyoungengineers.com/lego-clubs/
 ** http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
 ** http://www.educatingyoungengineers.com/lego-club-activity-ideas
+* Adam Savage LEGO Sisyphus: https://www.youtube.com/watch?v=U46Yo_6z_F4
+* MythBusters LEGO Ball:
+** https://www.youtube.com/watch?v=KLWLTs90_po
+** https://www.youtube.com/watch?v=M8vdTXO0lpE
+* LEGO Rube Goldberg ball run: https://www.youtube.com/watch?v=xwUg3sf4Lvo
+* 10 most amazing LEGO machines: https://www.youtube.com/watch?v=3_q8O8xQnlQ
 
 .Materials:
 * Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
+* LEGO Creationary cards or similar
 
 .Location:
 Classroom/Lab
 
-.Preparation:
-
-.Demonstration:
-
-.Class Inquiry:
-
 .Teaming:
-Teams of 2-3 making sure youngest are teamed with older student(s)
+Teams of 2-4
+
+.Helpers
+Activities helper students may do:
+* Run time
+* Keep score
+* Sort/distribute/cleanup LEGOs
+* Judge
 
 .Challenge:
+LEGO creations game show
 
-.Class Inquiry:
+Pick a build time limit like 5 minutes.
+
+Start with an easy level object card for each team. Each team should keep
+their card secret from the other teams. Also it may be helpful to pick
+objects with a given theme and make everyone aware of what that theme is.
+
+Start the timer and have each team build their creation. The teams may use
+their LEGO minifigures as they see fit. You may pick build objects for the
+teams that would benefit identification via the use of minifigures.
+
+At the end of the round, each team holds up their creations in turn while
+the others secretly write down what they think it is. Every team that
+gets a right answer gets a point. Every team that gets their creation judged
+correctly gets a point for every correct guess.
+
+For the next round teams may keep their creation and use it as part of their
+next build or take parts off of it as they need. You may want to distribute
+object cards specifically to encourage creative re-use or previous builds.
+Also you can tailor the object build difficulty as a handicap to help keep
+the scores fairly close.
 
 .Further Challenges:
+* Decrease the allowed build time
+* Only show the picture to the team and then take the card back instead
+  of letting them keep it to look at the whole time
+* Just tell the team what the object is without showing them the picture
+* Provide multiple build objects per round
+* Run a round where everyone works individually.
+* Give everyone the same object and have each team rank every other teams
+  build in order. Highest points to best rank.
 
 // vim: set syntax=asciidoc:
 
