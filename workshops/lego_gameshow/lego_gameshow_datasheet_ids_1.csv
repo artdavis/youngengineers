@@ -1,0 +1,17 @@
+identity,number,letter,color,shape,direction,season,element,phase
+1,1,A,red,circle,north,fall,air,plasma
+2,1,B,yellow,square,east,winter,fire,gas
+3,1,C,green,triangle,south,spring,earth,solid
+4,1,D,blue,star,west,summer,water,liquid
+5,2,A,yellow,triangle,west,fall,air,solid
+6,2,B,red,star,south,spring,fire,plasma
+7,2,C,blue,circle,east,winter,water,liquid
+8,2,D,green,square,north,summer,earth,gas
+9,3,A,green,star,east,winter,earth,liquid
+10,3,B,blue,triangle,north,spring,fire,plasma
+11,3,C,red,square,west,summer,water,solid
+12,3,D,yellow,circle,south,fall,air,gas
+13,4,A,blue,square,south,spring,air,plasma
+14,4,B,green,circle,west,summer,water,liquid
+15,4,C,yellow,star,north,fall,fire,gas
+16,4,D,red,triangle,east,winter,earth,solid

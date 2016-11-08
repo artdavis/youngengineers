@@ -42,7 +42,7 @@ include::workshops/spooky_engineering.adoc[]
 ****
 include::workshops/ballistic_pumpkins.adoc[]
 
-== Workshop {counter:workshop}: LEGO Engineering Challenges
+== Workshop {counter:workshop}: LEGO Building Game Show
 ****
 2016-11-08
 
@@ -53,7 +53,7 @@ https://education.lego.com/en-us/
 
 //Ask kids to bring in their own LEGO minifigure
 ****
-include::workshops/lego_engineering_challenges.adoc[]
+include::workshops/lego_build_game_show.adoc[]
 
 == Workshop {counter:workshop}: Delicious Engineering
 ****

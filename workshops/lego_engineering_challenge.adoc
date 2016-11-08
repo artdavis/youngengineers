@@ -1,0 +1,55 @@
+=== LEGO Engineering Challenge
+.Disciplines:
+* Mechanical Engineering
+
+.Setup:
+By selecting one building challenge activity for all of the teams to work
+on there is more opportunity for collaboration. If a team completes their
+project try to direct them on to additional challenges on the same
+project. They may also help out other teams or work on sorting the main LEGO
+collection.
+
+.Resources:
+The Educating Young Engineers website provides very good ideas for LEGO
+design challenges:
+** http://www.educatingyoungengineers.com/lego-clubs/
+** http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
+** http://www.educatingyoungengineers.com/lego-club-activity-ideas
+* Adam Savage LEGO Sisyphus: https://www.youtube.com/watch?v=U46Yo_6z_F4
+* MythBusters LEGO Ball:
+** https://www.youtube.com/watch?v=KLWLTs90_po
+** https://www.youtube.com/watch?v=M8vdTXO0lpE
+** This is a great video to show the celebration of failure. Point out
+   how many weeks of hard work it was building the ball and then what was
+   everyone's reaction when it crumbled. Absolute joy!
+** Also see what else the class notices from the experiment. Another
+   thing to call attention to was the safety precautions. Yes the experiment
+   failed, but by making sure everyone is safe, nobody was in danger of
+   getting hurt.
+* LEGO Rube Goldberg ball run: https://www.youtube.com/watch?v=xwUg3sf4Lvo
+* 10 most amazing LEGO machines: https://www.youtube.com/watch?v=3_q8O8xQnlQ
+
+.Materials:
+* Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
+* LEGO Creationary cards or similar
+
+.Location:
+Classroom/Lab
+
+.Teaming:
+Teams of 2-4
+
+.Helpers
+Activities helper students may do:
+* Run time
+* Keep score
+* Sort/distribute/cleanup LEGOs
+* Judge
+
+.Preparation
+
+.Challenge:
+.Further Challenges:
+
+// vim: set syntax=asciidoc:
+

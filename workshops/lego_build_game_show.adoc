@@ -1,21 +1,25 @@
-=== LEGO Engineering Challenges
+=== LEGO Building Game Show
 .Disciplines:
 * Mechanical Engineering
 
 .Setup:
-By selecting one building challenge activity for all of the teams to work
-on there is more opportunity for collaboration. If a team completes their
-project try to direct them on to additional challenges on the same
-project. They may also help out other teams or work on sorting the main LEGO
-collection.
+You may come up with various ways to break the students into teams.
+For a class size of 16, print the team_cards document:
+
+image::workshops/lego_gameshow/team_cards_1.png["Team Cards",width=640]
+
+Cut out the cards and distribute one to each student. These will allow you to
+make 4 teams of 4 unique team members for up to 5 rounds. For example, starting
+with number, break the teams out into numbers 1, 2, 3, 4. Next round break the
+teams out by letter A, B, C, D. Unique teams with no students ever on the same
+team again can be made when the teams are broken out by: number, letter, color,
+shape and direction. If you have time for more rounds there's also season,
+element and phase but the teams won't be unique any more.
+
+Divvy up the LEGO's so there's evenly distributed LEGO quantities at each
+team table.
 
 .Resources:
-The Educating Young Engineers website provides very good ideas for LEGO
-design challenges:
-** http://www.educatingyoungengineers.com/lego-clubs/
-** http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
-** http://www.educatingyoungengineers.com/lego-club-activity-ideas
-* Adam Savage LEGO Sisyphus: https://www.youtube.com/watch?v=U46Yo_6z_F4
 * MythBusters LEGO Ball:
 ** https://www.youtube.com/watch?v=KLWLTs90_po
 ** https://www.youtube.com/watch?v=M8vdTXO0lpE
@@ -61,7 +65,7 @@ When something doesn't work shout "Hooray! Science!". Everybody together
 shout "Hooray! Science!". Maybe one more time louder. Then jump into the game.
 
 .Challenge:
-Play the LEGO Creations Game Show
+Play the LEGO Building Game Show
 
 Pick a build time limit like 5 minutes.
 
@@ -86,6 +90,13 @@ object cards specifically to encourage creative re-use or previous builds.
 Also you can tailor the object build difficulty as a handicap to help keep
 the scores fairly close.
 
+Shuffle up the teams using the team cards after each round.
+
+Keep track of the results entering the data in the lego_build_data_record
+spreadsheet each round. Save the data and run the Jupyter notebook
+data analysis program on the data.
+
+
 .Further Challenges:
 * Decrease the allowed build time
 * Only show the picture to the team and then take the card back instead
@@ -95,6 +106,7 @@ the scores fairly close.
 * Run a round where everyone works individually.
 * Give everyone the same object and have each team rank every other teams
   build in order. Highest points to best rank.
+
 
 // vim: set syntax=asciidoc:
 
