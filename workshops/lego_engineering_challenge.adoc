@@ -34,6 +34,7 @@ design challenges:
 .Materials:
 * Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
 * Meter stick/Tape Measure (Drop Test/Tallest Tower)
+* Digital scale (Drop Test)
 * Stop Watch or music source (Musical Monsters)
 * Large plastic bins (Engineering Escapes)
 * Tub of water (Boat Building)
@@ -55,11 +56,18 @@ Activities helper students may do:
 ** http://www.educatingyoungengineers.com/drop-test
 ** Teaming: Individual
 ** Combine exactly 20 LEGO bricks so that when dropped they do not break
+*** If gathering 20 identical bricks for each student is too tall of an order,
+    impose a minimum weight requirement (around the weight of 20 2x6 bricks).
+*** Alternatively leave the requirements open and allow the students to record
+    the number of bricks, drop height and weight of their creation. Evaluate
+    correlations.
 ** Use a meter stick to drop from progressively higher distances and record the max drop height before their structure breaks apart.
 ** Have the students iterate to try to improve their height
-** Have a review discussion on succesful strategies
+** Have a review discussion on successful strategies
 
-* Musical Monsters
+image::workshops/lego_droptest/lego_droptest_table.png["Team Cards",width=640]
+
+* Collaborative Monsters
 ** http://www.educatingyoungengineers.com/musical-monsters
 ** Teaming: Individual
 ** Everyone starts bulding a monster. Use music or a stopwatch to indicate when
