@@ -1,0 +1,14 @@
+Young Engineers Club
+====================
+
+[big]#Meeting November 15, 2016#
+
+****
+NOTE: Next meeting: November 29, 2016
+
+*Next meeting is in 2 weeks. There will be no meeting on Oct. 22*
+
+****
+
+
+// vim: set syntax=asciidoc:

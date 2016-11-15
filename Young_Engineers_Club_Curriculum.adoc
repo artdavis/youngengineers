@@ -55,14 +55,13 @@ https://education.lego.com/en-us/
 ****
 include::workshops/lego_build_game_show.adoc[]
 
-== Workshop {counter:workshop}: Delicious Engineering
+== Workshop {counter:workshop}: LEGO Building Challenges
 ****
 2016-11-15
 
-Meeting on 11/22 may or may not be cancelled.
-Check with parents whether they want to cancel or not.
+Meeting on 11/22 is cancelled.
 ****
-include::workshops/delicious_engineering.adoc[]
+include::workshops/lego_engineering_challenge.adoc[]
 
 == Workshop {counter:workshop}: Acoustic Engineering
 ****
@@ -140,8 +139,10 @@ Software engineering, coding, scratch, python, lightbot, TurtleArt
 2017-01-31
 
 
-MID YEAR BREAK
+LAST MEETUP FOR THE TERM
 ****
+
+'''
 
 == Workshop {counter:workshop}: Computer Aided Design
 ****

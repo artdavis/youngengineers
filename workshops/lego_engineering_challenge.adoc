@@ -12,6 +12,7 @@ collection.
 .Resources:
 The Educating Young Engineers website provides very good ideas for LEGO
 design challenges:
+
 ** http://www.educatingyoungengineers.com/lego-clubs/
 ** http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf
 ** http://www.educatingyoungengineers.com/lego-club-activity-ideas
@@ -28,28 +29,66 @@ design challenges:
    getting hurt.
 * LEGO Rube Goldberg ball run: https://www.youtube.com/watch?v=xwUg3sf4Lvo
 * 10 most amazing LEGO machines: https://www.youtube.com/watch?v=3_q8O8xQnlQ
+* Most amazing LEGO Sculptures: https://www.youtube.com/watch?v=dW9eHPkYLeo
 
 .Materials:
 * Assorted LEGO's (≥100 pcs assorted per student plus multiple figurines)
-* LEGO Creationary cards or similar
+* Meter stick/Tape Measure (Drop Test/Tallest Tower)
+* Stop Watch or music source (Musical Monsters)
+* Large plastic bins (Engineering Escapes)
+* Tub of water (Boat Building)
 
 .Location:
 Classroom/Lab
 
-.Teaming:
-Teams of 2-4
-
 .Helpers
 Activities helper students may do:
-* Run time
-* Keep score
+
+* Measure
+* Record data on whiteboard
 * Sort/distribute/cleanup LEGOs
-* Judge
 
 .Preparation
 
-.Challenge:
-.Further Challenges:
+.Challenges:
+* Drop Test
+** http://www.educatingyoungengineers.com/drop-test
+** Teaming: Individual
+** Combine exactly 20 LEGO bricks so that when dropped they do not break
+** Use a meter stick to drop from progressively higher distances and record the max drop height before their structure breaks apart.
+** Have the students iterate to try to improve their height
+** Have a review discussion on succesful strategies
+
+* Musical Monsters
+** http://www.educatingyoungengineers.com/musical-monsters
+** Teaming: Individual
+** Everyone starts bulding a monster. Use music or a stopwatch to indicate when
+   to stop building and pass their creation off to their neighbor. Continue for
+   several rounds and then review everyones creations.
+** Ask if any of the monsters turned out how they thought they would when they
+   started building them.
+
+* Engineering Escapes
+** http://www.educatingyoungengineers.com/engineering-escapes
+** Teaming: 3-5
+** Put a LEGO minifigure in a bin and have the team build a solution to
+   get him out.
+** With each iteration, impose new challenges
+*** No stairs
+*** No elevators
+
+* Tallest Tower
+** http://www.educatingyoungengineers.com/tallest-tower
+** Teaming: 3-5
+** See who can build the tallest tower.
+** Have teams request measurement checkpoints with a tape measure.
+** Discuss successful and unsuccessful strategies.
+
+* Boat Building
+** http://www.educatingyoungengineers.com/boat-building
+** Reproduce the link:workshops/unsinkable_boat.adoc[Uninskable Boat] workshop
+   except with LEGOS.
+
 
 // vim: set syntax=asciidoc:
 
