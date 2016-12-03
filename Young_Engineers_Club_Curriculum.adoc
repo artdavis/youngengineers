@@ -270,9 +270,6 @@ include::demos/siphon.adoc[]
 == Supplemental {counter:supplemental}: Ramp Racers
 include::workshops/ramp_racers.adoc[]
 
-== Supplemental {counter:supplemental}: Block Tower Battle
-include::workshops/block_tower_battle.adoc[]
-
 == Supplemental {counter:workshop}: Paddle Power
 include::workshops/paddle_power.adoc[]
 
