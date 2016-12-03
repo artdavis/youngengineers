@@ -3,6 +3,12 @@
 .Disciplines:
 * Engineering Fundamentals
 
+.Resources:
+* What's an Engineer? Crash Course Kids
+** https://www.youtube.com/watch?v=owHF9iLyxic
+* Engineering Process
+** https://www.youtube.com/watch?v=fxJWin195kU
+
 .Philosophy:
 For this and all ensuing workshops, prioritize allowing the students to steer the direction.
 These workshops are guidelines for providing a medium for exploration but there's no need to hold fast to them.

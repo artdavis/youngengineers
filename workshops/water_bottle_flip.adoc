@@ -1,0 +1,63 @@
+=== Water Bottle Flip Optimization
+.Disciplines:
+* Dynamics
+* Data Analysis
+
+.Setup:
+
+.Resources:
+* dy/dan BottleFlipping and the Lessons you throw back
+** http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/
+** https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip
+* Desmos water bottle flipping calculator
+** https://www.desmos.com/calculator/k54pcfbuy4
+* https://en.wikipedia.org/wiki/Dynamics_(mechanics)
+
+.Materials:
+* 16-20 ounce water bottle per student
+* Digital scale
+* Measuring cups
+* Water
+
+.Location:
+Where?
+
+.Preparation:
+
+.Class Inquiry:
+Ask the class for ideas for the meaning of "Dynamics".
+
+[quote, Wikipedia, Engineering]
+_______________________________
+
+Dynamics is a branch of applied mathematics (specifically classical mechanics)
+concerned with the study of forces and torques and their effect on motion.
+_______________________________
+
+In other words, how something moves when acted on by forces.
+
+.Demonstration:
+Show the Desmos water bottle flipping calculator. Inquire of the class
+what they think it is demonstrating. Play with the various controls to
+change the motion. Point out the paths trace by the top and bottom of the
+model. Ask if anyone knows what the path is called. Introduce the parabola.
+
+Show the Act 1 video from dy/dan's bottle flipping media. Ask the class to
+predict which of A,B,C,D trials will land standing.
+
+Show the Act 2 video and pause on each trial. See if using the graph overlay
+and a parabolic path will help the predictions.
+
+Show the Act 3 video for the results.
+
+
+.Teaming:
+Individual
+
+.Challenge:
+
+.Class Inquiry:
+
+.Further Challenges:
+
+// vim: set syntax=asciidoc:

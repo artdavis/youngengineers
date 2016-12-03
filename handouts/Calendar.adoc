@@ -11,7 +11,7 @@ Young Engineer's Club:
 * November
 - [*] 2016-11-01
 - [*] 2016-11-08
-- [ ] 2016-11-15: The following week (11-22) has no meeting
+- [*] 2016-11-15: The following week (11-22) has no meeting
 - [ ] 2016-11-29
 
 * December

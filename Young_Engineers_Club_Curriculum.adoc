@@ -63,29 +63,18 @@ Meeting on 11/22 is cancelled.
 ****
 include::workshops/lego_engineering_challenge.adoc[]
 
-== Workshop {counter:workshop}: Acoustic Engineering
-****
-2016-11-22
-
-IMPORTANT: This meeting is cancelled. Relocate this workshop.
-
-Blue man group PVC pipe instruments:
-http://makezine.com/projects/pvc-pipe-instrument/
-****
-
-== Workshop {counter:workshop}: Past Challenges from FIRST LEGO League
+== Workshop {counter:workshop}: Cup Tower Battle
 ****
 2016-11-29
 
-Field trip to Ballston Spa tournament over the weekend 12/3.
 ****
-FIRST LEGO Challenges. Watch videos of past challenges.
+include::workshops/tower_build_battle.adoc[]
 
-== Workshop {counter:workshop}: Past Challenges from Odyssey of the Mind
+== Workshop {counter:workshop}: Water Bottle Flip Optimization
 ****
 2016-12-06
 ****
-Odyssey of the Mind videos and sample challenges.
+include::workshops/water_bottle_flip.adoc[]
 
 == Workshop {counter:workshop}: Bridge Building
 ****
@@ -93,7 +82,7 @@ Odyssey of the Mind videos and sample challenges.
 ****
 Bridge Building Challenge
 
-== Workshop {counter:workshop}: Engineering Challenges for the Holidays
+== Workshop {counter:workshop}: Hacking the Holidays
 ****
 2016-12-20
 
@@ -102,6 +91,7 @@ Meeting on 12/27 will be cancelled.
 
 ****
 Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
+Snowman marshmallow cannons.
 
 == Workshop {counter:workshop}: Reverse Engineering
 ****

@@ -1,0 +1,77 @@
+=== Tower Build Battle
+.Disciplines:
+* Architectural/Civil Engineering
+
+.Resources:
+* Strong building towers with cups:
+** https://www.youtube.com/watch?v=iGRLY08Kn2o
+* STEM Activities for Kids - Structure Building
+** https://www.youtube.com/watch?v=TycfVSTOI
+* How tall can skyscrapers get?
+** https://www.youtube.com/watch?v=Cioj_KYMVP8
+
+.Materials:
+* Large Plastic cups
+** Alternatively building blocks, cut up 2x4's, paper/cardboard crafted blocks
+* Tape measure
+* Stopwatch
+* Optional poster board for optional "earthquake" simulation activity.
+* Materials for ball hurling contraptions
+** Spoons
+** Popsicle sticks
+** Rubber bands
+** 10-20 foam balls or wiffle balls
+
+
+.Location:
+Gymnasium or outdoors
+
+.Preparation:
+Arrange tables so each team is on opposite ends. Be wary of students blocking
+ballistic projectiles between the build areas.
+
+.Demonstration:
+Brainstorm some ideas on the whiteboard with the class for good ways to build
+tall stable structures.
+
+.Teaming:
+Split the students into 2 evenly distributed teams or teams of 4-6 each.
+Having more than 2 teams may also be possible.
+
+.Challenge:
+"Build the best structure for a variety of challenges"
+
+If you have enough materials, teams can build their architectural structures
+simultaneously. Otherwise one team can build their structure while the other
+teams constructs a ball hurling device that will be used to try to knock it
+down.
+
+Start with a 5 minute limit. See who can build the tallest structure.
+Measure with a measuring tape and have the students make a schematic in their
+notebook of their structure and its dimensions.
+
+If everyone was able to build their own structures at the same time then each
+team can be tasked with building it's own "wrecking ball" device to see who
+can knock down their tower with the fewest shots. Otherwise teams can pit
+their building again other teams wrecking contraptions. Be sure to encourage
+keeping track of the the results in the students notebooks.
+
+Impose some limit on wrecking contraptions like "cannot be thrown" or must
+be launched from table using a mechanism.
+
+For maximum pandemonium allow teams to launch their wrecking balls at each
+other during the build to help get their tower building team in the lead.
+Alternatively take build breaks and allow each team to take 3 shots at
+the other teams towers.
+
+.Further Challenges:
+An optional additional activity is to have the teams build their towers on
+a poster board. Then time how quickly they can move the poster board across the
+table without their tower falling.
+
+.Class Inquiry:
+What lessons were learned about building strong structures and effective
+projectiles?
+
+// vim: set syntax=asciidoc:
+
