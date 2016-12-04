@@ -11,7 +11,7 @@
 ** https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip
 * Desmos water bottle flipping calculator
 ** https://www.desmos.com/calculator/k54pcfbuy4
-* https://en.wikipedia.org/wiki/Dynamics_(mechanics)
+* link:https://en.wikipedia.org/wiki/Dynamics_(mechanics)[https://en.wikipedia.org/wiki/Dynamics_(mechanics)]
 
 .Materials:
 * 16-20 ounce water bottle per student
@@ -20,7 +20,7 @@
 * Water
 
 .Location:
-Where?
+Cafeteria or large room with tables.
 
 .Preparation:
 Distribute data sheets for every participant.

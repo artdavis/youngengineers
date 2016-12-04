@@ -1,3576 +1,1004 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
-<meta name="generator" content="AsciiDoc 8.6.9" />
-<meta name="description" content="Compilation of workshops for Young Engineers Club Curriculum" />
-<title>Young Engineers Club Curriculum</title>
-<style type="text/css">
-/* Shared CSS for AsciiDoc xhtml11 and html5 backends */
-
-/* Default font. */
-body {
-  font-family: Georgia,serif;
-}
-
-/* Title font. */
-h1, h2, h3, h4, h5, h6,
-div.title, caption.title,
-thead, p.table.header,
-#toctitle,
-#author, #revnumber, #revdate, #revremark,
-#footer {
-  font-family: Arial,Helvetica,sans-serif;
-}
-
-body {
-  margin: 1em 5% 1em 5%;
-}
-
-a {
-  color: blue;
-  text-decoration: underline;
-}
-a:visited {
-  color: fuchsia;
-}
-
-em {
-  font-style: italic;
-  color: navy;
-}
-
-strong {
-  font-weight: bold;
-  color: #083194;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #527bbd;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
-  line-height: 1.3;
-}
-
-h1, h2, h3 {
-  border-bottom: 2px solid silver;
-}
-h2 {
-  padding-top: 0.5em;
-}
-h3 {
-  float: left;
-}
-h3 + * {
-  clear: left;
-}
-h5 {
-  font-size: 1.0em;
-}
-
-div.sectionbody {
-  margin-left: 0;
-}
-
-hr {
-  border: 1px solid silver;
-}
-
-p {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-ul, ol, li > p {
-  margin-top: 0;
-}
-ul > li     { color: #aaa; }
-ul > li > * { color: black; }
-
-.monospaced, code, pre {
-  font-family: "Courier New", Courier, monospace;
-  font-size: inherit;
-  color: navy;
-  padding: 0;
-  margin: 0;
-}
-pre {
-  white-space: pre-wrap;
-}
-
-#author {
-  color: #527bbd;
-  font-weight: bold;
-  font-size: 1.1em;
-}
-#email {
-}
-#revnumber, #revdate, #revremark {
-}
-
-#footer {
-  font-size: small;
-  border-top: 2px solid silver;
-  padding-top: 0.5em;
-  margin-top: 4.0em;
-}
-#footer-text {
-  float: left;
-  padding-bottom: 0.5em;
-}
-#footer-badges {
-  float: right;
-  padding-bottom: 0.5em;
-}
-
-#preamble {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-div.imageblock, div.exampleblock, div.verseblock,
-div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
-div.admonitionblock {
-  margin-top: 1.0em;
-  margin-bottom: 1.5em;
-}
-div.admonitionblock {
-  margin-top: 2.0em;
-  margin-bottom: 2.0em;
-  margin-right: 10%;
-  color: #606060;
-}
-
-div.content { /* Block element content. */
-  padding: 0;
-}
-
-/* Block element titles. */
-div.title, caption.title {
-  color: #527bbd;
-  font-weight: bold;
-  text-align: left;
-  margin-top: 1.0em;
-  margin-bottom: 0.5em;
-}
-div.title + * {
-  margin-top: 0;
-}
-
-td div.title:first-child {
-  margin-top: 0.0em;
-}
-div.content div.title:first-child {
-  margin-top: 0.0em;
-}
-div.content + div.title {
-  margin-top: 0.0em;
-}
-
-div.sidebarblock > div.content {
-  background: #ffffee;
-  border: 1px solid #dddddd;
-  border-left: 4px solid #f0f0f0;
-  padding: 0.5em;
-}
-
-div.listingblock > div.content {
-  border: 1px solid #dddddd;
-  border-left: 5px solid #f0f0f0;
-  background: #f8f8f8;
-  padding: 0.5em;
-}
-
-div.quoteblock, div.verseblock {
-  padding-left: 1.0em;
-  margin-left: 1.0em;
-  margin-right: 10%;
-  border-left: 5px solid #f0f0f0;
-  color: #888;
-}
-
-div.quoteblock > div.attribution {
-  padding-top: 0.5em;
-  text-align: right;
-}
-
-div.verseblock > pre.content {
-  font-family: inherit;
-  font-size: inherit;
-}
-div.verseblock > div.attribution {
-  padding-top: 0.75em;
-  text-align: left;
-}
-/* DEPRECATED: Pre version 8.2.7 verse style literal block. */
-div.verseblock + div.attribution {
-  text-align: left;
-}
-
-div.admonitionblock .icon {
-  vertical-align: top;
-  font-size: 1.1em;
-  font-weight: bold;
-  text-decoration: underline;
-  color: #527bbd;
-  padding-right: 0.5em;
-}
-div.admonitionblock td.content {
-  padding-left: 0.5em;
-  border-left: 3px solid #dddddd;
-}
-
-div.exampleblock > div.content {
-  border-left: 3px solid #dddddd;
-  padding-left: 0.5em;
-}
-
-div.imageblock div.content { padding-left: 0; }
-span.image img { border-style: none; vertical-align: text-bottom; }
-a.image:visited { color: white; }
-
-dl {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-}
-dt {
-  margin-top: 0.5em;
-  margin-bottom: 0;
-  font-style: normal;
-  color: navy;
-}
-dd > *:first-child {
-  margin-top: 0.1em;
-}
-
-ul, ol {
-    list-style-position: outside;
-}
-ol.arabic {
-  list-style-type: decimal;
-}
-ol.loweralpha {
-  list-style-type: lower-alpha;
-}
-ol.upperalpha {
-  list-style-type: upper-alpha;
-}
-ol.lowerroman {
-  list-style-type: lower-roman;
-}
-ol.upperroman {
-  list-style-type: upper-roman;
-}
-
-div.compact ul, div.compact ol,
-div.compact p, div.compact p,
-div.compact div, div.compact div {
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
-}
-
-tfoot {
-  font-weight: bold;
-}
-td > div.verse {
-  white-space: pre;
-}
-
-div.hdlist {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
-}
-div.hdlist tr {
-  padding-bottom: 15px;
-}
-dt.hdlist1.strong, td.hdlist1.strong {
-  font-weight: bold;
-}
-td.hdlist1 {
-  vertical-align: top;
-  font-style: normal;
-  padding-right: 0.8em;
-  color: navy;
-}
-td.hdlist2 {
-  vertical-align: top;
-}
-div.hdlist.compact tr {
-  margin: 0;
-  padding-bottom: 0;
-}
-
-.comment {
-  background: yellow;
-}
-
-.footnote, .footnoteref {
-  font-size: 0.8em;
-}
-
-span.footnote, span.footnoteref {
-  vertical-align: super;
-}
-
-#footnotes {
-  margin: 20px 0 20px 0;
-  padding: 7px 0 0 0;
-}
-
-#footnotes div.footnote {
-  margin: 0 0 5px 0;
-}
-
-#footnotes hr {
-  border: none;
-  border-top: 1px solid silver;
-  height: 1px;
-  text-align: left;
-  margin-left: 0;
-  width: 20%;
-  min-width: 100px;
-}
-
-div.colist td {
-  padding-right: 0.5em;
-  padding-bottom: 0.3em;
-  vertical-align: top;
-}
-div.colist td img {
-  margin-top: 0.3em;
-}
-
-@media print {
-  #footer-badges { display: none; }
-}
-
-#toc {
-  margin-bottom: 2.5em;
-}
-
-#toctitle {
-  color: #527bbd;
-  font-size: 1.1em;
-  font-weight: bold;
-  margin-top: 1.0em;
-  margin-bottom: 0.1em;
-}
-
-div.toclevel0, div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-div.toclevel2 {
-  margin-left: 2em;
-  font-size: 0.9em;
-}
-div.toclevel3 {
-  margin-left: 4em;
-  font-size: 0.9em;
-}
-div.toclevel4 {
-  margin-left: 6em;
-  font-size: 0.9em;
-}
-
-span.aqua { color: aqua; }
-span.black { color: black; }
-span.blue { color: blue; }
-span.fuchsia { color: fuchsia; }
-span.gray { color: gray; }
-span.green { color: green; }
-span.lime { color: lime; }
-span.maroon { color: maroon; }
-span.navy { color: navy; }
-span.olive { color: olive; }
-span.purple { color: purple; }
-span.red { color: red; }
-span.silver { color: silver; }
-span.teal { color: teal; }
-span.white { color: white; }
-span.yellow { color: yellow; }
-
-span.aqua-background { background: aqua; }
-span.black-background { background: black; }
-span.blue-background { background: blue; }
-span.fuchsia-background { background: fuchsia; }
-span.gray-background { background: gray; }
-span.green-background { background: green; }
-span.lime-background { background: lime; }
-span.maroon-background { background: maroon; }
-span.navy-background { background: navy; }
-span.olive-background { background: olive; }
-span.purple-background { background: purple; }
-span.red-background { background: red; }
-span.silver-background { background: silver; }
-span.teal-background { background: teal; }
-span.white-background { background: white; }
-span.yellow-background { background: yellow; }
-
-span.big { font-size: 2em; }
-span.small { font-size: 0.6em; }
-
-span.underline { text-decoration: underline; }
-span.overline { text-decoration: overline; }
-span.line-through { text-decoration: line-through; }
-
-div.unbreakable { page-break-inside: avoid; }
-
-
-/*
- * xhtml11 specific
- *
- * */
-
-div.tableblock {
-  margin-top: 1.0em;
-  margin-bottom: 1.5em;
-}
-div.tableblock > table {
-  border: 3px solid #527bbd;
-}
-thead, p.table.header {
-  font-weight: bold;
-  color: #527bbd;
-}
-p.table {
-  margin-top: 0;
-}
-/* Because the table frame attribute is overriden by CSS in most browsers. */
-div.tableblock > table[frame="void"] {
-  border-style: none;
-}
-div.tableblock > table[frame="hsides"] {
-  border-left-style: none;
-  border-right-style: none;
-}
-div.tableblock > table[frame="vsides"] {
-  border-top-style: none;
-  border-bottom-style: none;
-}
-
-
-/*
- * html5 specific
- *
- * */
-
-table.tableblock {
-  margin-top: 1.0em;
-  margin-bottom: 1.5em;
-}
-thead, p.tableblock.header {
-  font-weight: bold;
-  color: #527bbd;
-}
-p.tableblock {
-  margin-top: 0;
-}
-table.tableblock {
-  border-width: 3px;
-  border-spacing: 0px;
-  border-style: solid;
-  border-color: #527bbd;
-  border-collapse: collapse;
-}
-th.tableblock, td.tableblock {
-  border-width: 1px;
-  padding: 4px;
-  border-style: solid;
-  border-color: #527bbd;
-}
-
-table.tableblock.frame-topbot {
-  border-left-style: hidden;
-  border-right-style: hidden;
-}
-table.tableblock.frame-sides {
-  border-top-style: hidden;
-  border-bottom-style: hidden;
-}
-table.tableblock.frame-none {
-  border-style: hidden;
-}
-
-th.tableblock.halign-left, td.tableblock.halign-left {
-  text-align: left;
-}
-th.tableblock.halign-center, td.tableblock.halign-center {
-  text-align: center;
-}
-th.tableblock.halign-right, td.tableblock.halign-right {
-  text-align: right;
-}
-
-th.tableblock.valign-top, td.tableblock.valign-top {
-  vertical-align: top;
-}
-th.tableblock.valign-middle, td.tableblock.valign-middle {
-  vertical-align: middle;
-}
-th.tableblock.valign-bottom, td.tableblock.valign-bottom {
-  vertical-align: bottom;
-}
-
-
-/*
- * manpage specific
- *
- * */
-
-body.manpage h1 {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  border-top: 2px solid silver;
-  border-bottom: 2px solid silver;
-}
-body.manpage h2 {
-  border-style: none;
-}
-body.manpage div.sectionbody {
-  margin-left: 3em;
-}
-
-@media print {
-  body.manpage div#toc { display: none; }
-}
-
-
-</style>
-<script type="text/javascript">
-/*<![CDATA[*/
-var asciidoc = {  // Namespace.
-
-/////////////////////////////////////////////////////////////////////
-// Table Of Contents generator
-/////////////////////////////////////////////////////////////////////
-
-/* Author: Mihai Bazon, September 2002
- * http://students.infoiasi.ro/~mishoo
- *
- * Table Of Content generator
- * Version: 0.4
- *
- * Feel free to use this script under the terms of the GNU General Public
- * License, as long as you do not remove or alter this notice.
- */
-
- /* modified by Troy D. Hanson, September 2006. License: GPL */
- /* modified by Stuart Rackham, 2006, 2009. License: GPL */
-
-// toclevels = 1..4.
-toc: function (toclevels) {
-
-  function getText(el) {
-    var text = "";
-    for (var i = el.firstChild; i != null; i = i.nextSibling) {
-      if (i.nodeType == 3 /* Node.TEXT_NODE */) // IE doesn't speak constants.
-        text += i.data;
-      else if (i.firstChild != null)
-        text += getText(i);
-    }
-    return text;
-  }
-
-  function TocEntry(el, text, toclevel) {
-    this.element = el;
-    this.text = text;
-    this.toclevel = toclevel;
-  }
-
-  function tocEntries(el, toclevels) {
-    var result = new Array;
-    var re = new RegExp('[hH]([1-'+(toclevels+1)+'])');
-    // Function that scans the DOM tree for header elements (the DOM2
-    // nodeIterator API would be a better technique but not supported by all
-    // browsers).
-    var iterate = function (el) {
-      for (var i = el.firstChild; i != null; i = i.nextSibling) {
-        if (i.nodeType == 1 /* Node.ELEMENT_NODE */) {
-          var mo = re.exec(i.tagName);
-          if (mo && (i.getAttribute("class") || i.getAttribute("className")) != "float") {
-            result[result.length] = new TocEntry(i, getText(i), mo[1]-1);
-          }
-          iterate(i);
-        }
-      }
-    }
-    iterate(el);
-    return result;
-  }
-
-  var toc = document.getElementById("toc");
-  if (!toc) {
-    return;
-  }
-
-  // Delete existing TOC entries in case we're reloading the TOC.
-  var tocEntriesToRemove = [];
-  var i;
-  for (i = 0; i < toc.childNodes.length; i++) {
-    var entry = toc.childNodes[i];
-    if (entry.nodeName.toLowerCase() == 'div'
-     && entry.getAttribute("class")
-     && entry.getAttribute("class").match(/^toclevel/))
-      tocEntriesToRemove.push(entry);
-  }
-  for (i = 0; i < tocEntriesToRemove.length; i++) {
-    toc.removeChild(tocEntriesToRemove[i]);
-  }
-
-  // Rebuild TOC entries.
-  var entries = tocEntries(document.getElementById("content"), toclevels);
-  for (var i = 0; i < entries.length; ++i) {
-    var entry = entries[i];
-    if (entry.element.id == "")
-      entry.element.id = "_toc_" + i;
-    var a = document.createElement("a");
-    a.href = "#" + entry.element.id;
-    a.appendChild(document.createTextNode(entry.text));
-    var div = document.createElement("div");
-    div.appendChild(a);
-    div.className = "toclevel" + entry.toclevel;
-    toc.appendChild(div);
-  }
-  if (entries.length == 0)
-    toc.parentNode.removeChild(toc);
-},
-
-
-/////////////////////////////////////////////////////////////////////
-// Footnotes generator
-/////////////////////////////////////////////////////////////////////
-
-/* Based on footnote generation code from:
- * http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
- */
-
-footnotes: function () {
-  // Delete existing footnote entries in case we're reloading the footnodes.
-  var i;
-  var noteholder = document.getElementById("footnotes");
-  if (!noteholder) {
-    return;
-  }
-  var entriesToRemove = [];
-  for (i = 0; i < noteholder.childNodes.length; i++) {
-    var entry = noteholder.childNodes[i];
-    if (entry.nodeName.toLowerCase() == 'div' && entry.getAttribute("class") == "footnote")
-      entriesToRemove.push(entry);
-  }
-  for (i = 0; i < entriesToRemove.length; i++) {
-    noteholder.removeChild(entriesToRemove[i]);
-  }
-
-  // Rebuild footnote entries.
-  var cont = document.getElementById("content");
-  var spans = cont.getElementsByTagName("span");
-  var refs = {};
-  var n = 0;
-  for (i=0; i<spans.length; i++) {
-    if (spans[i].className == "footnote") {
-      n++;
-      var note = spans[i].getAttribute("data-note");
-      if (!note) {
-        // Use [\s\S] in place of . so multi-line matches work.
-        // Because JavaScript has no s (dotall) regex flag.
-        note = spans[i].innerHTML.match(/\s*\[([\s\S]*)]\s*/)[1];
-        spans[i].innerHTML =
-          "[<a id='_footnoteref_" + n + "' href='#_footnote_" + n +
-          "' title='View footnote' class='footnote'>" + n + "</a>]";
-        spans[i].setAttribute("data-note", note);
-      }
-      noteholder.innerHTML +=
-        "<div class='footnote' id='_footnote_" + n + "'>" +
-        "<a href='#_footnoteref_" + n + "' title='Return to text'>" +
-        n + "</a>. " + note + "</div>";
-      var id =spans[i].getAttribute("id");
-      if (id != null) refs["#"+id] = n;
-    }
-  }
-  if (n == 0)
-    noteholder.parentNode.removeChild(noteholder);
-  else {
-    // Process footnoterefs.
-    for (i=0; i<spans.length; i++) {
-      if (spans[i].className == "footnoteref") {
-        var href = spans[i].getElementsByTagName("a")[0].getAttribute("href");
-        href = href.match(/#.*/)[0];  // Because IE return full URL.
-        n = refs[href];
-        spans[i].innerHTML =
-          "[<a href='#_footnote_" + n +
-          "' title='View footnote' class='footnote'>" + n + "</a>]";
-      }
-    }
-  }
-},
-
-install: function(toclevels) {
-  var timerId;
-
-  function reinstall() {
-    asciidoc.footnotes();
-    if (toclevels) {
-      asciidoc.toc(toclevels);
-    }
-  }
-
-  function reinstallAndRemoveTimer() {
-    clearInterval(timerId);
-    reinstall();
-  }
-
-  timerId = setInterval(reinstall, 500);
-  if (document.addEventListener)
-    document.addEventListener("DOMContentLoaded", reinstallAndRemoveTimer, false);
-  else
-    window.onload = reinstallAndRemoveTimer;
-}
-
-}
-asciidoc.install(2);
-/*]]>*/
-</script>
-</head>
-<body class="book">
-<div id="header">
-<h1>Young Engineers Club Curriculum</h1>
-<span id="author">Arthur Davis</span><br />
-<span id="email"><code>&lt;<a href="mailto:art.davis@gmail.com">art.davis@gmail.com</a>&gt;</code></span><br />
-<span id="revnumber">version 0.2,</span>
-<span id="revdate">2016-10-02</span>
-<div id="toc">
-  <div id="toctitle">Table of Contents</div>
-  <noscript><p><b>JavaScript must be enabled in your browser to display the table of contents.</b></p></noscript>
-</div>
-</div>
-<div id="content">
-<div class="sect1">
-<h2 id="_introduction">Introduction</h2>
-<div class="sectionbody">
-<div class="paragraph"><p>Traditionally, education in the field of engineering is not made available to
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Young Engineers Club Curriculum</title><link rel="stylesheet" type="text/css" href="docbook-xsl.css" /><meta name="generator" content="DocBook XSL Stylesheets V1.79.1" /></head><body><div xml:lang="en" class="book" lang="en"><div class="titlepage"><div><div><h1 class="title"><a id="idm140114691870720"></a>Young Engineers Club Curriculum</h1></div><div><div class="author"><h3 class="author"><span class="firstname">Arthur</span> <span class="surname">Davis</span></h3><code class="email">&lt;<a class="email" href="mailto:art.davis@gmail.com">art.davis@gmail.com</a>&gt;</code></div></div><div><div class="revhistory"><table style="border-style:solid; width:100%;" summary="Revision History"><tr><th align="left" valign="top" colspan="3"><strong>Revision History</strong></th></tr><tr><td align="left">Revision 0.2</td><td align="left">2016-10-02</td><td align="left">AD</td></tr></table></div></div></div><hr /></div><div class="toc"><p><strong>Table of Contents</strong></p><dl class="toc"><dt><span class="preface"><a href="#_introduction">Introduction</a></span></dt><dd><dl><dt><span class="section"><a href="#_materials">1. Materials</a></span></dt></dl></dd><dt><span class="part"><a href="#_curriculum_workshops">I. Curriculum Workshops</a></span></dt><dd><dl><dt><span class="chapter"><a href="#_workshop_1_what_is_engineering">1. Workshop 1: What is Engineering</a></span></dt><dd><dl><dt><span class="section"><a href="#_what_is_engineering">1.1. What is Engineering?</a></span></dt><dd><dl><dt><span class="section"><a href="#_additional_activities">1.1.1. Additional activities</a></span></dt></dl></dd></dl></dd><dt><span class="chapter"><a href="#_workshop_2_unsinkable_boat">2. Workshop 2: Unsinkable Boat</a></span></dt><dd><dl><dt><span class="section"><a href="#_unsinkable_boat">2.1. Unsinkable Boat</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_3_spooky_engineering">3. Workshop 3: Spooky Engineering</a></span></dt><dd><dl><dt><span class="section"><a href="#_spooky_engineering">3.1. Spooky Engineering</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_4_ballistic_pumpkins">4. Workshop 4: Ballistic Pumpkins</a></span></dt><dd><dl><dt><span class="section"><a href="#_ballistic_pumpkins">4.1. Ballistic Pumpkins</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_5_lego_building_game_show">5. Workshop 5: LEGO Building Game Show</a></span></dt><dd><dl><dt><span class="section"><a href="#_lego_building_game_show">5.1. LEGO Building Game Show</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_6_lego_building_challenges">6. Workshop 6: LEGO Building Challenges</a></span></dt><dd><dl><dt><span class="section"><a href="#_lego_engineering_challenge">6.1. LEGO Engineering Challenge</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_7_cup_tower_battle">7. Workshop 7: Cup Tower Battle</a></span></dt><dd><dl><dt><span class="section"><a href="#_tower_build_battle">7.1. Tower Build Battle</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_8_water_bottle_flip_optimization">8. Workshop 8: Water Bottle Flip Optimization</a></span></dt><dd><dl><dt><span class="section"><a href="#_water_bottle_flip_optimization">8.1. Water Bottle Flip Optimization</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_workshop_9_bridge_building">9. Workshop 9: Bridge Building</a></span></dt><dt><span class="chapter"><a href="#_workshop_10_hacking_the_holidays">10. Workshop 10: Hacking the Holidays</a></span></dt><dt><span class="chapter"><a href="#_workshop_11_reverse_engineering">11. Workshop 11: Reverse Engineering</a></span></dt><dt><span class="chapter"><a href="#_workshop_12_introduction_to_electrical_engineering">12. Workshop 12: Introduction to Electrical Engineering</a></span></dt><dt><span class="chapter"><a href="#_workshop_13_electrical_engineering_projects">13. Workshop 13: Electrical Engineering Projects</a></span></dt><dt><span class="chapter"><a href="#_workshop_14_software_engineering_i">14. Workshop 14: Software Engineering I</a></span></dt><dt><span class="chapter"><a href="#_workshop_15_software_engineering_ii">15. Workshop 15: Software Engineering II</a></span></dt><dt><span class="chapter"><a href="#_workshop_16_computer_aided_design">16. Workshop 16: Computer Aided Design</a></span></dt><dt><span class="chapter"><a href="#_workshop_17_3d_printing">17. Workshop 17: 3D Printing</a></span></dt><dt><span class="chapter"><a href="#_workshop_18_biomedical_engineering">18. Workshop 18: Biomedical Engineering</a></span></dt><dt><span class="chapter"><a href="#_workshop_19_biomedical_optics">19. Workshop 19: Biomedical Optics</a></span></dt><dt><span class="chapter"><a href="#_workshop_20_optical_engineering">20. Workshop 20: Optical Engineering</a></span></dt><dt><span class="chapter"><a href="#_workshop_21_mult_disciplinary_engineering">21. Workshop 21: Mult-Disciplinary Engineering</a></span></dt><dt><span class="chapter"><a href="#_workshop_22">22. Workshop 22</a></span></dt><dt><span class="chapter"><a href="#_workshop_23_crash_test_eggs_design_and_build">23. Workshop 23: Crash Test Eggs Design and Build</a></span></dt><dt><span class="chapter"><a href="#_workshop_24_crash_test_eggs_tournament">24. Workshop 24: Crash Test Eggs Tournament</a></span></dt><dt><span class="chapter"><a href="#_workshop_25_rocketry_design_and_build">25. Workshop 25: Rocketry Design and Build</a></span></dt><dt><span class="chapter"><a href="#_workshop_26_rocket_launch">26. Workshop 26: Rocket Launch</a></span></dt><dt><span class="chapter"><a href="#_workshop_27_raspberry_pi_computer">27. Workshop 27: Raspberry Pi Computer</a></span></dt><dt><span class="chapter"><a href="#_workshop_28_battling_robots_design_and_build">28. Workshop 28: Battling Robots Design and Build</a></span></dt><dt><span class="chapter"><a href="#_workshop_29_battling_robots_tournament">29. Workshop 29: Battling Robots Tournament</a></span></dt><dt><span class="chapter"><a href="#_workshop_30">30. Workshop 30</a></span></dt><dt><span class="chapter"><a href="#_workshop_31_engineering_showdown_games">31. Workshop 31: Engineering Showdown Games</a></span></dt></dl></dd><dt><span class="part"><a href="#_supplemental_workshops">II. Supplemental Workshops</a></span></dt><dd><dl><dt><span class="chapter"><a href="#_supplemental_1_straw_rockets">32. Supplemental 1: Straw Rockets</a></span></dt><dd><dl><dt><span class="section"><a href="#_straw_rocket">32.1. Straw Rocket</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_supplemental_2_siphon">33. Supplemental 2: Siphon</a></span></dt><dd><dl><dt><span class="section"><a href="#_siphon">33.1. Siphon</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_supplemental_3_ramp_racers">34. Supplemental 3: Ramp Racers</a></span></dt><dd><dl><dt><span class="section"><a href="#_ramp_racers">34.1. Ramp Racers</a></span></dt></dl></dd><dt><span class="chapter"><a href="#_supplemental_32_paddle_power">35. Supplemental 32: Paddle Power</a></span></dt><dd><dl><dt><span class="section"><a href="#_paddle_power">35.1. Paddle Power</a></span></dt></dl></dd></dl></dd></dl></div><div class="preface"><div class="titlepage"><div><div><h1 class="title"><a id="_introduction"></a>Introduction</h1></div></div></div><p>Traditionally, education in the field of engineering is not made available to
 students until they reach the college level. Even though primary school
 students may not be prepared to handle the advanced science and mathematics
-that are the typical domain of the engineering disciplines it&#8217;s never too early
-to apply engineering principles to solving problems.</p></div>
-<div class="paragraph"><p>The Young Engineers Club is open to all ages attending the Saratoga Independent
+that are the typical domain of the engineering disciplines it’s never too early
+to apply engineering principles to solving problems.</p><p>The Young Engineers Club is open to all ages attending the Saratoga Independent
 School and will expose students to engineering fundamentals on a level they
-will find engaging and fun.</p></div>
-<div class="paragraph"><p>Each club meeting will briefly introduce an engineering discipline and then
+will find engaging and fun.</p><p>Each club meeting will briefly introduce an engineering discipline and then
 pose an open ended engineering challenge in that realm.  Sometimes the whole
 club will work together to solve a problem, other times we will break out in to
 teams for some friendly competition. This self-directed problem based
 approach is an enjoyable way to foster engineering fundamentals such as
-innovation and original thought.</p></div>
-<div class="paragraph"><p>Engineering areas that we&#8217;ll be exploring include: Acoustical, Aerospace,
+innovation and original thought.</p><p>Engineering areas that we’ll be exploring include: Acoustical, Aerospace,
 Architectural, Biomedical, Chemical, Computer Aided Design, Electrical,
 Mechanical, Naval, Optical, Robotics, Rocketry, Software and more.  As the
 school year progresses, club members will add skills from earlier topics to
 their toolkit which they may bring to bear for solving more interdisciplinary
-challenges. If students develop an affinity to certain activities then we&#8217;ll
+challenges. If students develop an affinity to certain activities then we’ll
 find ways to incorporate those activities into the various subjects that we
-cover. We&#8217;ll also include tangential topics based on student interest.</p></div>
-<div class="paragraph"><p>Club members will be using tools that may typically be labeled "Keep out of
-reach of children" (e.g. cordless drill, soldering iron, etc.). We&#8217;ll be sure
+cover. We’ll also include tangential topics based on student interest.</p><p>Club members will be using tools that may typically be labeled "Keep out of
+reach of children" (e.g. cordless drill, soldering iron, etc.). We’ll be sure
 to closely supervise as necessary but also promote empowering students to use
-tools safely and effectively. On days where we use tools we&#8217;ll always start out
+tools safely and effectively. On days where we use tools we’ll always start out
 by emphasizing safety procedures and make sure participants are wearing
-appropriate safety gear. Additional precautions will be taken based on age.</p></div>
-<div class="paragraph"><p>Occasionally we may ask students to bring in craft supplies, various
+appropriate safety gear. Additional precautions will be taken based on age.</p><p>Occasionally we may ask students to bring in craft supplies, various
 recyclables or broken gadgets from home for use in the club. If you have a
 technological household item that you are going to throw away, consider hanging
 on to it to send in when called for so that we can explore some reverse
-engineering and disassembling skills.</p></div>
-<div class="paragraph"><p>Club meetings will be weekly occurring after school on Tuesdays. Parents are
+engineering and disassembling skills.</p><p>Club meetings will be weekly occurring after school on Tuesdays. Parents are
 welcome to attend meetings to help with organization and safety but remember,
 please try to participate only as a passive resource. The process of trying to
 solve a problem without boundary is part of the joy of engineering. As
 difficult as it may be to watch your child try to do something the "wrong" way,
 this more often than not can lead to a very clever solution that you will find
-wonderfully surprising.</p></div>
-<div class="paragraph"><p>Finally, we may plan an occasional weekend meet up at local events that are of
-interest to the club (for example, FIRST LEGO tournament).</p></div>
-<div class="paragraph"><div class="title">Optional Materials</div><p>Some optional materials you may consider supplying for your child include:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+wonderfully surprising.</p><p>Finally, we may plan an occasional weekend meet up at local events that are of
+interest to the club (for example, FIRST LEGO tournament).</p><p><strong>Optional Materials. </strong>Some optional materials you may consider supplying for your child include:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Safety Glasses. We will have safety glasses on hand for
   every club member. But if preferred, students may bring in their own safety
   glasses. Please be sure they are labeled with their name. Alternatively if
   your child wears prescription glasses you may find compatible clip on side
   shields.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Engineering Notebook. Keeping an engineering notebook is not required, but
   older students may want to keep one. Exactly what to use for an engineering
   notebook is a matter of personal preference. Typically graph paper type
   stationary is used (for instance, an engineering computation notepad and a 1"
   3 ring binder).
-</p>
-</li>
-<li>
-<p>
-Tools. We&#8217;ll have tools on hand for projects as needed though students are
+</li><li class="listitem">
+Tools. We’ll have tools on hand for projects as needed though students are
   welcome to bring their own tools if available. A minimum tool set would be a
   small toolbox that includes Phillips and common blade screwdrivers, slip
   joint pliers, needle nose pliers, a ruler, a tape measure and diagonal
-  cutters.  Please clearly label everything with the student&#8217;s name.
-</p>
-</li>
-<li>
-<p>
+  cutters.  Please clearly label everything with the student’s name.
+</li><li class="listitem">
 Broken gadgets. Remember to keep an eye out for things that can be sent
   in for disassembly. Our reverse engineering workshop is planned for early
-  January. Whatever you send in, be sure it&#8217;s disposable as it will be
-  thoroughly unusable once we&#8217;re done with it.
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><p>Also please check with your child after each meetup for any additional
-preparation requests for the following week&#8217;s club meeting. I will provide
-handouts with any additional supplies or actions requested as necessary.</p></div>
-<div class="sect2">
-<h3 id="_materials">Materials</h3>
-<div class="paragraph"><p>Required materials are listed within each workshop decription.
+  January. Whatever you send in, be sure it’s disposable as it will be
+  thoroughly unusable once we’re done with it.
+</li></ul></div><p>Also please check with your child after each meetup for any additional
+preparation requests for the following week’s club meeting. I will provide
+handouts with any additional supplies or actions requested as necessary.</p><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_materials"></a>1. Materials</h2></div></div></div><p>Required materials are listed within each workshop decription.
 Alternative supplies may be substituted or often you can improvise
-around not having supplies by adjusting the workshop activities.</p></div>
-</div>
-</div>
-</div>
-<h1 id="_curriculum_workshops">Curriculum Workshops</h1>
-<div class="sect1">
-<h2 id="_workshop_1_what_is_engineering">Workshop 1: What is Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-10-04</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">First meeting</td>
-</tr></table>
-</div>
-</div></div>
-<div class="sect2">
-<h3 id="_what_is_engineering">What is Engineering?</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+around not having supplies by adjusting the workshop activities.</p></div></div><div class="part"><div class="titlepage"><div><div><h1 class="title"><a id="_curriculum_workshops"></a>Part I. Curriculum Workshops</h1></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_1_what_is_engineering"></a>Chapter 1. Workshop 1: What is Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-10-04</p><div class="note" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Note"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/icons/note.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>First meeting</p></td></tr></table></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_what_is_engineering"></a>1.1. What is Engineering?</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Engineering Fundamentals
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-What&#8217;s an Engineer? Crash Course Kids
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=owHF9iLyxic">https://www.youtube.com/watch?v=owHF9iLyxic</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
+What’s an Engineer? Crash Course Kids
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=owHF9iLyxic" target="_top">https://www.youtube.com/watch?v=owHF9iLyxic</a>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Engineering Process
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=fxJWin195kU">https://www.youtube.com/watch?v=fxJWin195kU</a>
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Philosophy:</div><p>For this and all ensuing workshops, prioritize allowing the students to steer the direction.
-These workshops are guidelines for providing a medium for exploration but there&#8217;s no need to hold fast to them.
-If the class is motivated to do something totally different, encourage this even if it&#8217;s not part of the plan.</p></div>
-<div class="paragraph"><p>For reference, Wikipedia defines Engineering as follows, (there&#8217;s no need to actually read this to the class, but it may be helpful in case you get a few pedantic inquires):</p></div>
-<div class="quoteblock">
-<div class="content">
-<div class="paragraph"><p>Engineering is the application of mathematics, empirical evidence and
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=fxJWin195kU" target="_top">https://www.youtube.com/watch?v=fxJWin195kU</a>
+</li></ul></div></li></ul></div><p><strong>Philosophy: </strong>For this and all ensuing workshops, prioritize allowing the students to steer the direction.
+These workshops are guidelines for providing a medium for exploration but there’s no need to hold fast to them.
+If the class is motivated to do something totally different, encourage this even if it’s not part of the plan.</p><p>For reference, Wikipedia defines Engineering as follows, (there’s no need to actually read this to the class, but it may be helpful in case you get a few pedantic inquires):</p><div class="blockquote"><table border="0" class="blockquote" style="width: 100%; cellspacing: 0; cellpadding: 0;" summary="Block quote"><tr><td width="10%" valign="top"> </td><td width="80%" valign="top"><p>Engineering is the application of mathematics, empirical evidence and
 scientific, economic, social, and practical knowledge in order to invent,
 innovate, design, build, maintain, research, and improve structures, machines,
-tools, systems, components, materials, processes and organizations.</p></div>
-<div class="paragraph"><p>The discipline of engineering is extremely broad, and encompasses a range of
+tools, systems, components, materials, processes and organizations.</p><p>The discipline of engineering is extremely broad, and encompasses a range of
 more specialized fields of engineering, each with a more specific emphasis on
-particular areas of applied science, technology and types of application.</p></div>
-<div class="paragraph"><p>The term Engineering is derived from the Latin ingenium, meaning "cleverness"
-and ingeniare, meaning "to contrive, devise".</p></div>
-</div>
-<div class="attribution">
-<em>Engineering</em><br />
-&#8212; Wikipedia
-</div></div>
-<div class="paragraph"><p>In short: Engineering is the application of knowledge to invent, design and
-build systems.</p></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf">http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+particular areas of applied science, technology and types of application.</p><p>The term Engineering is derived from the Latin ingenium, meaning "cleverness"
+and ingeniare, meaning "to contrive, devise".</p></td><td width="10%" valign="top"> </td></tr><tr><td width="10%" valign="top"> </td><td colspan="2" align="right" valign="top">--<span class="attribution">
+Wikipedia
+<em class="citetitle">Engineering</em>
+</span></td></tr></table></div><p>In short: Engineering is the application of knowledge to invent, design and
+build systems.</p><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf" target="_top">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf" target="_top">http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Large whiteboard and dry erase markers
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Tape (e.g. masking tape that will be easily removable from whiteboard)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Index cards
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Computer workstation with internet access
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Make Magazines and/or similar
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Various gears and other engineering like gizmos
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ruler
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Various stickers and coloring sheets of technical items for students
   to choose for personalizing their engineering notebooks. Example
   coloring sheet ideas:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Gears, pulleys, clocks, Rube Goldberg
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Vehicles: automotive, nautical, construction equipment, aerospace
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Instrumentation
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Computers
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Drafting symbols/stickers
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Indoor classroom/lab environment</p></div>
-<div class="paragraph"><div class="title">Preparation:</div><p>Write the challenge "What is engineering?" on the board.</p></div>
-<div class="paragraph"><p>Draw five large circles on the board. At the top of each circle write each of
-the following categories:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div></li></ul></div><p><strong>Location: </strong>Indoor classroom/lab environment</p><p><strong>Preparation: </strong>Write the challenge "What is engineering?" on the board.</p><p>Draw five large circles on the board. At the top of each circle write each of
+the following categories:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Mechanical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Chemical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Civil
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Electrical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Software
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Interdisciplinary
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><p>For reference here are some definitions:</p></div>
-<div class="quoteblock">
-<div class="content">
-<div class="dlist"><dl>
-<dt class="hdlist1">
+</li></ul></div><p>For reference here are some definitions:</p><div class="blockquote"><table border="0" class="blockquote" style="width: 100%; cellspacing: 0; cellpadding: 0;" summary="Block quote"><tr><td width="10%" valign="top"> </td><td width="80%" valign="top"><div class="variablelist"><dl class="variablelist"><dt><span class="term">
 Mechanical engineering
-</dt>
-<dd>
-<p>
+</span></dt><dd>
 is the discipline that applies the principles of engineering, physics, and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery. It is one of the oldest and broadest of the engineering disciplines.
-</p>
-</dd>
-<dt class="hdlist1">
+</dd><dt><span class="term">
 Chemical engineering
-</dt>
-<dd>
-<p>
+</span></dt><dd>
 is a branch of engineering that applies physical sciences (physics and chemistry) and life sciences (microbiology and biochemistry) together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy. Essentially, chemical engineers design large-scale processes that convert chemicals, raw materials, living cells, microorganisms and energy into useful forms and products.
-</p>
-</dd>
-<dt class="hdlist1">
+</dd><dt><span class="term">
 Civil engineering
-</dt>
-<dd>
-<p>
+</span></dt><dd>
 is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, canals, dams, and buildings.
-</p>
-</dd>
-<dt class="hdlist1">
+</dd><dt><span class="term">
 Electrical engineering
-</dt>
-<dd>
-<p>
+</span></dt><dd>
 comprises the study and application of electricity,
 electronics, and electromagnetism.
-</p>
-</dd>
-<dt class="hdlist1">
+</dd><dt><span class="term">
 Software engineering
-</dt>
-<dd>
-<p>
+</span></dt><dd>
 is the application of engineering to the design, development, implementation and maintenance of software in a systematic method.
-</p>
-</dd>
-</dl></div>
-</div>
-<div class="attribution">
-<em>List of engineering branches</em><br />
-&#8212; Wikipedia
-</div></div>
-<div class="paragraph"><p>Wikipedia classifies the sub-disciplines as follows:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+</dd></dl></div></td><td width="10%" valign="top"> </td></tr><tr><td width="10%" valign="top"> </td><td colspan="2" align="right" valign="top">--<span class="attribution">
+Wikipedia
+<em class="citetitle">List of engineering branches</em>
+</span></td></tr></table></div><p>Wikipedia classifies the sub-disciplines as follows:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Civil
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Architectural, Construction, Earthquake, Hydraulic, Mining, Structural,
    Geotechnical, Transportation, Environmental
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Mechanical
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Aerospace, Acoustical, Automotive, Marine, Mechatronics, Railway
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Electrical
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Computer, Control, Electronics, Electromechanics, Optical, Power,
    Photonics, Telecommunications, Radio Frequency
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Chemical
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Biochemical, Biological, Molecular, Nanotechnology, Process, Reaction,
    Thermodynamics, Transport phenomena
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Interdisciplinary
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Audio, Engineering mathematics, Biomedical, Fire, Industrial,
    Materials science, Robotics, Military, Nuclear, Security, Systems, Privacy
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="paragraph"><p>Distribute the gears/gizmos, magazines and index cards across all the classroom
-tables.  Don&#8217;t offer direction one way or another whether the kids are allowed
-to touch these things. When they do start playing/reading don&#8217;t make them stop
-when you move on to new activities.</p></div>
-<div class="paragraph"><p>Have a computer workstation set up and pointing at the webpage: <a href="http://spacefem.com/quizzes/engineer">http://spacefem.com/quizzes/engineer</a> .
+</li></ul></div></li></ul></div><p>Distribute the gears/gizmos, magazines and index cards across all the classroom
+tables.  Don’t offer direction one way or another whether the kids are allowed
+to touch these things. When they do start playing/reading don’t make them stop
+when you move on to new activities.</p><p>Have a computer workstation set up and pointing at the webpage: <a class="ulink" href="http://spacefem.com/quizzes/engineer" target="_top">http://spacefem.com/quizzes/engineer</a> .
 During the challenge allow students to individually come up and take the quiz (with assistance if necessary).
-If you have engineering notebooks, have them log their results.</p></div>
-<div class="paragraph"><p>Consider starting the meeting seated among the students: "So, who&#8217;s going to teach us today?".
-If there are any volunteers, see where it goes before taking formal charge.</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">
-<div class="title">Engineering Notebook (Optional)</div>
-<div class="paragraph"><p>Have the students assemble an Engineering Notebook. Notify club members before
+If you have engineering notebooks, have them log their results.</p><p>Consider starting the meeting seated among the students: "So, who’s going to teach us today?".
+If there are any volunteers, see where it goes before taking formal charge.</p><div class="note" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Note: Engineering Notebook (Optional)"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/icons/note.png" /></td><th align="left">Engineering Notebook (Optional)</th></tr><tr><td align="left" valign="top"><p>Have the students assemble an Engineering Notebook. Notify club members before
 this first meeting to bring the necessary notebook supplies.  They can use a
 notebook of their own choice suitable to their tastes (spiral bound,
 composition, binder, pocket folder with brads, etc.). Absent any strong student
 preference though, suggest a 1" 3 ring binder with 3-hole filler graph or
 engineering pad paper.  This way paper can be used for scratch work as
 necessary while archival worthy pages can be placed in the binder.
-Encourage doodling in their notebooks</p></div>
-<div class="paragraph"><p>A good engineering notebook is a valuable tool to a practicing engineer
+Encourage doodling in their notebooks</p><p>A good engineering notebook is a valuable tool to a practicing engineer
 but assigning too much importance to it here may be of minimal value.
 Especially if it gets in the way of the creative process. It may be better to
 instead have a class notebook/binder that students can take turns writing in or
-that students can submit reports to.</p></div>
-</td>
-</tr></table>
-</div>
-<div class="paragraph"><div class="title">Challenge:</div><p>Pose the question "What is engineering?".
+that students can submit reports to.</p></td></tr></table></div><p><strong>Challenge: </strong>Pose the question "What is engineering?".
 Allow the discussion to be driven by the students.
 Invite the students to write down or draw something on the index cards that they think has to do with engineering.
-Let them make as many index cards as they want.</p></div>
-<div class="paragraph"><p>Also create cards (optionally extra large) with your own selection of engineering disciplines.
-My choices include: Acoustical, Aerospace, Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided, Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software.</p></div>
-<div class="paragraph"><p>Have the students tape their cards into as many of the 5 category circles drawn up on the board.
-For example an Automotive engineering card might well be placed in each of the circles whereas the gears would likely only be placed in the Mechanical circle.</p></div>
-<div class="paragraph"><p>Based on the results illustrate some Venn diagrams for various disciplines.
-Ask the students to pick some of their favorite cards and try to identify a discipline that they like.</p></div>
-<div class="paragraph"><div class="title">Optional notebook activity</div><p>Have the students log their favorite discipline in their notebook and compare that to their quiz results.
-Have them put their name and date on the page.</p></div>
-<div class="paragraph"><p>Redistribute the notebooks so everyone has somebody else&#8217;s notebook.
+Let them make as many index cards as they want.</p><p>Also create cards (optionally extra large) with your own selection of engineering disciplines.
+My choices include: Acoustical, Aerospace, Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided, Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software.</p><p>Have the students tape their cards into as many of the 5 category circles drawn up on the board.
+For example an Automotive engineering card might well be placed in each of the circles whereas the gears would likely only be placed in the Mechanical circle.</p><p>Based on the results illustrate some Venn diagrams for various disciplines.
+Ask the students to pick some of their favorite cards and try to identify a discipline that they like.</p><p><strong>Optional notebook activity. </strong>Have the students log their favorite discipline in their notebook and compare that to their quiz results.
+Have them put their name and date on the page.</p><p>Redistribute the notebooks so everyone has somebody else’s notebook.
 Invite the students to report on whose notebook they got and what kind of engineer their colleague is.
-As a "peer review" then they can sign and date their name at the bottom of the page and return the notebook to the owner.</p></div>
-<div class="sect3">
-<h4 id="_additional_activities">Additional activities</h4>
-<div class="paragraph"><p>Optionally bring the <a href="#straw_rocket">[straw_rocket]</a> materials as an additional activity for students.</p></div>
-<div class="paragraph"><p>Make worksheets that the students can populate Venn diagrams themselves.
+As a "peer review" then they can sign and date their name at the bottom of the page and return the notebook to the owner.</p><div class="section"><div class="titlepage"><div><div><h3 class="title"><a id="_additional_activities"></a>1.1.1. Additional activities</h3></div></div></div><p>Optionally bring the <a class="xref" href="#straw_rocket">Straw Rocket</a> materials as an additional activity for students.</p><p>Make worksheets that the students can populate Venn diagrams themselves.
 Make 1" - 1.5" diameter circular icon images on a printed page that can be punched out with a 1" - 1.5" punch.
 Each image can be an engineering related picture/term.
-The graphics can be line art and the students can be encouraged to color them as they please.</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+The graphics can be line art and the students can be encouraged to color them as they please.</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Gears: mechanical, automotive
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Computer workstation: software and all disciplines
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Iconic lab glassware: chemical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Optics, Laser: optical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Rocket, airplane: aerospace
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Heart: biomedical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Eyeball: biomedical optics
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Boat, Dam: Marine, mechanical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Robot: electrical, software robotic
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Assembly line: manufacturing
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Bridge: civil, mechanical, architectural
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Computer chip: electrical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 skyscraper building: architectural, mechanical
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 electrical symbols: resistor, capacitor, power supply, opamp etc
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 drafting symbols: centerline, dimensional callout etc
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Also have some blank disks for the kids to draw their own pictures/terms
-</p>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_2_unsinkable_boat">Workshop 2: Unsinkable Boat</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-10-11</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Important</div>
-</td>
-<td class="content">Notify students that meeting on 10/18 will be cancelled.</td>
-</tr></table>
-</div>
-</div></div>
-<div class="sect2">
-<h3 id="_unsinkable_boat">Unsinkable Boat</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_2_unsinkable_boat"></a>Chapter 2. Workshop 2: Unsinkable Boat</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-10-11</p><div class="important" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Important"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Important]" src="images/icons/important.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>Notify students that meeting on 10/18 will be cancelled.</p></td></tr></table></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_unsinkable_boat"></a>2.1. Unsinkable Boat</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Naval Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://pbskids.org/designsquad/parentseducators/resources/watercraft.html">http://pbskids.org/designsquad/parentseducators/resources/watercraft.html</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf" target="_top">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
+</li><li class="listitem">
+<a class="ulink" href="http://pbskids.org/designsquad/parentseducators/resources/watercraft.html" target="_top">http://pbskids.org/designsquad/parentseducators/resources/watercraft.html</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf" target="_top">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf</a>
+</li><li class="listitem">
+<a class="ulink" href="http://pbskids.org/designsquad/build/watercraft/" target="_top">http://pbskids.org/designsquad/build/watercraft/</a>
+</li><li class="listitem">
+<a class="ulink" href="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy" target="_top">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 50 plastic straws per team
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 1 roll of tape per team
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 25 pennies
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 1 paper cup per team
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Plastic Wrap
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Additional coins/washers
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Large tub or large watertight storage bin
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stopwatch
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Digital scale (or triple balance scale)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Internet Media Access
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 golf ball
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 ping pong ball
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Clay
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Inside or outside on a warm day.</p></div>
-<div class="paragraph"><div class="title">Preparation:</div><p>Fill the tub with water.</p></div>
-<div class="ulist"><div class="title">Facilitator notes</div><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Location: </strong>Inside or outside on a warm day.</p><p><strong>Preparation: </strong>Fill the tub with water.</p><div class="itemizedlist"><p class="title"><strong>Facilitator notes</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Buoyancy is the force of the water against the boat
-</p>
-</li>
-<li>
-<p>
-An object that floats displaces it&#8217;s equal weight in water
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
+An object that floats displaces it’s equal weight in water
+</li><li class="listitem">
 Increasing surface area will increase water displacement and increase buoyancy
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Demonstration:</div><p>Show the first 6.5 minutes of the Bill Nye video:</p></div>
-<div class="paragraph"><p><a href="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</a></p></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Teams of 2-3 making sure youngest are teamed with older student(s)</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</p></div>
-<div class="paragraph"><p>Discuss buoyancy. Inquire for some items to float test and try them.
-Demonstrate the golf ball and ping pong ball buoyancy.</p></div>
-<div class="paragraph"><p>Use a balled up blob of modeling clay that is about the same size as the golf ball.
+</li></ul></div><p><strong>Demonstration: </strong>Show the first 6.5 minutes of the Bill Nye video:</p><p><a class="ulink" href="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy" target="_top">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</a></p><p><strong>Teaming: </strong>Teams of 2-3 making sure youngest are teamed with older student(s)</p><p><strong>Challenge: </strong>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</p><p>Discuss buoyancy. Inquire for some items to float test and try them.
+Demonstrate the golf ball and ping pong ball buoyancy.</p><p>Use a balled up blob of modeling clay that is about the same size as the golf ball.
 Demonstrate that it sinks.
-Reshape it to a boat shape and demonstrate that it floats.</p></div>
-<div class="paragraph"><p>Discuss the challenge and the provided materials to the class.
+Reshape it to a boat shape and demonstrate that it floats.</p><p>Discuss the challenge and the provided materials to the class.
 Allow them to come up with some ideas in an open discussion ahead of time.
-Have them draw some sketches for their ideas.</p></div>
-<div class="paragraph"><p>Give each team tape, straws, a sheet of plastic wrap and a cup.
-The cups are there as a vessel for holding the pennies (but don&#8217;t discourage students if they decide to use them in other creative ways).
-For those interested, try adding additional weight (coins and/or washers) to see how much their boats can take before sinking.</p></div>
-<div class="paragraph"><p>Students can weigh the coins/washers their boat held and log it in their notebook.
-If the scale is sensitive enough they might also weigh their boat.</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_3_spooky_engineering">Workshop 3: Spooky Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-10-25</p></div>
-<div class="paragraph"><p>Meeting before Halloween</p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_spooky_engineering">Spooky Engineering</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+Have them draw some sketches for their ideas.</p><p>Give each team tape, straws, a sheet of plastic wrap and a cup.
+The cups are there as a vessel for holding the pennies (but don’t discourage students if they decide to use them in other creative ways).
+For those interested, try adding additional weight (coins and/or washers) to see how much their boats can take before sinking.</p><p>Students can weigh the coins/washers their boat held and log it in their notebook.
+If the scale is sensitive enough they might also weigh their boat.</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_3_spooky_engineering"></a>Chapter 3. Workshop 3: Spooky Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-10-25</p><p>Meeting before Halloween</p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_spooky_engineering"></a>3.1. Spooky Engineering</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Chemical Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas">http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/">http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.weareteachers.com/lessons-resources/details/diy-slime">http://www.weareteachers.com/lessons-resources/details/diy-slime</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.instructables.com/id/Oobleck/">http://www.instructables.com/id/Oobleck/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://en.wikipedia.org/wiki/Non-Newtonian_fluid">https://en.wikipedia.org/wiki/Non-Newtonian_fluid</a>
-</p>
-</li>
-<li>
-<p>
-Vi Hart Scary Sierpinski Skull: <a href="https://www.youtube.com/watch?v=z8ZWlUamNPI">https://www.youtube.com/watch?v=z8ZWlUamNPI</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas" target="_top">http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/" target="_top">http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.weareteachers.com/lessons-resources/details/diy-slime" target="_top">http://www.weareteachers.com/lessons-resources/details/diy-slime</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.instructables.com/id/Oobleck/" target="_top">http://www.instructables.com/id/Oobleck/</a>
+</li><li class="listitem">
+<a class="ulink" href="https://en.wikipedia.org/wiki/Non-Newtonian_fluid" target="_top">https://en.wikipedia.org/wiki/Non-Newtonian_fluid</a>
+</li><li class="listitem">
+Vi Hart Scary Sierpinski Skull: <a class="ulink" href="https://www.youtube.com/watch?v=z8ZWlUamNPI" target="_top">https://www.youtube.com/watch?v=z8ZWlUamNPI</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Food coloring
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Alka-seltzer
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Vegetable oil
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Dish soap
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><p>Per student:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><p>Per student:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 A clear plastic bottle or jar
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 A bottle of vegetable oil
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Cup of water
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Dixie cup of corn starch
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Paper bowl
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Spoon
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Classroom/Lab</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Warning</div>
-</td>
-<td class="content">
-<div class="title">Preparation:</div>Collect all of the bottle/jar tops before beginning the activity. The
-students won&#8217;t be able to resist capping their lava lamps after putting in the
+</li></ul></div><p><strong>Location: </strong>Classroom/Lab</p><div class="warning" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Warning"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Warning]" src="images/icons/warning.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>Collect all of the bottle/jar tops before beginning the activity. The
+students won’t be able to resist capping their lava lamps after putting in the
 alka-seltzer which will cause pressure build up and potential explosion.  You
 could also make a safety demonstration by putting water and alka-seltzer into a
 capped bottle made of lightweight plastic and then leaving it in a safe
 location where it can explode without injuring anyone (safety glasses
-recommended).</td>
-</tr></table>
-</div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Individual or teams based on amount of supplies available.</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>Perform some spooky Mad Scientist Experiments.</p></div>
-<div class="paragraph"><p>"Make a Lava Lamp from varying density liquids"</p></div>
-<div class="paragraph"><p>"Make Oobleck: a Non Newtonian Fluid"</p></div>
-<div class="paragraph"><p>Standard lava lamp:
-* Fill the bottle or jar a quarter full with water and fill the rest with vegetable oil.
-* After the separation between the oil and water settles add several drops of food coloring.
-* Add half an alka seltzer for a bubbling reaction.
-* Add more bits of alka-seltzer to create a lava-lamp rising and falling of bubbles.</p></div>
-<div class="paragraph"><p>Let the kids design their own lava lamp using dish soap, water, vegetable oil and food coloring.
-Things to experiment with include:
-* Order in which liquids are added
-* Size of alka-seltzer tablets
-* When to add food coloring</p></div>
-<div class="paragraph"><div class="title">Class Inquiry:</div><p>TODO: Education on reaction of alka-seltzer
+recommended).</p></td></tr></table></div><p><strong>Teaming: </strong>Individual or teams based on amount of supplies available.</p><p><strong>Challenge: </strong>Perform some spooky Mad Scientist Experiments.</p><p>"Make a Lava Lamp from varying density liquids"</p><p>"Make Oobleck: a Non Newtonian Fluid"</p><p>Standard lava lamp:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+Fill the bottle or jar a quarter full with water and fill the rest with vegetable oil.
+</li><li class="listitem">
+After the separation between the oil and water settles add several drops of food coloring.
+</li><li class="listitem">
+Add half an alka seltzer for a bubbling reaction.
+</li><li class="listitem">
+Add more bits of alka-seltzer to create a lava-lamp rising and falling of bubbles.
+</li></ul></div><p>Let the kids design their own lava lamp using dish soap, water, vegetable oil and food coloring.
+Things to experiment with include:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+Order in which liquids are added
+</li><li class="listitem">
+Size of alka-seltzer tablets
+</li><li class="listitem">
+When to add food coloring
+</li></ul></div><p><strong>Class Inquiry: </strong>TODO: Education on reaction of alka-seltzer
 Discussion on density. Ask about why the oil and water separate. Can the
-class think of different density gasses?</p></div>
-<div class="paragraph"><div class="title">Oobleck</div><p>Non Newtonian fluid</p></div>
-<div class="paragraph"><p>Mix 1 cup water with 1.5-2cups corn starch (about 1:2 ratio water to cornstarch)
+class think of different density gasses?</p><p><strong>Oobleck. </strong>Non Newtonian fluid</p><p>Mix 1 cup water with 1.5-2cups corn starch (about 1:2 ratio water to cornstarch)
 and a few drops of food coloring
-in mixing bowl. Student&#8217;s will have a Non Newtonian Fluid which acts like
-a liquid when poured but as a solid when touched.</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+in mixing bowl. Student’s will have a Non Newtonian Fluid which acts like
+a liquid when poured but as a solid when touched.</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 If the oobleck is too watery add a spoon of cornstarch and mix in thoroughly
-</p>
-</li>
-<li>
-<p>
-If it isn&#8217;t watery when picked up, add a spoon of water
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
+If it isn’t watery when picked up, add a spoon of water
+</li><li class="listitem">
 Repeat until achieving proper consistency
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Class Inquiry</div><p>Unlike most fluids, a non-Newtonian fluid&#8217;s viscosity is dependent on
+</li></ul></div><p><strong>Class Inquiry. </strong>Unlike most fluids, a non-Newtonian fluid’s viscosity is dependent on
 the shear rate it is exposed to. Silly Putty is another example.
-It will stretch and mold, but ball it up and throw it and it bounces.</p></div>
-<div class="paragraph"><div class="title">Further Challenges:</div><p>Prepare for a Ballistic Pumpkin challenge for the next meeting after Halloween.
+It will stretch and mold, but ball it up and throw it and it bounces.</p><p><strong>Further Challenges: </strong>Prepare for a Ballistic Pumpkin challenge for the next meeting after Halloween.
 Have students bring in small pumpkins/Jack-O-Lanterns that may be launched
 across the field outside. Brainstorm some ideas for launching pumpkins.  Watch
-some videos on Trebuchets and Punkin Chunkin.</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_4_ballistic_pumpkins">Workshop 4: Ballistic Pumpkins</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-11-01</p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_ballistic_pumpkins">Ballistic Pumpkins</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+some videos on Trebuchets and Punkin Chunkin.</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_4_ballistic_pumpkins"></a>Chapter 4. Workshop 4: Ballistic Pumpkins</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-11-01</p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_ballistic_pumpkins"></a>4.1. Ballistic Pumpkins</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Mechanical Engineering
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Setup:</div><p>Depending on available materials, you can either have teams build multiple
+</li></ul></div><p><strong>Setup: </strong>Depending on available materials, you can either have teams build multiple
 trebs or build one trebuchet (let the whole class assemble it as 1 team) and
 then let them break out and compete on getting the best distance with their own
-customized sling designs.</p></div>
-<div class="paragraph"><p>Miniature pumpkin gourds or alternatively golf balls may be used for
+customized sling designs.</p><p>Miniature pumpkin gourds or alternatively golf balls may be used for
 launching. You could get orange golf balls and or decorate them like
-jack-o-lanterns to keep with the pumpkin theme.</p></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="https://www.punkinchunkin.com/">https://www.punkinchunkin.com/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.sciencechannel.com/tv-shows/punkin-chunkin/">http://www.sciencechannel.com/tv-shows/punkin-chunkin/</a>
-</p>
-</li>
-<li>
-<p>
+jack-o-lanterns to keep with the pumpkin theme.</p><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="https://www.punkinchunkin.com/" target="_top">https://www.punkinchunkin.com/</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.sciencechannel.com/tv-shows/punkin-chunkin/" target="_top">http://www.sciencechannel.com/tv-shows/punkin-chunkin/</a>
+</li><li class="listitem"><p class="simpara">
 Punkin Chunkin documentary:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=dmSyrGsqmg8">https://www.youtube.com/watch?v=dmSyrGsqmg8</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-<a href="http://www.real-world-physics-problems.com/trebuchet-physics.html">http://www.real-world-physics-problems.com/trebuchet-physics.html</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=dmSyrGsqmg8" target="_top">https://www.youtube.com/watch?v=dmSyrGsqmg8</a>
+</li></ul></div></li><li class="listitem">
+<a class="ulink" href="http://www.real-world-physics-problems.com/trebuchet-physics.html" target="_top">http://www.real-world-physics-problems.com/trebuchet-physics.html</a>
+</li><li class="listitem"><p class="simpara">
 MythBusters:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=9-Hwxw4fgqk">https://www.youtube.com/watch?v=9-Hwxw4fgqk</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-<a href="http://www.instructables.com/id/Trebuchet-Project/">http://www.instructables.com/id/Trebuchet-Project/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html">http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://parts.spearsmfg.com/ProductDetails.aspx?pid=41">http://parts.spearsmfg.com/ProductDetails.aspx?pid=41</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=9-Hwxw4fgqk" target="_top">https://www.youtube.com/watch?v=9-Hwxw4fgqk</a>
+</li></ul></div></li><li class="listitem">
+<a class="ulink" href="http://www.instructables.com/id/Trebuchet-Project/" target="_top">http://www.instructables.com/id/Trebuchet-Project/</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html" target="_top">http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html</a>
+</li><li class="listitem">
+<a class="ulink" href="http://parts.spearsmfg.com/ProductDetails.aspx?pid=41" target="_top">http://parts.spearsmfg.com/ProductDetails.aspx?pid=41</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Garbage bags for cleanup
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Trebuchet (see below)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Minature pumpkins/gourds
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Tennis balls
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Golf balls
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Bouncy balls
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 ≥100ft long tape measure
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Lawn Marking chalk
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Online media access
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Wastebasket or bucket
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Large field outside.</p></div>
-<div class="ulist"><div class="title">Preparation:</div><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Location: </strong>Large field outside.</p><div class="itemizedlist"><p class="title"><strong>Preparation:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Build PVC pipe trebuchet
-</p>
-</li>
-</ul></div>
-<div class="imageblock">
-<div class="content">
-<img src="images/Trebuchet-Assem2.png" alt="Trebuchet Build" width="640" />
-</div>
-</div>
-<div class="paragraph"><p>Some experimentation will be necessary to build the throwing arm and might
+</li></ul></div><div class="informalfigure"><div class="mediaobject"><img src="images/Trebuchet-Assem2.png" width="400" alt="Trebuchet Build" /></div></div><p>Some experimentation will be necessary to build the throwing arm and might
 be incorporated into a workshop. I made a throwing arm out of plywood with
-good success.</p></div>
-<div class="paragraph"><div class="title">Demonstration:</div><p>Show Mythbusters trebuchet prototype video:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=9-Hwxw4fgqk">https://www.youtube.com/watch?v=9-Hwxw4fgqk</a>
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Teams of 2-3 making sure youngest are teamed with older student(s)</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>"Launch a mini-pumpkin as far as possible"</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Warning</div>
-</td>
-<td class="content">Be sure to use a rope to pull the trigger pin while everyone stands clear of the trebuchet.</td>
-</tr></table>
-</div>
-<div class="paragraph"><p>For consistency, and if you don&#8217;t have mini-pumpkins, tennis balls may be used instead.
+good success.</p><p><strong>Demonstration: </strong>Show Mythbusters trebuchet prototype video:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=9-Hwxw4fgqk" target="_top">https://www.youtube.com/watch?v=9-Hwxw4fgqk</a>
+</li></ul></div><p><strong>Teaming: </strong>Teams of 2-3 making sure youngest are teamed with older student(s)</p><p><strong>Challenge: </strong>"Launch a mini-pumpkin as far as possible"</p><div class="warning" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Warning"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Warning]" src="images/icons/warning.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>Be sure to use a rope to pull the trigger pin while everyone stands clear of the trebuchet.</p></td></tr></table></div><p>For consistency, and if you don’t have mini-pumpkins, tennis balls may be used instead.
 See what modifications can be made to get the projectiles the farthest.
 Try launching different kinds of balls like golf balls and bouncy balls.
-See what happens when the sling is filled with several smaller bouncy balls.</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Warning</div>
-</td>
-<td class="content">Make sure to take necessary precautions to avoid having a projectile
-hit someone. Particularly with hard projectiles like golf balls.</td>
-</tr></table>
-</div>
-<div class="paragraph"><div class="title">Further Challenges:</div><p>"Launch a mini-pumpkin into a target bucket"</p></div>
-<div class="paragraph"><p>Adjusting the pin on the sling arm can control the release angle.
+See what happens when the sling is filled with several smaller bouncy balls.</p><div class="warning" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Warning"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Warning]" src="images/icons/warning.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>Make sure to take necessary precautions to avoid having a projectile
+hit someone. Particularly with hard projectiles like golf balls.</p></td></tr></table></div><p><strong>Further Challenges: </strong>"Launch a mini-pumpkin into a target bucket"</p><p>Adjusting the pin on the sling arm can control the release angle.
 Changing the sling length will have an effect on distance.
 Safely increasing the conterweight will make the balls launch farther.
-Mounting wheels on the frame will make it launch farther.</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_5_lego_building_game_show">Workshop 5: LEGO Building Game Show</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-11-08</p></div>
-<div class="paragraph"><p>Resources:
-<a href="http://www.bricklink.com/">http://www.bricklink.com/</a>
-<a href="https://shop.lego.com/en-US/Pick-a-Brick">https://shop.lego.com/en-US/Pick-a-Brick</a>
-<a href="https://education.lego.com/en-us/">https://education.lego.com/en-us/</a></p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_lego_building_game_show">LEGO Building Game Show</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+Mounting wheels on the frame will make it launch farther.</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_5_lego_building_game_show"></a>Chapter 5. Workshop 5: LEGO Building Game Show</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-11-08</p><p>Resources:
+<a class="ulink" href="http://www.bricklink.com/" target="_top">http://www.bricklink.com/</a>
+<a class="ulink" href="https://shop.lego.com/en-US/Pick-a-Brick" target="_top">https://shop.lego.com/en-US/Pick-a-Brick</a>
+<a class="ulink" href="https://education.lego.com/en-us/" target="_top">https://education.lego.com/en-us/</a></p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_lego_building_game_show"></a>5.1. LEGO Building Game Show</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Mechanical Engineering
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Setup:</div><p>You may come up with various ways to break the students into teams.
-For a class size of 16, print the team_cards document:</p></div>
-<div class="imageblock">
-<div class="content">
-<img src="workshops/lego_gameshow/team_cards_1.png" alt="Team Cards" width="640" />
-</div>
-</div>
-<div class="paragraph"><p>Cut out the cards and distribute one to each student. These will allow you to
+</li></ul></div><p><strong>Setup: </strong>You may come up with various ways to break the students into teams.
+For a class size of 16, print the team_cards document:</p><div class="informalfigure"><div class="mediaobject"><img src="workshops/lego_gameshow/team_cards_1.png" width="400" alt="Team Cards" /></div></div><p>Cut out the cards and distribute one to each student. These will allow you to
 make 4 teams of 4 unique team members for up to 5 rounds. For example, starting
 with number, break the teams out into numbers 1, 2, 3, 4. Next round break the
 teams out by letter A, B, C, D. Unique teams with no students ever on the same
 team again can be made when the teams are broken out by: number, letter, color,
-shape and direction. If you have time for more rounds there&#8217;s also season,
-element and phase but the teams won&#8217;t be unique any more.</p></div>
-<div class="paragraph"><p>Divvy up the LEGO&#8217;s so there&#8217;s evenly distributed LEGO quantities at each
-team table.</p></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
+shape and direction. If you have time for more rounds there’s also season,
+element and phase but the teams won’t be unique any more.</p><p>Divvy up the LEGO’s so there’s evenly distributed LEGO quantities at each
+team table.</p><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 MythBusters LEGO Ball:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=KLWLTs90_po">https://www.youtube.com/watch?v=KLWLTs90_po</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=M8vdTXO0lpE">https://www.youtube.com/watch?v=M8vdTXO0lpE</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=KLWLTs90_po" target="_top">https://www.youtube.com/watch?v=KLWLTs90_po</a>
+</li><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=M8vdTXO0lpE" target="_top">https://www.youtube.com/watch?v=M8vdTXO0lpE</a>
+</li><li class="listitem">
 This is a great video to show the celebration of failure. Point out
    how many weeks of hard work it was building the ball and then what was
-   everyone&#8217;s reaction when it crumbled. Absolute joy!
-</p>
-</li>
-<li>
-<p>
+   everyone’s reaction when it crumbled. Absolute joy!
+</li><li class="listitem">
 Also see what else the class notices from the experiment. Another
    thing to call attention to was the safety precautions. Yes the experiment
    failed, but by making sure everyone is safe, nobody was in danger of
    getting hurt.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-LEGO Rube Goldberg ball run: <a href="https://www.youtube.com/watch?v=xwUg3sf4Lvo">https://www.youtube.com/watch?v=xwUg3sf4Lvo</a>
-</p>
-</li>
-<li>
-<p>
-10 most amazing LEGO machines: <a href="https://www.youtube.com/watch?v=3_q8O8xQnlQ">https://www.youtube.com/watch?v=3_q8O8xQnlQ</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
-Assorted LEGO&#8217;s (≥100 pcs assorted per student plus multiple figurines)
-</p>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
+LEGO Rube Goldberg ball run: <a class="ulink" href="https://www.youtube.com/watch?v=xwUg3sf4Lvo" target="_top">https://www.youtube.com/watch?v=xwUg3sf4Lvo</a>
+</li><li class="listitem">
+10 most amazing LEGO machines: <a class="ulink" href="https://www.youtube.com/watch?v=3_q8O8xQnlQ" target="_top">https://www.youtube.com/watch?v=3_q8O8xQnlQ</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+Assorted LEGO’s (≥100 pcs assorted per student plus multiple figurines)
+</li><li class="listitem">
 LEGO Creationary cards or similar
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Classroom/Lab</p></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Teams of 2-4</p></div>
-<div class="paragraph"><div class="title">Helpers</div><p>Activities helper students may do:
+</li></ul></div><p><strong>Location: </strong>Classroom/Lab</p><p><strong>Teaming: </strong>Teams of 2-4</p><p><strong>Helpers. </strong>Activities helper students may do:
 * Run time
 * Keep score
 * Sort/distribute/cleanup LEGOs
-* Judge</p></div>
-<div class="paragraph"><div class="title">Preparation</div><p>Show the MythBusters LEGO ball video and have a discussion about celebrating
+* Judge</p><p><strong>Preparation. </strong>Show the MythBusters LEGO ball video and have a discussion about celebrating
 failute and practicing safety. What other comments do the students have on
-the experiment?</p></div>
-<div class="paragraph"><p>Explain that we&#8217;re going to have a game show style challenge because a little
-competition makes it fun. But remember there&#8217;s more to be learned by not
+the experiment?</p><p>Explain that we’re going to have a game show style challenge because a little
+competition makes it fun. But remember there’s more to be learned by not
 winning. If another team gets more points, try not to get frustrated.  Observe
 carefull what they did. Learn from your observations. Improve your own methods.
-Keep trying.</p></div>
-<div class="paragraph"><p>When something doesn&#8217;t work shout "Hooray! Science!". Everybody together
-shout "Hooray! Science!". Maybe one more time louder. Then jump into the game.</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>Play the LEGO Building Game Show</p></div>
-<div class="paragraph"><p>Pick a build time limit like 5 minutes.</p></div>
-<div class="paragraph"><p>Start with an easy level object card for each team. Each team should keep
+Keep trying.</p><p>When something doesn’t work shout "Hooray! Science!". Everybody together
+shout "Hooray! Science!". Maybe one more time louder. Then jump into the game.</p><p><strong>Challenge: </strong>Play the LEGO Building Game Show</p><p>Pick a build time limit like 5 minutes.</p><p>Start with an easy level object card for each team. Each team should keep
 their card secret from the other teams. Also it may be helpful to pick
-objects with a given theme and make everyone aware of what that theme is.</p></div>
-<div class="paragraph"><p>Start the timer and have each team build their creation. The teams may use
+objects with a given theme and make everyone aware of what that theme is.</p><p>Start the timer and have each team build their creation. The teams may use
 their LEGO minifigures as they see fit. You may pick build objects for the
-teams that would benefit identification via the use of minifigures.</p></div>
-<div class="paragraph"><p>At the end of the round, each team holds up their creations in turn while
+teams that would benefit identification via the use of minifigures.</p><p>At the end of the round, each team holds up their creations in turn while
 the others secretly write down what they think it is. Every team that
 gets a right answer gets a point. Every team that gets their creation judged
 correctly gets a point for every correct guess. The points can be tallied
 seperately and it will be interesting at the end to analyze which teams
-did the best guessing and which teams got the most correctly guessed builds.</p></div>
-<div class="paragraph"><p>For the next round teams may keep their creation and use it as part of their
+did the best guessing and which teams got the most correctly guessed builds.</p><p>For the next round teams may keep their creation and use it as part of their
 next build or take parts off of it as they need. You may want to distribute
 object cards specifically to encourage creative re-use or previous builds.
 Also you can tailor the object build difficulty as a handicap to help keep
-the scores fairly close.</p></div>
-<div class="paragraph"><p>Shuffle up the teams using the team cards after each round.</p></div>
-<div class="paragraph"><p>Keep track of the results entering the data in the lego_build_data_record
+the scores fairly close.</p><p>Shuffle up the teams using the team cards after each round.</p><p>Keep track of the results entering the data in the lego_build_data_record
 spreadsheet each round. Save the data and run the Jupyter notebook
-data analysis program on the data.</p></div>
-<div class="ulist"><div class="title">Further Challenges:</div><ul>
-<li>
-<p>
+data analysis program on the data.</p><div class="itemizedlist"><p class="title"><strong>Further Challenges:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Decrease the allowed build time
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Only show the picture to the team and then take the card back instead
   of letting them keep it to look at the whole time
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Just tell the team what the object is without showing them the picture
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Provide multiple build objects per round
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Run a round where everyone works individually.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Give everyone the same object and have each team rank every other teams
   build in order. Highest points to best rank.
-</p>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_6_lego_building_challenges">Workshop 6: LEGO Building Challenges</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-11-15</p></div>
-<div class="paragraph"><p>Meeting on 11/22 is cancelled.</p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_lego_engineering_challenge">LEGO Engineering Challenge</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_6_lego_building_challenges"></a>Chapter 6. Workshop 6: LEGO Building Challenges</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-11-15</p><p>Meeting on 11/22 is cancelled.</p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_lego_engineering_challenge"></a>6.1. LEGO Engineering Challenge</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Mechanical Engineering
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Setup:</div><p>By selecting one building challenge activity for all of the teams to work
+</li></ul></div><p><strong>Setup: </strong>By selecting one building challenge activity for all of the teams to work
 on there is more opportunity for collaboration. If a team completes their
 project try to direct them on to additional challenges on the same
 project. They may also help out other teams or work on sorting the main LEGO
-collection.</p></div>
-<div class="paragraph"><div class="title">Resources:</div><p>The Educating Young Engineers website provides very good ideas for LEGO
-design challenges:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/lego-clubs/">http://www.educatingyoungengineers.com/lego-clubs/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf">http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/lego-club-activity-ideas">http://www.educatingyoungengineers.com/lego-club-activity-ideas</a>
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-Adam Savage LEGO Sisyphus: <a href="https://www.youtube.com/watch?v=U46Yo_6z_F4">https://www.youtube.com/watch?v=U46Yo_6z_F4</a>
-</p>
-</li>
-<li>
-<p>
+collection.</p><p><strong>Resources: </strong>The Educating Young Engineers website provides very good ideas for LEGO
+design challenges:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/lego-clubs/" target="_top">http://www.educatingyoungengineers.com/lego-clubs/</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf" target="_top">http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf</a>
+</li><li class="listitem"><p class="simpara">
+<a class="ulink" href="http://www.educatingyoungengineers.com/lego-club-activity-ideas" target="_top">http://www.educatingyoungengineers.com/lego-club-activity-ideas</a>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+Adam Savage LEGO Sisyphus: <a class="ulink" href="https://www.youtube.com/watch?v=U46Yo_6z_F4" target="_top">https://www.youtube.com/watch?v=U46Yo_6z_F4</a>
+</li><li class="listitem">
 MythBusters LEGO Ball:
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=KLWLTs90_po">https://www.youtube.com/watch?v=KLWLTs90_po</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=M8vdTXO0lpE">https://www.youtube.com/watch?v=M8vdTXO0lpE</a>
-</p>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=KLWLTs90_po" target="_top">https://www.youtube.com/watch?v=KLWLTs90_po</a>
+</li><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=M8vdTXO0lpE" target="_top">https://www.youtube.com/watch?v=M8vdTXO0lpE</a>
+</li><li class="listitem">
 This is a great video to show the celebration of failure. Point out
    how many weeks of hard work it was building the ball and then what was
-   everyone&#8217;s reaction when it crumbled. Absolute joy!
-</p>
-</li>
-<li>
-<p>
+   everyone’s reaction when it crumbled. Absolute joy!
+</li><li class="listitem"><p class="simpara">
 Also see what else the class notices from the experiment. Another
    thing to call attention to was the safety precautions. Yes the experiment
    failed, but by making sure everyone is safe, nobody was in danger of
    getting hurt.
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-LEGO Rube Goldberg ball run: <a href="https://www.youtube.com/watch?v=xwUg3sf4Lvo">https://www.youtube.com/watch?v=xwUg3sf4Lvo</a>
-</p>
-</li>
-<li>
-<p>
-10 most amazing LEGO machines: <a href="https://www.youtube.com/watch?v=3_q8O8xQnlQ">https://www.youtube.com/watch?v=3_q8O8xQnlQ</a>
-</p>
-</li>
-<li>
-<p>
-Most amazing LEGO Sculptures: <a href="https://www.youtube.com/watch?v=dW9eHPkYLeo">https://www.youtube.com/watch?v=dW9eHPkYLeo</a>
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
-Assorted LEGO&#8217;s (≥100 pcs assorted per student plus multiple figurines)
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+LEGO Rube Goldberg ball run: <a class="ulink" href="https://www.youtube.com/watch?v=xwUg3sf4Lvo" target="_top">https://www.youtube.com/watch?v=xwUg3sf4Lvo</a>
+</li><li class="listitem">
+10 most amazing LEGO machines: <a class="ulink" href="https://www.youtube.com/watch?v=3_q8O8xQnlQ" target="_top">https://www.youtube.com/watch?v=3_q8O8xQnlQ</a>
+</li><li class="listitem">
+Most amazing LEGO Sculptures: <a class="ulink" href="https://www.youtube.com/watch?v=dW9eHPkYLeo" target="_top">https://www.youtube.com/watch?v=dW9eHPkYLeo</a>
+</li></ul></div></li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+Assorted LEGO’s (≥100 pcs assorted per student plus multiple figurines)
+</li><li class="listitem">
 Meter stick/Tape Measure (Drop Test/Tallest Tower)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Digital scale (Drop Test)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stop Watch or music source (Musical Monsters)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Large plastic bins (Engineering Escapes)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Tub of water (Boat Building)
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Classroom/Lab</p></div>
-<div class="paragraph"><div class="title">Helpers</div><p>Activities helper students may do:</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Location: </strong>Classroom/Lab</p><p><strong>Helpers. </strong>Activities helper students may do:</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Measure
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Record data on whiteboard
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Sort/distribute/cleanup LEGOs
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Challenges:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Challenges:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Drop Test
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/drop-test">http://www.educatingyoungengineers.com/drop-test</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/drop-test" target="_top">http://www.educatingyoungengineers.com/drop-test</a>
+</li><li class="listitem">
 Teaming: Individual
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Combine exactly 20 LEGO bricks so that when dropped they do not break
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: square; "><li class="listitem">
 If gathering 20 identical bricks for each student is too tall of an order,
     impose a minimum weight requirement (around the weight of 20 2x6 bricks).
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Alternatively leave the requirements open and allow the students to record
     the number of bricks, drop height and weight of their creation. Evaluate
     correlations.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
 Use a meter stick to drop from progressively higher distances and record the max drop height before their structure breaks apart.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Have the students iterate to try to improve their height
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Have a review discussion on successful strategies
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="imageblock">
-<div class="content">
-<img src="workshops/lego_droptest/lego_droptest_table.png" alt="Team Cards" width="640" />
-</div>
-</div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div></li></ul></div><div class="informalfigure"><div class="mediaobject"><img src="workshops/lego_droptest/lego_droptest_table.png" width="400" alt="Team Cards" /></div></div><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Collaborative Monsters
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/musical-monsters">http://www.educatingyoungengineers.com/musical-monsters</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/musical-monsters" target="_top">http://www.educatingyoungengineers.com/musical-monsters</a>
+</li><li class="listitem">
 Teaming: Individual
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Everyone starts bulding a monster. Use music or a stopwatch to indicate when
    to stop building and pass their creation off to their neighbor. Continue for
    several rounds and then review everyones creations.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ask if any of the monsters turned out how they thought they would when they
    started building them.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Engineering Escapes
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/engineering-escapes">http://www.educatingyoungengineers.com/engineering-escapes</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/engineering-escapes" target="_top">http://www.educatingyoungengineers.com/engineering-escapes</a>
+</li><li class="listitem">
 Teaming: 3-5
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Put a LEGO minifigure in a bin and have the team build a solution to
    get him out.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 With each iteration, impose new challenges
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: square; "><li class="listitem">
 No stairs
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 No elevators
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li></ul></div></li><li class="listitem"><p class="simpara">
 Tallest Tower
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/tallest-tower">http://www.educatingyoungengineers.com/tallest-tower</a>
-</p>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/tallest-tower" target="_top">http://www.educatingyoungengineers.com/tallest-tower</a>
+</li><li class="listitem">
 Teaming: 3-5
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 See who can build the tallest tower.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Have teams request measurement checkpoints with a tape measure.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Discuss successful and unsuccessful strategies.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Boat Building
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://www.educatingyoungengineers.com/boat-building">http://www.educatingyoungengineers.com/boat-building</a>
-</p>
-</li>
-<li>
-<p>
-Reproduce the <a href="workshops/unsinkable_boat.adoc">Uninskable Boat</a> workshop
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://www.educatingyoungengineers.com/boat-building" target="_top">http://www.educatingyoungengineers.com/boat-building</a>
+</li><li class="listitem">
+Reproduce the <a class="ulink" href="workshops/unsinkable_boat.adoc" target="_top">Uninskable Boat</a> workshop
    except with LEGOS.
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_7_cup_tower_battle">Workshop 7: Cup Tower Battle</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-11-29</p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_tower_build_battle">Tower Build Battle</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></li></ul></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_7_cup_tower_battle"></a>Chapter 7. Workshop 7: Cup Tower Battle</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-11-29</p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_tower_build_battle"></a>7.1. Tower Build Battle</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Architectural/Civil Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Strong building towers with cups:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=iGRLY08Kn2o">https://www.youtube.com/watch?v=iGRLY08Kn2o</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=iGRLY08Kn2o" target="_top">https://www.youtube.com/watch?v=iGRLY08Kn2o</a>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 STEM Activities for Kids - Structure Building
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=TycfVSTOI">https://www.youtube.com/watch?v=TycfVSTOI</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=TycfVSTOI" target="_top">https://www.youtube.com/watch?v=TycfVSTOI</a>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 How tall can skyscrapers get?
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=Cioj_KYMVP8">https://www.youtube.com/watch?v=Cioj_KYMVP8</a>
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=Cioj_KYMVP8" target="_top">https://www.youtube.com/watch?v=Cioj_KYMVP8</a>
+</li></ul></div></li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Large Plastic cups
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-Alternatively building blocks, cut up 2x4&#8217;s, paper/cardboard crafted blocks
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+Alternatively building blocks, cut up 2x4’s, paper/cardboard crafted blocks
+</li></ul></div></li><li class="listitem">
 Tape measure
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stopwatch
-</p>
-</li>
-<li>
-<p>
-Optional poster board for optional "earthquake" simulation activity.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
+Poster board for optional "earthquake" simulation activity.
+</li><li class="listitem"><p class="simpara">
 Materials for ball hurling contraptions
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Spoons
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Popsicle sticks
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Rubber bands
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 10-20 foam balls or wiffle balls
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Gymnasium or outdoors</p></div>
-<div class="paragraph"><div class="title">Preparation:</div><p>Arrange tables so each team is on opposite ends. Be wary of students blocking
-ballistic projectiles between the build areas.</p></div>
-<div class="paragraph"><div class="title">Demonstration:</div><p>Brainstorm some ideas on the whiteboard with the class for good ways to build
-tall stable structures.</p></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Split the students into 2 evenly distributed teams or teams of 4-6 each.
-Having more than 2 teams may also be possible.</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>"Build the best structure for a variety of challenges"</p></div>
-<div class="paragraph"><p>If you have enough materials, teams can build their architectural structures
+</li></ul></div></li></ul></div><p><strong>Location: </strong>Gymnasium or outdoors</p><p><strong>Preparation: </strong>Arrange tables so each team is on opposite ends. Be wary of students blocking
+ballistic projectiles between the build areas.</p><p><strong>Demonstration: </strong>Brainstorm some ideas on the whiteboard with the class for good ways to build
+tall stable structures.</p><p><strong>Teaming: </strong>Split the students into 2 evenly distributed teams or teams of 4-6 each.
+Having more than 2 teams may also be possible.</p><p><strong>Challenge: </strong>"Build the best structure for a variety of challenges"</p><p>If you have enough materials, teams can build their architectural structures
 simultaneously. Otherwise one team can build their structure while the other
 teams constructs a ball hurling device that will be used to try to knock it
-down.</p></div>
-<div class="paragraph"><p>Start with a 5 minute limit. See who can build the tallest structure.
+down.</p><p>Start with a 5 minute limit. See who can build the tallest structure.
 Measure with a measuring tape and have the students make a schematic in their
-notebook of their structure and its dimensions.</p></div>
-<div class="paragraph"><p>If everyone was able to build their own structures at the same time then each
-team can be tasked with building it&#8217;s own "wrecking ball" device to see who
+notebook of their structure and its dimensions.</p><p>If everyone was able to build their own structures at the same time then each
+team can be tasked with building it’s own "wrecking ball" device to see who
 can knock down their tower with the fewest shots. Otherwise teams can pit
 their building again other teams wrecking contraptions. Be sure to encourage
-keeping track of the the results in the students notebooks.</p></div>
-<div class="paragraph"><p>Impose some limit on wrecking contraptions like "cannot be thrown" or must
-be launched from table using a mechanism.</p></div>
-<div class="paragraph"><p>For maximum pandemonium allow teams to launch their wrecking balls at each
+keeping track of the the results in the students notebooks.</p><p>Impose some limit on wrecking contraptions like "cannot be thrown" or must
+be launched from table using a mechanism.</p><p>For maximum pandemonium allow teams to launch their wrecking balls at each
 other during the build to help get their tower building team in the lead.
 Alternatively take build breaks and allow each team to take 3 shots at
-the other teams towers.</p></div>
-<div class="paragraph"><div class="title">Further Challenges:</div><p>An optional additional activity is to have the teams build their towers on
+the other teams towers.</p><p><strong>Further Challenges: </strong>An optional additional activity is to have the teams build their towers on
 a poster board. Then time how quickly they can move the poster board across the
-table without their tower falling.</p></div>
-<div class="paragraph"><div class="title">Class Inquiry:</div><p>What lessons were learned about building strong structures and effective
-projectiles?</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_8_water_bottle_flip_optimization">Workshop 8: Water Bottle Flip Optimization</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-12-06</p></div>
-</div></div>
-<div class="sect2">
-<h3 id="_water_bottle_flip_optimization">Water Bottle Flip Optimization</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+table without their tower falling.</p><p><strong>Class Inquiry: </strong>What lessons were learned about building strong structures and effective
+projectiles?</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_8_water_bottle_flip_optimization"></a>Chapter 8. Workshop 8: Water Bottle Flip Optimization</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-12-06</p></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_water_bottle_flip_optimization"></a>8.1. Water Bottle Flip Optimization</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Dynamics
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Data Analysis
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 dy/dan BottleFlipping and the Lessons you throw back
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/">http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip">https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/" target="_top">http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/</a>
+</li><li class="listitem">
+<a class="ulink" href="https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip" target="_top">https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip</a>
+</li></ul></div></li><li class="listitem"><p class="simpara">
 Desmos water bottle flipping calculator
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-<a href="https://www.desmos.com/calculator/k54pcfbuy4">https://www.desmos.com/calculator/k54pcfbuy4</a>
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-<a href="https://en.wikipedia.org/wiki/Dynamics_(mechanics">https://en.wikipedia.org/wiki/Dynamics_(mechanics</a>)
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+<a class="ulink" href="https://www.desmos.com/calculator/k54pcfbuy4" target="_top">https://www.desmos.com/calculator/k54pcfbuy4</a>
+</li></ul></div></li><li class="listitem">
+<a class="ulink" href="https://en.wikipedia.org/wiki/Dynamics_(mechanics)" target="_top">https://en.wikipedia.org/wiki/Dynamics_(mechanics)</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 16-20 ounce water bottle per student
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Digital scale
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Measuring cups
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Water
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Where?</p></div>
-<div class="paragraph"><div class="title">Class Inquiry:</div><p>Ask the class for ideas for the meaning of "Dynamics".</p></div>
-<div class="quoteblock">
-<div class="content">
-<div class="paragraph"><p>Dynamics is a branch of applied mathematics (specifically classical mechanics)
-concerned with the study of forces and torques and their effect on motion.</p></div>
-</div>
-<div class="attribution">
-<em>Engineering</em><br />
-&#8212; Wikipedia
-</div></div>
-<div class="paragraph"><p>In other words, how something moves when acted on by forces.</p></div>
-<div class="paragraph"><div class="title">Demonstration:</div><p>Show the Desmos water bottle flipping calculator. Inquire of the class
+</li></ul></div><p><strong>Location: </strong>Where?</p><p><strong>Preparation: </strong>Distribute data sheets for every participant.</p><p><strong>Class Inquiry: </strong>Ask the class for ideas for the meaning of "Dynamics".</p><div class="blockquote"><table border="0" class="blockquote" style="width: 100%; cellspacing: 0; cellpadding: 0;" summary="Block quote"><tr><td width="10%" valign="top"> </td><td width="80%" valign="top"><p>Dynamics is a branch of applied mathematics (specifically classical mechanics)
+concerned with the study of forces and torques and their effect on motion.</p></td><td width="10%" valign="top"> </td></tr><tr><td width="10%" valign="top"> </td><td colspan="2" align="right" valign="top">--<span class="attribution">
+Wikipedia
+<em class="citetitle">Engineering</em>
+</span></td></tr></table></div><p>In other words, how something moves when acted on by forces.</p><p><strong>Demonstration: </strong>Show the Desmos water bottle flipping calculator. Inquire of the class
 what they think it is demonstrating. Play with the various controls to
 change the motion. Point out the paths trace by the top and bottom of the
-model. Ask if anyone knows what the path is called. Introduce the parabola.</p></div>
-<div class="paragraph"><p>Show the Act 1 video from dy/dan&#8217;s bottle flipping media. Ask the class to
-predict which of A,B,C,D trials will land standing.</p></div>
-<div class="paragraph"><p>Show the Act 2 video and pause on each trial. See if using the graph overlay
-and a parabolic path will help the predictions.</p></div>
-<div class="paragraph"><p>Show the Act 3 video for the results.</p></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Individual</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_9_bridge_building">Workshop 9: Bridge Building</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="title">Further Challenges:</div>
-<div class="paragraph"><p>2016-12-13</p></div>
-</div></div>
-<div class="paragraph"><p>Bridge Building Challenge</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_10_hacking_the_holidays">Workshop 10: Hacking the Holidays</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2016-12-20</p></div>
-<div class="paragraph"><p>Last meeting before Christmas/New Years break.
-Meeting on 12/27 will be cancelled.</p></div>
-</div></div>
-<div class="paragraph"><p>Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
-Snowman marshmallow cannons.</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_11_reverse_engineering">Workshop 11: Reverse Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-01-03</p></div>
-</div></div>
-<div class="paragraph"><p>Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_12_introduction_to_electrical_engineering">Workshop 12: Introduction to Electrical Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-01-10</p></div>
-</div></div>
-<div class="paragraph"><p>Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_13_electrical_engineering_projects">Workshop 13: Electrical Engineering Projects</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-01-17</p></div>
-</div></div>
-<div class="paragraph"><p>Make Makey, soldering, electrical engineering</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_14_software_engineering_i">Workshop 14: Software Engineering I</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-01-24</p></div>
-<div class="paragraph"><p>This first workshop doesn&#8217;t need a computer. Run challenges with Scratch
+model. Ask if anyone knows what the path is called. Introduce the parabola.</p><p>Show the Act 1 video from dy/dan’s bottle flipping media. Ask the class to
+predict which of A,B,C,D trials will land standing.</p><p>Show the Act 2 video and pause on each trial. See if using the graph overlay
+and a parabolic path will help the predictions.</p><p>Show the Act 3 video for the results.</p><p><strong>Teaming: </strong>Individual</p><p><strong>Challenge: </strong>Find the optimum amount of water for successful bottle flipping.</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_9_bridge_building"></a>Chapter 9. Workshop 9: Bridge Building</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong>Further Challenges:</strong></p></div></div></div><p>2016-12-13</p></div><p>Bridge Building Challenge</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_10_hacking_the_holidays"></a>Chapter 10. Workshop 10: Hacking the Holidays</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2016-12-20</p><p>Last meeting before Christmas/New Years break.
+Meeting on 12/27 will be cancelled.</p></div><p>Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
+Snowman marshmallow cannons.</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_11_reverse_engineering"></a>Chapter 11. Workshop 11: Reverse Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-01-03</p></div><p>Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_12_introduction_to_electrical_engineering"></a>Chapter 12. Workshop 12: Introduction to Electrical Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-01-10</p></div><p>Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_13_electrical_engineering_projects"></a>Chapter 13. Workshop 13: Electrical Engineering Projects</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-01-17</p></div><p>Make Makey, soldering, electrical engineering</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_14_software_engineering_i"></a>Chapter 14. Workshop 14: Software Engineering I</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-01-24</p><p>This first workshop doesn’t need a computer. Run challenges with Scratch
 programming using large foamboard cutouts of scratch command blocks, play
-Robot Turtle, get Marbles on Rails programming game put together.</p></div>
-<div class="paragraph"><p>For the next workshop prepare by having kids get Scratch accounts with their
-parents.  Next workshop will be in the computer lab.</p></div>
-</div></div>
-<div class="paragraph"><p>Software engineering, coding, scratch, python, lightbot, TurtleArt</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_15_software_engineering_ii">Workshop 15: Software Engineering II</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-01-31</p></div>
-<div class="paragraph"><p>LAST MEETUP FOR THE TERM</p></div>
-</div></div>
-<hr />
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_16_computer_aided_design">Workshop 16: Computer Aided Design</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-02-07</p></div>
-</div></div>
-<div class="paragraph"><p>CAD, OpenSCAD, OnShape, Inventor</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_17_3d_printing">Workshop 17: 3D Printing</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-02-14</p></div>
-<div class="paragraph"><p>Meeting on 2/21 will be cancelled. Meeting is before Valentines Day.</p></div>
-</div></div>
-<div class="paragraph"><p>3D Printing, Perler Beads, Foam Board layering, bring in printer,
-automation, plastics mfg.</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_18_biomedical_engineering">Workshop 18: Biomedical Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-02-28</p></div>
-</div></div>
-<div class="paragraph"><p>Biomedical engineering, 3D Printed hearts, Red blood siphon pump</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_19_biomedical_optics">Workshop 19: Biomedical Optics</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-03-07</p></div>
-</div></div>
-<div class="paragraph"><p>Biomedical engineering, Optical Engineering
-Monoculight Maker Faire Edition</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_20_optical_engineering">Workshop 20: Optical Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-03-14</p></div>
-</div></div>
-<div class="paragraph"><p>Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
-lenses</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_21_mult_disciplinary_engineering">Workshop 21: Mult-Disciplinary Engineering</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-03-21</p></div>
-</div></div>
-<div class="paragraph"><p>LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_22">Workshop 22</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-03-28</p></div>
-</div></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_23_crash_test_eggs_design_and_build">Workshop 23: Crash Test Eggs Design and Build</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-04-04</p></div>
-</div></div>
-<div class="paragraph"><p>Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
-force, egg survival, egg destruction</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_24_crash_test_eggs_tournament">Workshop 24: Crash Test Eggs Tournament</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-04-11</p></div>
-<div class="paragraph"><p>Meeting on 4/18 will be cancelled
-Pre-Easter</p></div>
-</div></div>
-<div class="paragraph"><p>Egg drop challenge
-Egg Olympics</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_25_rocketry_design_and_build">Workshop 25: Rocketry Design and Build</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-04-25</p></div>
-</div></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="https://www.apogeerockets.com/">https://www.apogeerockets.com/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS">https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS</a> $60
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46">https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46</a> $55
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW">https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW</a> $65
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02">https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02</a> $50
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78">https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78</a> $15
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6">https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6</a> $20
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><p>Rocketry, start build, Launch electronics</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_26_rocket_launch">Workshop 26: Rocket Launch</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-05-02</p></div>
-</div></div>
-<div class="paragraph"><div class="title">Rocket Launch</div><p>Zany contest categories: Longest air time, shortest air time,
+Robot Turtle, get Marbles on Rails programming game put together.</p><p>For the next workshop prepare by having kids get Scratch accounts with their
+parents.  Next workshop will be in the computer lab.</p></div><p>Software engineering, coding, scratch, python, lightbot, TurtleArt</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_15_software_engineering_ii"></a>Chapter 15. Workshop 15: Software Engineering II</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-01-31</p><p>LAST MEETUP FOR THE TERM</p></div><p></p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_16_computer_aided_design"></a>Chapter 16. Workshop 16: Computer Aided Design</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-02-07</p></div><p>CAD, OpenSCAD, OnShape, Inventor</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_17_3d_printing"></a>Chapter 17. Workshop 17: 3D Printing</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-02-14</p><p>Meeting on 2/21 will be cancelled. Meeting is before Valentines Day.</p></div><p>3D Printing, Perler Beads, Foam Board layering, bring in printer,
+automation, plastics mfg.</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_18_biomedical_engineering"></a>Chapter 18. Workshop 18: Biomedical Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-02-28</p></div><p>Biomedical engineering, 3D Printed hearts, Red blood siphon pump</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_19_biomedical_optics"></a>Chapter 19. Workshop 19: Biomedical Optics</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-03-07</p></div><p>Biomedical engineering, Optical Engineering
+Monoculight Maker Faire Edition</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_20_optical_engineering"></a>Chapter 20. Workshop 20: Optical Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-03-14</p></div><p>Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
+lenses</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_21_mult_disciplinary_engineering"></a>Chapter 21. Workshop 21: Mult-Disciplinary Engineering</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-03-21</p></div><p>LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_22"></a>Chapter 22. Workshop 22</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-03-28</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_23_crash_test_eggs_design_and_build"></a>Chapter 23. Workshop 23: Crash Test Eggs Design and Build</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-04-04</p></div><p>Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
+force, egg survival, egg destruction</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_24_crash_test_eggs_tournament"></a>Chapter 24. Workshop 24: Crash Test Eggs Tournament</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-04-11</p><p>Meeting on 4/18 will be cancelled
+Pre-Easter</p></div><p>Egg drop challenge
+Egg Olympics</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_25_rocketry_design_and_build"></a>Chapter 25. Workshop 25: Rocketry Design and Build</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-04-25</p></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="https://www.apogeerockets.com/" target="_top">https://www.apogeerockets.com/</a>
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS" target="_top">https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS</a> $60
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46" target="_top">https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46</a> $55
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW" target="_top">https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW</a> $65
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02" target="_top">https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02</a> $50
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78" target="_top">https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78</a> $15
+</li><li class="listitem">
+<a class="ulink" href="https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6" target="_top">https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6</a> $20
+</li></ul></div><p>Rocketry, start build, Launch electronics</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_26_rocket_launch"></a>Chapter 26. Workshop 26: Rocket Launch</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-05-02</p></div><p><strong>Rocket Launch. </strong>Zany contest categories: Longest air time, shortest air time,
 best crash, catch a recovery out of the air, loudest countdown,
-best decorated rocket, craziest flight pattern</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_27_raspberry_pi_computer">Workshop 27: Raspberry Pi Computer</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-05-09</p></div>
-</div></div>
-<div class="paragraph"><p>Raspberry Pi</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_28_battling_robots_design_and_build">Workshop 28: Battling Robots Design and Build</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-05-16</p></div>
-</div></div>
-<div class="paragraph"><p>Battling Robots build</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_29_battling_robots_tournament">Workshop 29: Battling Robots Tournament</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-05-23</p></div>
-</div></div>
-<div class="paragraph"><p>Battling Robots battle</p></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_30">Workshop 30</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-05-30</p></div>
-</div></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_workshop_31_engineering_showdown_games">Workshop 31: Engineering Showdown Games</h2>
-<div class="sectionbody">
-<div class="sidebarblock">
-<div class="content">
-<div class="paragraph"><p>2017-06-06</p></div>
-<div class="paragraph"><p>Last Day.</p></div>
-</div></div>
-<div class="paragraph"><p>Engineering Showdown Games. Paper airplane challenge, egg toss etc.
+best decorated rocket, craziest flight pattern</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_27_raspberry_pi_computer"></a>Chapter 27. Workshop 27: Raspberry Pi Computer</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-05-09</p></div><p>Raspberry Pi</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_28_battling_robots_design_and_build"></a>Chapter 28. Workshop 28: Battling Robots Design and Build</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-05-16</p></div><p>Battling Robots build</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_29_battling_robots_tournament"></a>Chapter 29. Workshop 29: Battling Robots Tournament</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-05-23</p></div><p>Battling Robots battle</p></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_30"></a>Chapter 30. Workshop 30</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-05-30</p></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_workshop_31_engineering_showdown_games"></a>Chapter 31. Workshop 31: Engineering Showdown Games</h2></div></div></div><div class="sidebar"><div class="titlepage"><div><div><p class="title"><strong></strong></p></div></div></div><p>2017-06-06</p><p>Last Day.</p></div><p>Engineering Showdown Games. Paper airplane challenge, egg toss etc.
 Challenges announced 15 minutes before each event. Each team then
-designs and constructs their entry before for competition.</p></div>
-</div>
-</div>
-<h1 id="_supplemental_workshops">Supplemental Workshops</h1>
-<div class="sect1">
-<h2 id="_supplemental_1_straw_rockets">Supplemental 1: Straw Rockets</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_straw_rocket">Straw Rocket</h3>
-<div class="paragraph" id="straw_rocket"><p>This demonstration can just as well be repurposed as a full class
-activity.</p></div>
-<div class="paragraph"><div class="title">Attribution</div><p>This rocket design is inspired by "Stefan" type Nerf darts:
-<a href="http://nerf.wikia.com/wiki/Stefan">http://nerf.wikia.com/wiki/Stefan</a></p></div>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+designs and constructs their entry before for competition.</p></div></div><div class="part"><div class="titlepage"><div><div><h1 class="title"><a id="_supplemental_workshops"></a>Part II. Supplemental Workshops</h1></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_supplemental_1_straw_rockets"></a>Chapter 32. Supplemental 1: Straw Rockets</h2></div></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_straw_rocket"></a>32.1. Straw Rocket</h2></div></div></div><p><a id="straw_rocket"></a>This demonstration can just as well be repurposed as a full class
+activity.</p><p><strong>Attribution. </strong>This rocket design is inspired by "Stefan" type Nerf darts:
+<a class="ulink" href="http://nerf.wikia.com/wiki/Stefan" target="_top">http://nerf.wikia.com/wiki/Stefan</a></p><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Aerospace Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/">http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.pleasantestthing.com/make-straw-rockets">http://www.pleasantestthing.com/make-straw-rockets</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./">http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./</a>
-</p>
-</li>
-<li>
-<p>
-<a href="https://www.youtube.com/watch?v=_kJodRNFphE">https://www.youtube.com/watch?v=_kJodRNFphE</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/" target="_top">http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.pleasantestthing.com/make-straw-rockets" target="_top">http://www.pleasantestthing.com/make-straw-rockets</a>
+</li><li class="listitem">
+<a class="ulink" href="http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./" target="_top">http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./</a>
+</li><li class="listitem">
+<a class="ulink" href="https://www.youtube.com/watch?v=_kJodRNFphE" target="_top">https://www.youtube.com/watch?v=_kJodRNFphE</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Whiteboard
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Straw
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 5/8" Foam Backer Rod
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Business cards or thick index cards
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 3D Printed parts from: www.thingiverse.com/thing:1782060
-</p>
-</li>
-<li>
-<p>
-Optional: squishy bottle (a bottle that will survive stomping on and return to it&#8217;s original shape)
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Large room or auditorium where all students have a good view.</p></div>
-<div class="ulist"><div class="title">Preparation:</div><ul>
-<li>
-<p>
-3D Print the <code>Forming-Rod</code> in a rigid material such as PLA
-</p>
-</li>
-<li>
-<p>
-The <code>Straw-Holder</code> and <code>bottle-tube-coupler</code> are optional.
+</li><li class="listitem">
+Optional: squishy bottle (a bottle that will survive stomping on and return to it’s original shape)
+</li></ul></div><p><strong>Location: </strong>Large room or auditorium where all students have a good view.</p><div class="itemizedlist"><p class="title"><strong>Preparation:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+3D Print the <code class="literal">Forming-Rod</code> in a rigid material such as PLA
+</li><li class="listitem">
+The <code class="literal">Straw-Holder</code> and <code class="literal">bottle-tube-coupler</code> are optional.
   Print these parts if you want to connect the straw to a squeeze bottle for launching.
-</p>
-</li>
-<li>
-<p>
-Print <code>Fin-Holder</code> and <code>nosecone-plug</code> in your material of choice.
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-Test the fit of a card in the slots of the <code>Fin-Holder</code>.
+</li><li class="listitem"><p class="simpara">
+Print <code class="literal">Fin-Holder</code> and <code class="literal">nosecone-plug</code> in your material of choice.
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+Test the fit of a card in the slots of the <code class="literal">Fin-Holder</code>.
    Use a blade to clean out the slots for a good fit if necessary.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-Preferably print <code>nose-ogive</code> in a flex material for safety.
-</p>
-</li>
-<li>
-<p>
-Push the <code>nose-ogive</code> part onto the slotted side of the <code>nosecone-plug</code>.
+</li></ul></div></li><li class="listitem">
+Preferably print <code class="literal">nose-ogive</code> in a flex material for safety.
+</li><li class="listitem">
+Push the <code class="literal">nose-ogive</code> part onto the slotted side of the <code class="literal">nosecone-plug</code>.
   The friction fit should be sufficient or you may use glue if needed.
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>"Design, Build and Launch a Rocket"</p></div>
-<div class="ulist"><div class="title">Demonstration</div><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Challenge: </strong>"Design, Build and Launch a Rocket"</p><div class="itemizedlist"><p class="title"><strong>Demonstration</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Inquire of the group what are the parts of a rocket.
   Draw the parts on the whiteboard as they give them to you.
   Keep going until you get the key components:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Body tube
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Fins
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Nosecone
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Engine
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
 For the body tube, cut a 3" (75mm) length of 5/8" foam backer rod.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Use the 3D printed "Forming-Rod" to core a hole through the foam.
   Coring half way through from each side works well.
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Alternatively a straw that has been cut with serrations may be used, but the 3D printed rigid tool is much more effective.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
 Ask for ideas for how to make the nosecone.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Introduce the 3D printed nosecone assembly and attach that to one end of the foam body tube.
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Alternatives to the 3D printed nosecone might include a shaped piece of clay, candy corn or card stock formed into a cone.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
 Announce that you plan to make the fins out of some business/index cards.
   Ask how you might cut 3 exactly identical fins.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stack three cards together and cut a fin shape of choice about 1" (25mm) in length.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ask how to attach the fins to the body tube.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Slide the fin-holder onto the rocket body and attach the fins.
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
-If you don&#8217;t have the 3D fin-holder it should be possible to glue or tape the fins on.
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
+If you don’t have the 3D fin-holder it should be possible to glue or tape the fins on.
    You may try scoring three a shallow slits in the foam body or folding the root edge of the fins to help attach them.
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
+</li></ul></div></li><li class="listitem">
 Inquire for ideas about what to use for an engine.
-</p>
-</li>
-<li>
-<p>
-Bring out the straw and say that we&#8217;ll use the straw as the engine.
+</li><li class="listitem">
+Bring out the straw and say that we’ll use the straw as the engine.
   Slide the rocket on to the long end.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Have the class do a countdown and on "blastoff" put the straw in your ear.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Everyone should offer the suggestion that you need to blow into the straw.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Do another countdown and blow into the straw like your saying "Ha" without closing your mouth around it.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 OK, this time for real, countdown an launch the rocket.
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Optional</div><p>If you&#8217;ve got a squishy bottle you can make a more powerful launcher.
-You&#8217;ll just need a proper sized coupling to connect the bottle to the straw.
-The default bottle tube coupler included with on the thingiverse page will fit a 16mm diameter bottle opening.</p></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Note</div>
-</td>
-<td class="content">TODO: create a customizer for this to fit any bottle size.</td>
-</tr></table>
-</div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Optional. </strong>If you’ve got a squishy bottle you can make a more powerful launcher.
+You’ll just need a proper sized coupling to connect the bottle to the straw.
+The default bottle tube coupler included with on the thingiverse page will fit a 16mm diameter bottle opening.</p><div class="note" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Note"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Note]" src="images/icons/note.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>TODO: create a customizer for this to fit any bottle size.</p></td></tr></table></div><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Slide the Straw-Holder onto the straw to secure it at a 90° angle.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Connect the bottle and the straw together using the coupler.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Get a volunteer to stomp on the bottle and launch the rocket after the
   class does the countdown.
-</p>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_supplemental_2_siphon">Supplemental 2: Siphon</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_siphon">Siphon</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_supplemental_2_siphon"></a>Chapter 33. Supplemental 2: Siphon</h2></div></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_siphon"></a>33.1. Siphon</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Naval Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Large tub or large watertight storage bin
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 20ft of clear 1" diameter tubing
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Several large balloons
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Food coloring
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Step ladder
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Outside on a warm day near a water hose feed or
-in a lab/kitchen area with a large sink.</p></div>
-<div class="paragraph"><div class="title">Demonstration</div><p>Illustrate the workings of the siphon.</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><p><strong>Location: </strong>Outside on a warm day near a water hose feed or
+in a lab/kitchen area with a large sink.</p><p><strong>Demonstration. </strong>Illustrate the workings of the siphon.</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Place the tub up on the step ladder and fill it with water.
-</p>
-</li>
-</ul></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Warning</div>
-</td>
-<td class="content">STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
-    HIGH IS A FALLING HAZARD.</td>
-</tr></table>
-</div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><div class="warning" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Warning"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Warning]" src="images/icons/warning.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
+    HIGH IS A FALLING HAZARD.</p></td></tr></table></div><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Fill the hose with water, block it with your thumb and take one end out to
   demonstrate siphoning.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Go to aim the end of the hose at the students but bring it up above the level
   of the tub as you do so and the water will stop flowing.
-</p>
-</li>
-<li>
-<p>
-Bring the hose down to look into the end "Huh I wonder why it&#8217;s not working"
+</li><li class="listitem">
+Bring the hose down to look into the end "Huh I wonder why it’s not working"
   to get sprayed in the face for raucous laughter.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Partially block the tube output with your thumb to spray the water.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ask the class if they think you can spray the water back up into the tub
   and show what happens.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ask what will happen if an empty balloon is put at the end of the siphon.
   A balloon full of air? Hold the tube above the level of the tub to stop
   the flow of water and put a drop of food coloring in. Then try the different
   tests with the balloon.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Fill the tube with water, add food coloring and plug it with your thumb.
   Bring it down below the level of the tub. Remove the end in the tub and allow
   some water to bleed out with your thumb so there is a large air gap on the
   tub side. Put the tube on the tub side back in the water. Ask the class
   what they think will happen when you remove your thumb and show them. Try
   it with different sized air gaps.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Challenge the students for a way to get the siphon going without submerging
   the tube. If the water and the tube are clean enough, demonstrate sucking
   out the air in the tube to get the siphon started.
-</p>
-</li>
-</ul></div>
-<div class="admonitionblock">
-<table><tr>
-<td class="icon">
-<div class="title">Important</div>
-</td>
-<td class="content">WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
-    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</td>
-</tr></table>
-</div>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div><div class="important" style="margin-left: 0; margin-right: 10%;"><table border="0" summary="Important"><tr><td rowspan="2" align="center" valign="top" width="25"><img alt="[Important]" src="images/icons/important.png" /></td><th align="left"></th></tr><tr><td align="left" valign="top"><p>WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
+    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</p></td></tr></table></div><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Alternatively if there is a hose available to backfill the tube (or make
   a water balloon that can be used to back fill the tube) this also will get
   the siphon going.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 When demonstration is complete, drain the tub to a safe weight and take it
   down from the ladder.
-</p>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_supplemental_3_ramp_racers">Supplemental 3: Ramp Racers</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_ramp_racers">Ramp Racers</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_supplemental_3_ramp_racers"></a>Chapter 34. Supplemental 3: Ramp Racers</h2></div></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_ramp_racers"></a>34.1. Ramp Racers</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Mechanical Engineering
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Automotive Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://www.thingiverse.com/thing:1219729">http://www.thingiverse.com/thing:1219729</a>
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www.thingiverse.com/thing:1219729" target="_top">http://www.thingiverse.com/thing:1219729</a>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Ramp. A large board or table that can be tipped at an angle. You may even
   task the students to come up with a suitable ramp.
-</p>
-</li>
-<li>
-<p>
-Building materials on hand like gears, wheels, Legos, K&#8217;Nex. Let the kids
+</li><li class="listitem">
+Building materials on hand like gears, wheels, Legos, K’Nex. Let the kids
   find what they may.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stopwatch
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Ball
-</p>
-</li>
-<li>
-<p>
-Slingmobiles: <a href="http://www.thingiverse.com/thing:1219729">http://www.thingiverse.com/thing:1219729</a>
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
+Slingmobiles: <a class="ulink" href="http://www.thingiverse.com/thing:1219729" target="_top">http://www.thingiverse.com/thing:1219729</a>
+</li><li class="listitem">
 Board or otherwise improvised road block
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Classroom/lab with materials on hand for improvised construction</p></div>
-<div class="paragraph"><div class="title">Preparation:</div><p>Write the challenge statement up on the whiteboard. Don&#8217;t call the "racer" a
-"car" and don&#8217;t call attention to the fact that it doesn&#8217;t have to be a car.
-Many students may start out building cars.</p></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Students may form teams or work individually</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>"Build a racer that is the fastest down the ramp."</p></div>
-<div class="paragraph"><p>As students complete their builds use the stopwatch to time their racer down
+</li></ul></div><p><strong>Location: </strong>Classroom/lab with materials on hand for improvised construction</p><p><strong>Preparation: </strong>Write the challenge statement up on the whiteboard. Don’t call the "racer" a
+"car" and don’t call attention to the fact that it doesn’t have to be a car.
+Many students may start out building cars.</p><p><strong>Teaming: </strong>Students may form teams or work individually</p><p><strong>Challenge: </strong>"Build a racer that is the fastest down the ramp."</p><p>As students complete their builds use the stopwatch to time their racer down
 the ramp. They should record each time in their engineering notebook. They are
 free to modify their racer and try again. Changes and new trial times are good
-details to keep records of in their notebook. Keep a leader board of times.</p></div>
-<div class="paragraph"><p>Ask them to review their notes to identify the changes that made the
-best improvement to their times.</p></div>
-<div class="ulist"><div class="title">Class Inquiry:</div><ul>
-<li>
-<p>
+details to keep records of in their notebook. Keep a leader board of times.</p><p>Ask them to review their notes to identify the changes that made the
+best improvement to their times.</p><div class="itemizedlist"><p class="title"><strong>Class Inquiry:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p class="simpara">
 Why does the racer go down the ramp?
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 What is gravity?
-</p>
-</li>
-</ul></div>
-</li>
-<li>
-<p>
-Put a car sideways on the ramp. Why doesn&#8217;t it go down the ramp?
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</li></ul></div></li><li class="listitem"><p class="simpara">
+Put a car sideways on the ramp. Why doesn’t it go down the ramp?
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 What is friction? Where is the friction? (High friction where the wheel
     meets the ramp, low friction on the wheel axles).
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Can anyone come up with a racer that will slide (instead of roll) down the
     ramp?
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 How will larger or smaller diameter wheels affect the racer?
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Further Challenges:</div><ul>
-<li>
-<p>
+</li></ul></div></li></ul></div><div class="itemizedlist"><p class="title"><strong>Further Challenges:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Facilitator enter your own racer for a time trial. Start with just a ball.
   When the students object, point at the challenge on the whiteboard indicating
-  that a "racer" doesn&#8217;t need to be a car.
-</p>
-</li>
-<li>
-<p>
+  that a "racer" doesn’t need to be a car.
+</li><li class="listitem">
 Allow the kids to make a new round of "racers" and have them keep track of
   their new designs and times.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Race your ball again this time giving it a strong rolling push at the
   starting line. Also not expressly against any rules.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 The kids will probably get carried away in the next round zooming their
   racers down the ramp.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Add the constraint that the racers may no longer be pushed down the ramp.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Bring out the Slingmobiles with their rubber band catapult and see how they
   do in the time trials.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Invite the kids to build their own launching systems.
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Add a board or otherwise complete roadblock halfway down the middle of the
   ramp. See how the kids design around surmounting that challenge.
-</p>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_supplemental_32_paddle_power">Supplemental 32: Paddle Power</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_paddle_power">Paddle Power</h3>
-<div class="ulist"><div class="title">Disciplines:</div><ul>
-<li>
-<p>
+</li></ul></div></div></div><div class="chapter"><div class="titlepage"><div><div><h2 class="title"><a id="_supplemental_32_paddle_power"></a>Chapter 35. Supplemental 32: Paddle Power</h2></div></div></div><div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a id="_paddle_power"></a>35.1. Paddle Power</h2></div></div></div><div class="itemizedlist"><p class="title"><strong>Disciplines:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Naval Engineering
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Mechanical Engineering
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Resources:</div><ul>
-<li>
-<p>
-<a href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
-</p>
-</li>
-<li>
-<p>
-<a href="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</a>
-</p>
-</li>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Resources:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+<a class="ulink" href="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf" target="_top">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</a>
+</li><li class="listitem">
+<a class="ulink" href="http://pbskids.org/designsquad/build/paddle-power/" target="_top">http://pbskids.org/designsquad/build/paddle-power/</a>
+</li><li class="listitem">
 Design Squad Season 2, Episode 8: Aquatic Robots
-</p>
-</li>
-</ul></div>
-<div class="ulist"><div class="title">Materials:</div><ul>
-<li>
-<p>
+</li></ul></div><div class="itemizedlist"><p class="title"><strong>Materials:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Large tub or large watertight storage bin
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Stopwatch
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Internet Media Access
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem"><p class="simpara">
 Per team:
-</p>
-<div class="ulist"><ul>
-<li>
-<p>
+</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: circle; "><li class="listitem">
 Chipboard cardboard (such as a cereal box)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Plastic tape
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 2 paper cups (≥8oz)
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Plastic wrap
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 5 rubber bands
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Scissors
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Straws
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Washers
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 Dowels
-</p>
-</li>
-</ul></div>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Location:</div><p>Inside or outside on a warm day</p></div>
-<div class="paragraph"><div class="title">Preparation:</div><p>Fill the tub with water.</p></div>
-<div class="paragraph"><div class="title">Demonstration:</div><p>Watch the Design Squad video when done.
-<a href="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</a></p></div>
-<div class="paragraph"><p>Loop a 1x2" piece of cardboard through a rubber band hold taught between
-your fingers. Illustrate winding it up and letting it go to show how it spins.</p></div>
-<div class="paragraph"><p>Introduce potential (wound up rubber band) and kinetic energy (unwinding
-rubber band and spinning paddle).</p></div>
-<div class="ulist"><div class="title">Class Inquiry:</div><ul>
-<li>
-<p>
+</li></ul></div></li></ul></div><p><strong>Location: </strong>Inside or outside on a warm day</p><p><strong>Preparation: </strong>Fill the tub with water.</p><p><strong>Demonstration: </strong>Watch the Design Squad video when done.
+<a class="ulink" href="http://pbskids.org/designsquad/build/paddle-power/" target="_top">http://pbskids.org/designsquad/build/paddle-power/</a></p><p>Loop a 1x2" piece of cardboard through a rubber band hold taught between
+your fingers. Illustrate winding it up and letting it go to show how it spins.</p><p>Introduce potential (wound up rubber band) and kinetic energy (unwinding
+rubber band and spinning paddle).</p><div class="itemizedlist"><p class="title"><strong>Class Inquiry:</strong></p><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
 Where is the energy stored?
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 How can the potential energy be increased?
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 How can you tell when potential energy is being used?
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 What are the different kinds of kinetic energy that occurs as the boat moves
   through the water?
-</p>
-</li>
-<li>
-<p>
+</li><li class="listitem">
 What other examples of potential and kinetic energy can you think of?
-</p>
-</li>
-</ul></div>
-<div class="paragraph"><div class="title">Teaming:</div><p>Teams of 2-3. Partnering younger with older students.</p></div>
-<div class="paragraph"><div class="title">Challenge:</div><p>Build a boat that paddles itself using a rubber band as its power source.</p></div>
-<div class="paragraph"><p>Time how long it takes for the boat to travel across the tub. Have students
-keep records in their engineeering notebooks.</p></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_license">License</h2>
-<div class="sectionbody">
-<div class="paragraph"><p><span class="image">
-<img src="cc-by-sa.png" alt="CC-BY-SA" height="16" />
-</span></p></div>
-<div class="paragraph"><p>Young Engineers Club Curriculum by
-<a href="mailto:art.davis@gmail.com">Arthur Davis</a> is licensed under a
-<a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-Attribution-ShareAlike 4.0 International License</a>.</p></div>
-<div class="paragraph"><p>Original work is available at <a href="https://github.com/artdavis/youngengineers">https://github.com/artdavis/youngengineers</a>.</p></div>
-</div>
-</div>
-</div>
-<div id="footnotes"><hr /></div>
-<div id="footer">
-<div id="footer-text">
-Version 0.2<br />
-Last updated 2016-12-03 11:38:34 EST
-</div>
-</div>
-</body>
-</html>
+</li></ul></div><p><strong>Teaming: </strong>Teams of 2-3. Partnering younger with older students.</p><p><strong>Challenge: </strong>Build a boat that paddles itself using a rubber band as its power source.</p><p>Time how long it takes for the boat to travel across the tub. Have students
+keep records in their engineeering notebooks.</p></div></div></div><div class="colophon"><h1 class="title"><a id="_license"></a>License</h1><p><span class="inlinemediaobject"><img src="cc-by-sa.png" height="16" alt="CC-BY-SA" /></span></p><p>Young Engineers Club Curriculum by
+<a class="ulink" href="mailto:art.davis@gmail.com" target="_top">Arthur Davis</a> is licensed under a
+<a class="ulink" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_top">Creative Commons
+Attribution-ShareAlike 4.0 International License</a>.</p><p>Original work is available at <a class="ulink" href="https://github.com/artdavis/youngengineers" target="_top">https://github.com/artdavis/youngengineers</a>.</p></div></div></body></html>

@@ -42,7 +42,7 @@ Large field outside.
 .Preparation:
 * Build PVC pipe trebuchet
 
-image::images/Trebuchet-Assem2.png["Trebuchet Build",width=640]
+image::images/Trebuchet-Assem2.png["Trebuchet Build",width=400]
 
 Some experimentation will be necessary to build the throwing arm and might
 be incorporated into a workshop. I made a throwing arm out of plywood with

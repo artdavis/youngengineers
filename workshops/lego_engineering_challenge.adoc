@@ -65,7 +65,7 @@ Activities helper students may do:
 ** Have the students iterate to try to improve their height
 ** Have a review discussion on successful strategies
 
-image::workshops/lego_droptest/lego_droptest_table.png["Team Cards",width=640]
+image::workshops/lego_droptest/lego_droptest_table.png["Team Cards",width=400]
 
 * Collaborative Monsters
 ** http://www.educatingyoungengineers.com/musical-monsters

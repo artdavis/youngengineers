@@ -6,7 +6,7 @@
 You may come up with various ways to break the students into teams.
 For a class size of 16, print the team_cards document:
 
-image::workshops/lego_gameshow/team_cards_1.png["Team Cards",width=640]
+image::workshops/lego_gameshow/team_cards_1.png["Team Cards",width=400]
 
 Cut out the cards and distribute one to each student. These will allow you to
 make 4 teams of 4 unique team members for up to 5 rounds. For example, starting

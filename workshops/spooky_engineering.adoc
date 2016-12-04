@@ -55,6 +55,7 @@ Perform some spooky Mad Scientist Experiments.
 "Make Oobleck: a Non Newtonian Fluid"
 
 Standard lava lamp:
+
 * Fill the bottle or jar a quarter full with water and fill the rest with vegetable oil.
 * After the separation between the oil and water settles add several drops of food coloring.
 * Add half an alka seltzer for a bubbling reaction.
@@ -62,6 +63,7 @@ Standard lava lamp:
 
 Let the kids design their own lava lamp using dish soap, water, vegetable oil and food coloring.
 Things to experiment with include:
+
 * Order in which liquids are added
 * Size of alka-seltzer tablets
 * When to add food coloring
