@@ -47,9 +47,10 @@ include::workshops/ballistic_pumpkins.adoc[]
 2016-11-08
 
 Resources:
-http://www.bricklink.com/
-https://shop.lego.com/en-US/Pick-a-Brick
-https://education.lego.com/en-us/
+
+* http://www.bricklink.com/
+* https://shop.lego.com/en-US/Pick-a-Brick
+* https://education.lego.com/en-us/
 
 //Ask kids to bring in their own LEGO minifigure
 ****
