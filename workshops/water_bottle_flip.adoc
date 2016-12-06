@@ -58,6 +58,15 @@ Individual
 .Challenge:
 Find the optimum amount of water for successful bottle flipping.
 
+With each trial, suggest that students empty their bottle and refill
+it with the volume of water under test. Otherwise, incrementally
+adding/subtracting water will introduce errors to the recorded amount
+of water. Alternatively, water may be incrementally added/subtracted if
+the digital scale will be used to measure the weight before each trial.
+
+Fluid ounces is volume and ounces is weight, but for water, the two
+quantities are equal.
+
 .Class Inquiry:
 Enter the student recorded data into the flip_results spreadsheet and
 import it into the Jupyter notebook for analysis.
