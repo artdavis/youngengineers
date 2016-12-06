@@ -41,13 +41,13 @@ In other words, how something moves when acted on by forces.
 Show the Desmos water bottle flipping calculator. Inquire of the class
 what they think it is demonstrating. Play with the various controls to
 change the motion. Point out the paths trace by the top and bottom of the
-model. Ask if anyone knows what the path is called. Introduce the parabola.
+model.
 
 Show the Act 1 video from dy/dan's bottle flipping media. Ask the class to
 predict which of A,B,C,D trials will land standing.
 
 Show the Act 2 video and pause on each trial. See if using the graph overlay
-and a parabolic path will help the predictions.
+will help the predictions.
 
 Show the Act 3 video for the results.
 
@@ -62,9 +62,8 @@ Find the optimum amount of water for successful bottle flipping.
 Enter the student recorded data into the flip_results spreadsheet and
 import it into the Jupyter notebook for analysis.
 
-Explain a histogram.
-Show how the results indicate which quantity of water resulted in the highest frequency
-of good flip percentages.
+Explain a histogram.  Show how the results indicate which quantity of water
+resulted in the highest frequency of good flip percentages.
 
 Also show histograms for raw number of good flips and total flips.
 Are the results any different?
