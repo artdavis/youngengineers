@@ -5,5 +5,5 @@
 #
 
 a2x -f xhtml --icons --dblatex-opts "-P latex.output.revhistory=0" $1
-wkhtmltopdf ${1%adoc}html ${1%adoc}pdf
+wkhtmltopdf --page-size Letter ${1%adoc}html ${1%adoc}pdf
 

@@ -58,10 +58,28 @@ Individual
 .Challenge:
 Find the optimum amount of water for successful bottle flipping.
 
-
-
 .Class Inquiry:
+Enter the student recorded data into the flip_results spreadsheet and
+import it into the Jupyter notebook for analysis.
+
+Explain a histogram.
+Show how the results indicate which quantity of water resulted in the highest frequency
+of good flip percentages.
+
+Also show histograms for raw number of good flips and total flips.
+Are the results any different?
+
+Move on to binning by student name.
+Show results for percentages, good flips and total flips.
+
+Give an example where someone had 10 good flips in a row with no bad flips
+and someone else had 10 good flips and 10 bad flips. They both have the
+same number of good flips, but which was better? 100% vs. 50%.
 
 .Further Challenges:
+After finding the optimum amount of water, have everyone fill there bottle
+with their ideal amount. Line everyone up and see if you can get the whole
+class to successively (or simultaneously) flip their bottles and land
+upright.
 
 // vim: set syntax=asciidoc:
