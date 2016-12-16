@@ -77,11 +77,11 @@ include::workshops/tower_build_battle.adoc[]
 ****
 include::workshops/water_bottle_flip.adoc[]
 
-== Workshop {counter:workshop}: Bridge Building
+== Workshop {counter:workshop}: Craft Stick Catapault
 ****
 2016-12-13
 ****
-Bridge Building Challenge
+include::workshops/craft_stick_catapault.adoc[]
 
 == Workshop {counter:workshop}: Hacking the Holidays
 ****
