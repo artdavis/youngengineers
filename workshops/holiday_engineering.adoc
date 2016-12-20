@@ -13,6 +13,8 @@
 ** http://thehomeschoolscientist.com/gumdrop-structures-engineering-challenge/
 *** https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323
 ** http://littlebinsforlittlehands.com/gumdrop-bridge-building-engineering-activity-stem/
+* Vi Hart "The Gauss Christmath Special"
+** https://www.youtube.com/watch?v=sxnX5_LbBDU
 
 .Materials:
 * Gumdrops
@@ -54,5 +56,10 @@ completed their task, start distributing the materials individually
 for the snowman cannons and the candy cane slime.  Students can continue to
 work on the gumdrop project until you get around to them to supervise using the
 blade to cut the bottom off their styrofoam cups.
+
+The gumdrop challenge recommends using books to test the structural integrity
+of the builds; alternatively use heavy washers placed into a dish sitting
+on the house to see how many washers a particular design can hold. Also, for
+some mess, use the holiday slime in a dish as the weight.
 
 // vim: set syntax=asciidoc:
