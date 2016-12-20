@@ -83,7 +83,7 @@ include::workshops/water_bottle_flip.adoc[]
 ****
 include::workshops/craft_stick_catapault.adoc[]
 
-== Workshop {counter:workshop}: Hacking the Holidays
+== Workshop {counter:workshop}: Holiday Engineering
 ****
 2016-12-20
 
@@ -91,8 +91,7 @@ Last meeting before Christmas/New Years break.
 Meeting on 12/27 will be cancelled.
 
 ****
-Light up ornaments, noise makers, acoustic engineering. Tone beat frequencies.
-Snowman marshmallow cannons.
+include::workshops/holiday_engineering.adoc[]
 
 == Workshop {counter:workshop}: Reverse Engineering
 ****

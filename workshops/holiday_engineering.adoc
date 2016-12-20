@@ -1,0 +1,58 @@
+=== Holiday Engineering
+.Disciplines:
+* Mechanical, chemical, architectural
+
+.Setup:
+
+.Resources:
+* Snowman Marshmallow Shooters
+** https://www.youtube.com/watch?v=y1HW2-W0zfI
+* Candy Cane Slime
+** http://littlebinsforlittlehands.com/candy-cane-slime-recipe/
+* Gumdrop structures
+** http://thehomeschoolscientist.com/gumdrop-structures-engineering-challenge/
+*** https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323
+** http://littlebinsforlittlehands.com/gumdrop-bridge-building-engineering-activity-stem/
+
+.Materials:
+* Gumdrops
+* Marshmallows
+* Toothpicks
+* Balloons
+* Styrofoam cups
+* Cutting blade
+* Liquid starch
+* Elmer's glue (white/clear)
+* Mixing containers
+* Food coloring
+
+
+.Location:
+Cafeteria/Lab
+
+.Preparation:
+Print and ditribute page 3 from: https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323
+
+If not using commercial liquid starch, prepare enough ahead of time:
+http://www.carlemuseum.org/blogs/making-art/homemade-liquid-starch-glue
+
+
+.Class Inquiry:
+Write topics on the board
+* Gumdrop House
+* Snowman Marshmallow Cannon
+* Candy Cane Slime
+
+Describe each activity and solicite suggestions for relevant engineering disciplines.
+
+.Teaming:
+Teams of 2-3.
+
+.Challenge:
+Have everyone start on the gumdrop house building first.  After students have
+completed their task, start distributing the materials individually
+for the snowman cannons and the candy cane slime.  Students can continue to
+work on the gumdrop project until you get around to them to supervise using the
+blade to cut the bottom off their styrofoam cups.
+
+// vim: set syntax=asciidoc:
