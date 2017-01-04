@@ -97,7 +97,7 @@ include::workshops/holiday_engineering.adoc[]
 ****
 2017-01-03
 ****
-Reverse Engineering. Bring in broken gadgets from home/COG to disassemble.
+include::workshops/reverse_engineering.adoc[]
 
 == Workshop {counter:workshop}: Introduction to Electrical Engineering
 ****

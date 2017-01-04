@@ -1,0 +1,54 @@
+=== Reverse Engineering
+.Disciplines:
+* Multidisciplinary
+
+.Setup:
+Have students bring in broken technology/gadgets from home and toolkits if
+they have them. Make sure the gadgets they bring in are disposable and their
+pieces may be thrown in the garbage after the workshop is complete.
+
+.Materials:
+* Lots of Tools. Screwdrivers are especially important. Allen wrenches and Torx
+  wrenches may prove helpful as well.
+* Power supply
+* Multimeter
+* Safety Glasses
+
+.Location:
+Lab
+
+.Demonstration:
+* Solicit suggestions for purposes of Reverse Engineering
+** Understanding how something works
+* Take care of the tools and return them to their place
+
+****
+IMPORTANT: Safety
+
+* Listen and follow directions
+* Only use tools for their intended use
+* Do not use tools on anything other then objects being disassembled
+* Never horseplay with tools
+* No running
+* *WEAR SAFETY GLASSES AT ALL TIMES*
+****
+
+
+.Class Inquiry:
+
+.Teaming:
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+.Challenge:
+Disassemble broken gadgets to understand how they work.
+
+IMPORTANT: Closely monitor students for unsafe activity and intervene with
+corrective action quickly.
+
+Use the multimeter for testing circuit components students may uncover.
+
+Use the power supply to energize extracted components like motors and lamps where possible.
+
+IMPORTANT: Observe electrical and mechanical safety precautions.
+
+// vim: set syntax=asciidoc:
