@@ -1,0 +1,56 @@
+=== Programming Board Game
+.Disciplines:
+* Software Engineering
+
+.Setup:
+Print a copy for each student of programming_boardgame.pdf
+
+.Resources:
+* Robot Turtles Board Game (Copyright Robot Turtles LLC)
+** http://www.robotturtles.com/
+* Scratch Programming Language (Copyright MIT Media Lab)
+** https://scratch.mit.edu/
+** https://scratch.mit.edu/projects/139317744/
+
+Robot Turtles and Scratch are not required for this workshop but they are
+excellent resources you may want to use in your curriculum.
+
+.Materials:
+* Scissors (and optionally paper cutter)
+* Computer (optional)
+
+.Location:
+Classroom with group tables
+
+.Preparation:
+Distribute printout packets of the programming_boardgame.pdf file and have
+students cut out programming cards and tokens.
+
+.Demonstration:
+Have everyone run through the single player board with the cards successively
+suggested for runs A, B and C.
+
+.Class Inquiry:
+Using repeat command structure to make programming more efficient.
+
+Using function definitions to encapsulate often used code blocks.
+
+.Teaming:
+Single player for warmup, then teams of 2-5 for group games.
+
+.Challenge:
+More advanced students can play the role of the "compiler" running the command
+cards for the other players.
+
+The students will naturally assume getting to the star first equals winning.
+Encourage the conclusion that shorter more efficient code stacks helps win.
+
+.Further Challenges:
+Have some exhibition rounds near the end where 1 group at a time plays head
+to head using the Pwned rules and everyone else watches.
+
+Make available the Scratch program in Programming_Boardgame.sb2 (weblink
+supplied in resources). Allow students to try the different programs and
+compare it to the boardgame (be sure to click the "see inside" button).
+
+// vim: set syntax=asciidoc:

@@ -99,16 +99,17 @@ include::workshops/holiday_engineering.adoc[]
 ****
 include::workshops/reverse_engineering.adoc[]
 
-== Workshop {counter:workshop}: Introduction to Electrical Engineering
+== Workshop {counter:workshop}: Software Engineering
 ****
 2017-01-10
 ****
-Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
+include::workshops/programming_boardgame.adoc[]
 
 == Workshop {counter:workshop}: Electrical Engineering Projects
 ****
 2017-01-17
 ****
+Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
 Make Makey, soldering, electrical engineering
 
 == Workshop {counter:workshop}: Software Engineering I
