@@ -1,0 +1,77 @@
+=== Computer Engineering
+.Disciplines:
+* Computer
+* Software
+* Electronics
+
+.Setup:
+
+.Resources:
+* https://en.wikipedia.org/wiki/Computer_engineering
+
+.Materials:
+* 1 laptop per 1-2 students
+* Ubermix Linux operating system
+** http://www.ubermix.org/
+
+.Location:
+Large room with outlets available at each table
+
+.Preparation:
+Install `ubermix` on all of the laptops. Alternatively acquire enough
+USB keys to have the students do it as part of the workshop.
+
+.Demonstration:
+In a single column on the white board, write the following categories:
+
+* CPU, Kernel, O/S, Device
+
+Review the meaning of each with the class.
+Solicit suggestions for items in each category. Include the following:
+
+Under CPU:
+
+* Intel x86, AMD x86, ARM
+
+Under Kernel:
+
+* Linux, WinNT, Darwin/XNU
+
+Under O/S:
+
+* macOS, Windows, iOS, Android, ChromeOS
+** Linux Distributions
+*** Ubuntu, Red Hat Enterprise Linux, Debian, Mint, Arch, Gentoo
+*** CentOS, openSUSE, Mageia, ubermix
+
+Device:
+
+* Server, Desktop, Laptop, Phone, Tablet
+
+For each device, run through which O/S, Kernel, CPUs are typically used.
+
+Introduce Scratch on demonstration Laptop:
+
+* Control -> when flag clicked
+* Variables -> Make a variable
+** set variable, change variable
+* Control -> Repeat
+
+.Teaming:
+Teams of 1-2
+
+.Challenge:
+* Each student create a work of art in Tux Paint (under Graphics)
+* See how many levels you can pass in Numpty physics (under Games)
+* Scratch challenges (under Programming)
+** Write a Scratch program to count to 100 by 5's
+** Write a Scratch program to count almost to 100 but not past by 6's
+** Slow down the count so it's readable
+** Draw a square with Scratch
+** Draw a triangle, circle, spiral
+
+.Class Inquiry:
+
+.Further Challenges:
+
+// vim: set syntax=asciidoc:

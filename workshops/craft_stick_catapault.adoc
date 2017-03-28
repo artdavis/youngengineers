@@ -1,4 +1,4 @@
-=== Craft Stick Catapault
+=== Craft Stick Catapult
 .Disciplines:
 * Mechanical Engineering
 
@@ -29,7 +29,7 @@ image::images/Craft-Stick-Catapault-1.png["Craft Stick Catapault",width=400]
 Individual
 
 .Challenge:
-"Build a catapault using the engineering drawing and supplied materials"
+"Build a catapult using the engineering drawing and supplied materials"
 
 // vim: set syntax=asciidoc:
 

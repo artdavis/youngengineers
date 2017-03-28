@@ -77,11 +77,11 @@ include::workshops/tower_build_battle.adoc[]
 ****
 include::workshops/water_bottle_flip.adoc[]
 
-== Workshop {counter:workshop}: Craft Stick Catapault
+== Workshop {counter:workshop}: Craft Stick Catapult
 ****
 2016-12-13
 ****
-include::workshops/craft_stick_catapault.adoc[]
+include::workshops/craft_stick_catapult.adoc[]
 
 == Workshop {counter:workshop}: Holiday Engineering
 ****
@@ -133,6 +133,12 @@ Software engineering, coding, scratch, python, lightbot, TurtleArt
 LAST MEETUP FOR THE TERM
 ****
 
+== Workshop {counter:workshop}: Computer Engineering
+****
+2017-03-28
+****
+include::workshops/computer_engineering.adoc[]
+
 '''
 
 == Workshop {counter:workshop}: Computer Aided Design
@@ -170,6 +176,7 @@ Monoculight Maker Faire Edition
 ****
 Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
 lenses
+
 
 == Workshop {counter:workshop}: Mult-Disciplinary Engineering
 ****
