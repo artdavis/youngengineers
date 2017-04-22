@@ -1,0 +1,59 @@
+=== Monoculight
+.Disciplines:
+* Optical Engineering
+
+.Setup:
+
+.Resources:
+* 
+
+.Materials:
+* Pencils
+* Rulers
+
+.Location:
+Where?
+
+.Preparation:
+
+.Demonstration:
+
+Inquire about what an image is.
+Can you touch it? Taste it? Smell it? Hear it? Why?
+
+Demonstrate the large Fresnel lens and the image it projects.
+
+Imagine each point on an object as a tiny light source.
+
+Introduce raytracing. Draw a diagram of a thin singlet positive lens.
+Rays represent the path of light.
+What's the first place they all intersect? (points on the object)
+What happens when the light rays intersect on a screen? (real image)
+
+Explain the Rules for raytracing.
+A positive lens has a front focal length and a back focal length.
+Any ray that goes through a focal point and then hits the lens will
+be collimated horizontally.
+Does everyone know what horizontal means?
+Does anyone know what collimated means? (rays will all be parallel)
+Does everyone know what parallel means?
+
+Any ray that comes in horizontal, will pass through the focal point.
+
+Any rays that hits the center of the lens will travel through the lens
+undeviated.
+Anyone know what undeviated means?
+
+
+.Class Inquiry:
+
+.Teaming:
+Teams of 2-3 making sure youngest are teamed with older student(s)
+
+.Challenge:
+
+.Class Inquiry:
+
+.Further Challenges:
+
+// vim: set syntax=asciidoc:

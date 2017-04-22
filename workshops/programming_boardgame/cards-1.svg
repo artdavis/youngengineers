@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765 990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cards-1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6412"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6414" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5637"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#5599ff;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6300"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#5599ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6302" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5652"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5634"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3713586"
+     inkscape:cx="474.06048"
+     inkscape:cy="660.79286"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1152"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="17.015625,976.59375"
+       orientation="1,0"
+       id="guide4173" />
+    <sodipodi:guide
+       position="-43.3125,972.72656"
+       orientation="0,1"
+       id="guide4175" />
+    <sodipodi:guide
+       position="748.6875,235.125"
+       orientation="1,0"
+       id="guide4177" />
+    <sodipodi:guide
+       position="-38.465504,17.136291"
+       orientation="0,1"
+       id="guide4179" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362205)">
+    <g
+       id="g5619"
+       transform="translate(168.74676,-11.604341)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect5608"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5610"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan5612"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan5617"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-372.99866,168.20816)"
+       id="g8231">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8233"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8235"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8237"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8239">1 step</tspan></text>
+    </g>
+    <g
+       id="g8241"
+       transform="translate(-192.45706,168.20816)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8243"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8245"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8247"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8249"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-11.915476,168.20816)"
+       id="g8251">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8253"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8255"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8257"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8259">1 step</tspan></text>
+    </g>
+    <g
+       id="g8261"
+       transform="translate(169.35534,168.20816)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8263"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8265"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8267"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8269"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       id="g8271"
+       transform="translate(-372.99866,348.67691)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8273"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8275"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8277"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8279"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-192.45706,348.67691)"
+       id="g8281">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8283"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8285"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8287"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8289">1 step</tspan></text>
+    </g>
+    <g
+       id="g8291"
+       transform="translate(-11.915476,348.67691)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8293"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8295"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8297"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8299"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(169.35534,348.67691)"
+       id="g8301">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8303"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8305"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8307"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8309">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-372.99866,528.11441)"
+       id="g8311">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8313"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8315"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8317"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8319">1 step</tspan></text>
+    </g>
+    <g
+       id="g8321"
+       transform="translate(-192.45706,528.11441)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8323"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8325"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8327"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8329"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-11.915476,528.11441)"
+       id="g8331">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8333"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8335"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8337"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8339">1 step</tspan></text>
+    </g>
+    <g
+       id="g8341"
+       transform="translate(169.35534,528.11441)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8343"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8345"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8347"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8349"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       id="g8351"
+       transform="translate(-372.99866,708.58316)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8353"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8355"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8357"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8359"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-192.45706,708.58316)"
+       id="g8361">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8363"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8365"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8367"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8369">1 step</tspan></text>
+    </g>
+    <g
+       id="g8371"
+       transform="translate(-11.915476,708.58316)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect8373"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8375"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan8377"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan8379"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(169.35534,708.58316)"
+       id="g8381">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8383"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text8385"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8387"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan8389">1 step</tspan></text>
+    </g>
+    <g
+       transform="translate(-192.68044,-11.604341)"
+       id="g9021">
+      <rect
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9023"
+         width="180"
+         height="180"
+         x="392.76443"
+         y="95.362198"
+         ry="7.6244421" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="482.43945"
+         y="176.98697"
+         id="text9025"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9027"
+           x="482.43945"
+           y="176.98697"
+           style="font-size:22.5px;text-align:center;text-anchor:middle">move forward</tspan><tspan
+           sodipodi:role="line"
+           x="482.43945"
+           y="205.11197"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           id="tspan9029">1 step</tspan></text>
+    </g>
+    <g
+       id="g9031"
+       transform="translate(-12.211704,-11.604341)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect9033"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9035"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan9037"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan9039"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+    <g
+       id="g9092"
+       transform="translate(-373.523,-11.604341)">
+      <rect
+         ry="7.6244421"
+         y="95.362198"
+         x="392.76443"
+         height="180"
+         width="180"
+         id="rect9094"
+         style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9096"
+         y="176.98697"
+         x="482.43945"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="176.98697"
+           x="482.43945"
+           id="tspan9098"
+           sodipodi:role="line">move forward</tspan><tspan
+           id="tspan9100"
+           style="font-size:22.5px;text-align:center;text-anchor:middle"
+           y="205.11197"
+           x="482.43945"
+           sodipodi:role="line">1 step</tspan></text>
+    </g>
+  </g>
+</svg>

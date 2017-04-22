@@ -139,6 +139,12 @@ LAST MEETUP FOR THE TERM
 ****
 include::workshops/computer_engineering.adoc[]
 
+== Workshop {counter:workshop}: Monoculight
+****
+2017-04-11
+****
+include::workshops/monoculight.adoc[]
+
 '''
 
 == Workshop {counter:workshop}: Computer Aided Design

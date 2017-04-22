@@ -1,0 +1,44 @@
+Single Player warmup
+Fixed cards per player. Play cards to solution
+
+Multiplayer
+Recommended cards may be doled out per board, or players may just have
+full access to available function cards. Limit function blocks they have
+access to as you see fit. For example, "go to" coordinate blocks should be
+restricted.
+Each round a player may do one of the following actions:
+* Add a card anywhere to the stack
+* Remove as many cards from the stack as wanted
+* Run the stack
+* Optionally you may or may not want to allow a debug step in which any single
+  command already in the stack may be executed.
+If a player wants their token to go back to their starting home position then
+their program should call the "home" block at the beginning. Otherwise they'll
+keep on going from their current position and direction.
+
+Balloons cannot be moved and will stop your progress unless
+they are popped with lasers
+If they are shot with a laser they are removed from the board
+
+Head to head multiplayer
+* Play a command to your stack
+* Remove card(s) from the stack
+* Run your stack
+* Add a balloon to the board
+* If tokens collide turn 180deg (or go back to home)
+
+Speed coding. Players are allowed to play cards as fast as they want.
+* Command cards are executed as they are played. There's no "stack"; command
+  cards that have been put down can be replayed any time.
+* Leave repeat blocks off to the side. An empty repeat does nothing, but as
+   soon as a command is placed within that command is executed the repeat
+   number of times. The repeat runs to completion but the command card can be
+   left in the block to be built upon.
+** The repeat will not run again until another card is played into (or removed
+   from it). At which point all the commands in the repeat execute repeat
+   times and then halt.
+* Define function blocks off to the side. Anything placed in them does nothing
+   until a function calling card is played.
+
+
+Gates cannot be moved or opened
