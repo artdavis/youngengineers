@@ -70,8 +70,4 @@ Teams of 1-2
 ** Draw a square with Scratch
 ** Draw a triangle, circle, spiral
 
-.Class Inquiry:
-
-.Further Challenges:
-
 // vim: set syntax=asciidoc:

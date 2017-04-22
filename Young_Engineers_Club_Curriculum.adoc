@@ -107,7 +107,6 @@ include::workshops/computer_engineering.adoc[]
 Placeholder
 
 = Untested Workshops
-Placeholder
 
 == Workshop {counter:workshop}: Siphon
 include::demos/siphon.adoc[]
@@ -116,8 +115,7 @@ include::demos/siphon.adoc[]
 include::workshops/ramp_racers.adoc[]
 
 == Workshop {counter:workshop}: Paddle Power
-// include::workshops/paddle_power.adoc[]
-Placeholder
+include::workshops/paddle_power.adoc[]
 
 = Workshops in development
 
@@ -182,19 +180,16 @@ Zany contest categories: Longest air time, shortest air time,
 best crash, catch a recovery out of the air, loudest countdown,
 best decorated rocket, craziest flight pattern
 
-
 == Workshop {counter:workshop}: Raspberry Pi Computer
 Raspberry Pi
 
 == Workshop {counter:workshop}: Battling Robots Design, Build and Tournament
 Battling Robots design, build and tournament
 
-
 == Workshop {counter:workshop}: Engineering Showdown Games
 Engineering Showdown Games. Paper airplane challenge, egg toss etc.
 Challenges announced 15 minutes before each event. Each team then
 designs and constructs their entry before for competition.
-
 
 [colophon]
 = License
