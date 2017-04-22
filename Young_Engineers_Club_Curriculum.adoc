@@ -1,7 +1,7 @@
 Young Engineers Club Curriculum
 ===============================
 Arthur Davis <art.davis@gmail.com>
-v0.2, 2016-10-02
+v0.3, 2016-04-22
 :doctype: book
 :description: Compilation of workshops for Young Engineers Club Curriculum
 :toc:
@@ -11,213 +11,160 @@ include::introduction.adoc[]
 
 = Curriculum Workshops
 
-== Workshop {counter:workshop}: What is Engineering
+== Workshop {counter:workshop}: What is Engineering?
 ****
-2016-10-04
-
-NOTE: First meeting
+Feedback rating: 3.1/5
 ****
 include::workshops/what_is_engineering.adoc[]
 
+== Workshop {counter:workshop}: Straw Rockets
+****
+Run with "What is Engineering?" workshop.
+
+Feedback rating: 3.1/5
+****
+include::demos/straw_rocket.adoc[]
+
 == Workshop {counter:workshop}: Unsinkable Boat
 ****
-2016-10-11
-
-IMPORTANT: Notify students that meeting on 10/18 will be cancelled.
+Feedback rating: 4.4/5
 ****
 include::workshops/unsinkable_boat.adoc[]
 
 
 == Workshop {counter:workshop}: Spooky Engineering
 ****
-2016-10-25
-
-Meeting before Halloween
+Feedback rating: 4.3/5
 ****
 include::workshops/spooky_engineering.adoc[]
 
 == Workshop {counter:workshop}: Ballistic Pumpkins
 ****
-2016-11-01
+Feedback rating: 4.1/5
 ****
 include::workshops/ballistic_pumpkins.adoc[]
 
 == Workshop {counter:workshop}: LEGO Building Game Show
 ****
-2016-11-08
-
-Resources:
-
-* http://www.bricklink.com/
-* https://shop.lego.com/en-US/Pick-a-Brick
-* https://education.lego.com/en-us/
-
-//Ask kids to bring in their own LEGO minifigure
+Feedback rating: 3.3/5
 ****
 include::workshops/lego_build_game_show.adoc[]
 
-== Workshop {counter:workshop}: LEGO Building Challenges
+== Workshop {counter:workshop}: LEGO Structure Drop Test
 ****
-2016-11-15
-
-Meeting on 11/22 is cancelled.
+Feedback rating: 4.2/5
 ****
 include::workshops/lego_engineering_challenge.adoc[]
 
 == Workshop {counter:workshop}: Cup Tower Battle
 ****
-2016-11-29
-
+Feedback rating: 4.2/5
 ****
 include::workshops/tower_build_battle.adoc[]
 
 == Workshop {counter:workshop}: Water Bottle Flip Optimization
 ****
-2016-12-06
+Feedback rating: 4.2/5
 ****
 include::workshops/water_bottle_flip.adoc[]
 
 == Workshop {counter:workshop}: Craft Stick Catapult
 ****
-2016-12-13
+Feedback rating: 4.3/5
 ****
 include::workshops/craft_stick_catapult.adoc[]
 
 == Workshop {counter:workshop}: Holiday Engineering
 ****
-2016-12-20
-
-Last meeting before Christmas/New Years break.
-Meeting on 12/27 will be cancelled.
-
+Feedback rating: 4.0/5
 ****
 include::workshops/holiday_engineering.adoc[]
 
 == Workshop {counter:workshop}: Reverse Engineering
 ****
-2017-01-03
+Feedback rating: 4.4/5
 ****
 include::workshops/reverse_engineering.adoc[]
 
-== Workshop {counter:workshop}: Software Engineering
+== Workshop {counter:workshop}: Programming Board Game
 ****
-2017-01-10
+Feedback rating: 2.2/5
 ****
 include::workshops/programming_boardgame.adoc[]
 
-== Workshop {counter:workshop}: Electrical Engineering Projects
+== Workshop {counter:workshop}: Optical Engineering
 ****
-2017-01-17
+Feedback rating: 3.4/5
 ****
-Electrical, Snap Circuits, Little Bits, Breakout Boards, Power supplies.
-Make Makey, soldering, electrical engineering
+include::workshops/monoculight.adoc[]
 
-== Workshop {counter:workshop}: Software Engineering I
-****
-2017-01-24
+== Workshop {counter:workshop}: Computer Engineering
+include::workshops/computer_engineering.adoc[]
 
+= Rocket Club
+
+== Rocketry Fundamentals {counter:rockets}
+Placeholder
+
+= Untested Workshops
+Placeholder
+
+== Workshop {counter:workshop}: Siphon
+include::demos/siphon.adoc[]
+
+== Workshop {counter:workshop}: Ramp Racers
+include::workshops/ramp_racers.adoc[]
+
+== Workshop {counter:workshop}: Paddle Power
+// include::workshops/paddle_power.adoc[]
+Placeholder
+
+= Workshops in development
+
+== Workshop {counter:workshop}: Software Engineering
 This first workshop doesn't need a computer. Run challenges with Scratch
 programming using large foamboard cutouts of scratch command blocks, play
 Robot Turtle, get Marbles on Rails programming game put together.
 
 For the next workshop prepare by having kids get Scratch accounts with their
 parents.  Next workshop will be in the computer lab.
-****
-Software engineering, coding, scratch, python, lightbot, TurtleArt
 
-== Workshop {counter:workshop}: Software Engineering II
-****
-2017-01-31
+coding, scratch, python, lightbot, TurtleArt
 
-
-LAST MEETUP FOR THE TERM
-****
-
-== Workshop {counter:workshop}: Computer Engineering
-****
-2017-03-28
-****
-include::workshops/computer_engineering.adoc[]
-
-== Workshop {counter:workshop}: Monoculight
-****
-2017-04-11
-****
-include::workshops/monoculight.adoc[]
-
-'''
+== Workshop {counter:workshop}: Electrical Engineering Projects
+Snap Circuits, Little Bits, Breakout Boards, Power Supplies,
+Makey Makey, Soldering
 
 == Workshop {counter:workshop}: Computer Aided Design
-****
-2017-02-07
-****
 CAD, OpenSCAD, OnShape, Inventor
 
 == Workshop {counter:workshop}: 3D Printing
-****
-2017-02-14
-
-Meeting on 2/21 will be cancelled. Meeting is before Valentines Day.
-****
 3D Printing, Perler Beads, Foam Board layering, bring in printer,
 automation, plastics mfg.
 
 
 == Workshop {counter:workshop}: Biomedical Engineering
-****
-2017-02-28
-****
 Biomedical engineering, 3D Printed hearts, Red blood siphon pump
 
 == Workshop {counter:workshop}: Biomedical Optics
-****
-2017-03-07
-****
 Biomedical engineering, Optical Engineering
 Monoculight Maker Faire Edition
 
 == Workshop {counter:workshop}: Optical Engineering
-****
-2017-03-14
-****
 Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
 lenses
 
-
 == Workshop {counter:workshop}: Mult-Disciplinary Engineering
-****
-2017-03-21
-****
 LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing
 
-== Workshop {counter:workshop}
-****
-2017-03-28
-****
-
-== Workshop {counter:workshop}: Crash Test Eggs Design and Build
-****
-2017-04-04
-****
+== Workshop {counter:workshop}: Crash Test Eggs Design, Build and Tournament
 Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
 force, egg survival, egg destruction
-
-== Workshop {counter:workshop}: Crash Test Eggs Tournament
-****
-2017-04-11
-
-Meeting on 4/18 will be cancelled
-Pre-Easter
-****
 Egg drop challenge
 Egg Olympics
 
 == Workshop {counter:workshop}: Rocketry Design and Build
-****
-2017-04-25
-****
-
-.Resources:
+Resources:
 
 * https://www.apogeerockets.com/
 * https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS $60
@@ -230,62 +177,24 @@ Egg Olympics
 Rocketry, start build, Launch electronics
 
 == Workshop {counter:workshop}: Rocket Launch
-****
-2017-05-02
-****
-
-.Rocket Launch
+Rocket Launch
 Zany contest categories: Longest air time, shortest air time,
 best crash, catch a recovery out of the air, loudest countdown,
 best decorated rocket, craziest flight pattern
 
 
 == Workshop {counter:workshop}: Raspberry Pi Computer
-****
-2017-05-09
-****
 Raspberry Pi
 
-== Workshop {counter:workshop}: Battling Robots Design and Build
-****
-2017-05-16
-****
-Battling Robots build
+== Workshop {counter:workshop}: Battling Robots Design, Build and Tournament
+Battling Robots design, build and tournament
 
-== Workshop {counter:workshop}: Battling Robots Tournament
-****
-2017-05-23
-****
-Battling Robots battle
-
-== Workshop {counter:workshop}
-****
-2017-05-30
-****
 
 == Workshop {counter:workshop}: Engineering Showdown Games
-****
-2017-06-06
-
-Last Day.
-****
 Engineering Showdown Games. Paper airplane challenge, egg toss etc.
 Challenges announced 15 minutes before each event. Each team then
 designs and constructs their entry before for competition.
 
-= Supplemental Workshops
-
-== Supplemental {counter:supplemental}: Straw Rockets
-include::demos/straw_rocket.adoc[]
-
-== Supplemental {counter:supplemental}: Siphon
-include::demos/siphon.adoc[]
-
-== Supplemental {counter:supplemental}: Ramp Racers
-include::workshops/ramp_racers.adoc[]
-
-== Supplemental {counter:workshop}: Paddle Power
-include::workshops/paddle_power.adoc[]
 
 [colophon]
 = License

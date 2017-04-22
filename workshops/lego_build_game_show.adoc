@@ -20,6 +20,9 @@ Divvy up the LEGO's so there's evenly distributed LEGO quantities at each
 team table.
 
 .Resources:
+* http://www.bricklink.com/
+* https://shop.lego.com/en-US/Pick-a-Brick
+* https://education.lego.com/en-us/
 * MythBusters LEGO Ball:
 ** https://www.youtube.com/watch?v=KLWLTs90_po
 ** https://www.youtube.com/watch?v=M8vdTXO0lpE
