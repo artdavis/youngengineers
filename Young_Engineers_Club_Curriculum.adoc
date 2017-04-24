@@ -103,8 +103,8 @@ include::workshops/computer_engineering.adoc[]
 
 = Rocket Club
 
-== Rocketry Fundamentals {counter:rockets}
-Placeholder
+== Rocketry {counter:rockets}: Rocketry Fundamentals
+include::workshops//rocket_club/rocketry_fundamentals.adoc[]
 
 = Untested Workshops
 

@@ -1,0 +1,210 @@
+=== Rocketry Fundamentals
+.Disciplines:
+* Aeronautical Engineering
+* Rocketry
+
+.Materials:
+* Plastic Bags
+* Xacto knives
+* String
+* Clothespins
+* Balloons
+* Tape
+* Paper
+* Hollow plastic and real golf balls
+* Spent/unspent rocket engines for demonstration
+
+.Location:
+Classroom/Lab
+
+.Preparation:
+Print copies of instructions and prepare materials for students.
+
+.Plastic-Bag-Parachute-Instructions.pdf
+image::workshops/rocket_club/Plastic-Bag-Parachute-Instructions.png["Plastic Bag Parachute",width=200]
+
+.Rocket-Balloon-Instructions.pdf
+image::workshops/rocket_club/Rocket-Balloon-Instructions.png["Rocket Balloon",width=200]
+
+.Teaming:
+Teams of 2-3 grouping younger and older student(s) together
+
+==== Lecture
+
+===== Introduction
+
+* Name tags for all. Every meeting.
+
+* For all of our meetings, everyone must wear footwear that fully covers
+  your feet.
+
+* We will be building and launching rockets.
+  Rockets will get lost. Prepare for that.
+  It will make you sad but always try to learn from the failure.
+  Failure is part of the process and should be celebrated.
+
+
+===== Safety and Discipline
+
+* Everyone must at all times control their actions and follow the instructions
+  of the adults. I know this is especially difficult after a long day in
+  school and the excitement of being outside and launching rockets. But
+  PLEASE control your actions. We'll be here to help, but if you cannot do
+  it, you will not build and launch a rocket. I'm sorry, it just is not safe.
+  Being safe is our most important task.
+** If you are chasing someone... STOP immediately
+** If you are being chased do not run away. Calmly ask the chaser to stop and
+   walk over to an adult for help.
+** If you are not being safe, you will have to do an alternative activity like
+   coloring sheets or Legos.
+
+
+===== Newton's Laws of Motion
+
+. Inertia: An object at rest stays at rest. An object in motion stays in motion.
+* After a rocket engine burns out, the rocket continues to go up.
+   The ejection charge is on a delay.
+** Ask what happens to the rockets direction when the engine burns out
+** Demonstrate throwing a ball upwards.
+*** All the upward force on the ball stops as soon as I release the ball.
+    Yet it continues upward.
+*** Ask about the ball's velocity or speed (decreases on way up, zero at
+    apogee and increases on way down).
+*** Ask about velocity of the ball at the moment it's released and the moment
+    I catch it (If caught at the same point it was released, the downward
+    velocity when caught equals the upward velocity when thrown).
+*** What is acceleration? (how fast the velocity changes)
+*** What is the acceleration of the ball? (a constant 9.8m/s/s downward once
+     released).
+
+. latexmath:[F=m\times a]
+* A force changes velocity.
+  The change depends on mass.
+  A change in velocity generates a force.
+* The force of gravity is always pulling down.
+  Slow an upward travelling rocket to a stop and rocket begins to go downward.
+  When does free fall start? (when engine burns out, even though still going up)
+* For increasing mass, the acceleration due to gravity stays the same so the
+  force of gravity is increased.
+  Or another way, since if mass is increased, more force is required to create
+  the same amount of acceleration since acceleration due to gravity is constant.
+* If the force of gravity were to hypothetically stay fixed with increasing mass,
+  then the acceleration would have to decrease for heavier objects and heavier
+  objects would fall slower than lighter objects.
+* The acceleration due to gravity is the same no matter the weight.
+  Demonstrate dropping two balls that are the same size but different weight
+  (golf ball vs. hollow plastic golf ball) from high up.
+
+. For every action, there is an equal and opposite reaction.
+* Exhaust from burning fuel shoots out the back of a rocket engine causing
+  forward thrust.
+* Hold up spent and unspent rocket engines as a demonstration.
+
+===== Air Resistance
+
+.Inquire
+Where have you felt air resistance?
+
+* Wind, fans, open car window
+
+.Inquire
+How can you increase air resistance?
+
+* Increase surface area
+* Increase speed (of the wind or of the object? does it matter?)
+
+.Demonstration
+* Take two sheets of paper. Ask if they weigh the same.
+* Crumple one up. Ask if the two sheets of paper still weigh the same.
+* Have the class predict what will happen when both sheets of paper are
+  dropped from a height simultaneously.
+* Why did the balled up sheet of paper hit the ground first?
+* More surface area means greater air resistance.
+* The force of air pressure for a falling object works against the force of
+gravity.
+* What is the force of air resistance for a stationary object?
+* What happens to the air pressure as the object moves faster and faster?
+* For heavier objects, more air pressure is required to counteract the
+  force of gravity since heavier objects experience increased force from
+  gravity.
+** From the golf ball example, since the real golf ball and the lightweight
+   plastic one are the same size, they will have the same air resistance. But
+   since the force of gravity on the real golf ball is more, it will have more
+   acceleration because the counteracting force of the air pressure is less
+   significant compared to the force of gravity.
+
+===== Cutting Knife Safety
+
+Let the class know that the activities are about to start.
+The first activity will require the use of a hobby knife.
+All cutting will be done under the direct supervision of an adult.
+Methodically explain each of the rules for hobby knife safety:
+
+* Do not goof around with the knife at all, in any way, ever.
+  Anyone who does so even once will have the knife taken away immediately
+  and will not get a second chance to use a knife today.
+** NEVER even pretend to use a blade improperly
+** NEVER point a blade at another person
+** Instruct the workshop helpers to have zero tolerance on this rule.
+   Any observed violation results in immediate hobby knife confiscation
+   for the rest of the workshop.
+* The knife may only be used under the direct supervision of an adult.
+* Only an adult may take the plastic cap off the top of the knife.
+** Instruct the adult assistants that when they are ready, uncap the knife
+   and place it back down on the table.
+* Make sure that when you place the knife down that it is not in a position
+  where it can roll off the table. If it does so, it may very easily stick
+  into your foot. Everyone must have footwear that fully covers their feet.
+* Only cut on an acceptable cutting surface. Cutting boards will be provided.
+* Prepare and think before each cut. Consider what will happen to the blade
+  if it was to slip and make sure there's nothing in the way to harm.
+* Never hold the workpiece you are cutting in your hand. It should always
+  lay on the cutting surface.
+* When cutting, give your undivided attention to the workpiece the whole time.
+* Hold the blade like a pencil.
+* Slowly and steadily draw the blade toward yourself while cutting.
+  Only very light downward pressure should be necessary.
+* Keep the blade straight on with the cut. Never twist the blade.
+* When done cutting, place the knife down on the table. Adult assistants
+  should then recap the knife.
+
+==== Activities
+
+===== Making a parachute
+
+.Principle:
+Air Resistance
+
+* Parachute components: Canopy, suspension lines, harness, payload
+* Student groups make their own parachute using the
+  `Plastic-Bag-Parachute-Instructions` worksheet.
+* Adult helpers must closely supervise hobby knife usage.
+* Additional challenges:
+** Race the parachutes to the ground. Last one down is the winner.
+** Predict and experiment with increasing the weight of the payload with
+   extra clothespins or other improvised weights.
+** Predict and experiment with multiple canopies per clothespin.
+** Test what happens when cutting a hole in the canopy.
+** Experiment with different number of suspension lines and canopy shape.
+** Let the students come up with ideas to experiment with.
+** Would a hammer and feather fall at the same rate in a vacuum?
+*** Search the internet for "feather and hammer drop on moon"
+
+===== Rocket Balloon
+
+.Principle:
+Newton's Laws of Motion: For every action, there is an equal and opposite reaction
+
+* Student groups make balloon rockets following the
+  `Rocket-Balloon-Instructions` worksheet.
+* Race balloon vehicles along string/fishing line tracks.
+* Try different inclination angles of the string. Does the balloon fly
+  different distances at different inclination angles? What force is acting
+  against it at higher inclination angles? (gravity)
+* What if we tape a payload to the rocket? Why doesn't it go as far or fast?
+  (increased weight means increased force due to gravity which counteracts
+  the force of the thrust)
+* What would happen with parachute taped to the balloon?
+** What about cutting a hole in the middle of the parachute?
+
+// vim: set syntax=asciidoc:

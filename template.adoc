@@ -1,31 +1,38 @@
 === Title
 .Disciplines:
-* 
+* Placeholder
 
 .Setup:
+Placeholder
 
 .Resources:
-* 
+* Placeholder
 
 .Materials:
-* 
+* Placeholder
 
 .Location:
 Where?
 
 .Preparation:
+Placeholder
 
 .Demonstration:
+Placeholder
 
 .Class Inquiry:
+Placeholder
 
 .Teaming:
-Teams of 2-3 making sure youngest are teamed with older student(s)
+Teams of 2-3 grouping younger and older student(s) together
 
 .Challenge:
+Placeholder
 
 .Class Inquiry:
+Placeholder
 
 .Further Challenges:
+Placeholder
 
 // vim: set syntax=asciidoc:
