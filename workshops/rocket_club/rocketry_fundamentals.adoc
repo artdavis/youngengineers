@@ -1,11 +1,12 @@
 === Rocketry Fundamentals
 .Disciplines:
-* Aeronautical Engineering
 * Rocketry
+* Physics
+* Hobby safety
 
 .Materials:
 * Plastic Bags
-* Xacto knives
+* Hobby knives
 * String
 * Clothespins
 * Balloons
@@ -13,6 +14,7 @@
 * Paper
 * Hollow plastic and real golf balls
 * Spent/unspent rocket engines for demonstration
+* Safety Glasses
 
 .Location:
 Classroom/Lab
@@ -78,6 +80,12 @@ Teams of 2-3 grouping younger and older student(s) together
      released).
 
 . latexmath:[F=m\times a]
+* Does everyone know how to multiply?
+** If the mass of something increases, what happens to the force of gravity
+   on it? (it increases... it weighs more) Draw up arrows on the `F` and `m`.
+** `a` is the acceleration of the object as it falls. `F` increases the
+   same amount as `m` increases. `a` stays the same; heavy and lightweight
+   objects fall with the same acceleration.
 * A force changes velocity.
   The change depends on mass.
   A change in velocity generates a force.
@@ -148,6 +156,7 @@ Methodically explain each of the rules for hobby knife safety:
 ** Instruct the workshop helpers to have zero tolerance on this rule.
    Any observed violation results in immediate hobby knife confiscation
    for the rest of the workshop.
+* Always wear safety glasses when using a hobby knife.
 * The knife may only be used under the direct supervision of an adult.
 * Only an adult may take the plastic cap off the top of the knife.
 ** Instruct the adult assistants that when they are ready, uncap the knife

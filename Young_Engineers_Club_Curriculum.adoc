@@ -106,6 +106,9 @@ include::workshops/computer_engineering.adoc[]
 == Rocketry {counter:rockets}: Rocketry Fundamentals
 include::workshops//rocket_club/rocketry_fundamentals.adoc[]
 
+== Rocketry {counter:rockets}: First Rocket Build
+include::workshops//rocket_club/first_rocket_build.adoc[]
+
 = Untested Workshops
 
 == Workshop {counter:workshop}: Siphon

@@ -1,0 +1,104 @@
+=== First Rocket Build
+.Disciplines:
+* Rocketry
+* Physics
+* Hobby safety
+
+.Preparation:
+Distribute rocket build instructions for the rockets the students
+will be building to the assistants ahead of time.
+
+.Resources:
+* Dowloadable Estes Rocket Instructions:
+** https://www.estesrockets.com/customer-service/instructions
+* Finding center of gravity on a ruler
+** https://www.youtube.com/watch?v=djmec-Bweeg
+
+.Materials:
+* Beginners rocket kits
+* Hobby knifes
+* Wood/Plastic Glues
+* Safety Glasses
+* Ruler or long tube
+* Binder clips or clothespins
+
+.Location:
+Classroom/Lab
+
+==== Lecture
+
+===== Center of Gravity
+
+* Does anyone know what center of gravity is?
+* Demonstrate sliding fingers together on ruler or long tube
+  to find center of gravity in the middle.
+* Attach clip to one end and show how CoG moved toward that end.
+* Attach many more clips and show how much CoG moves.
+* Attach clip to opposite and and show how it starts moving back to
+  the center.
+* Equate the ruler or tube with the rocket body. If a force is applied
+  to either side, where will the pivot point be? (the rocket pivots about
+  the CoG)
+
+* What happens to the center of gravity as the engine burns its fuel?
+  (back of the rocket gets lighter, CoG moves forward - as an example,
+  take away clips from the enf of the ruler/tube).
+
+===== Center of Pressure
+
+* Center of pressure is like the center of gravity, but instead of using
+  the mass of the rocket, it uses the surface area of the rocket.
+  It is the point on the rocket you can consider all of the aerodynamic
+  force to be concentrated.
+** Recall the parachute experiment and how air exerted a force to slow
+   the descent.
+* Demonstrate how the rocket will move if the CoP is in front of or
+  behind the CoG.
+* Ideally a stable rocket should have its CP 1-2 body tube diameters
+  behind the CoG. The CP always wants to follow the wind. Which
+  way is the wind for a zooming rocket? (downward, so as the rocket
+  flies upward the CP wants to follow the wind and keeps the rocket flying
+  straight).
+* An unstable rocket has the CP in front of the CoG. Demonstrate with a
+  rocket. What will happen if there is a force in front of the CoG
+  constantly trying to follow the wind? (Demonstrate that as the rocket
+  turns, the direction of the wind turns so the CP trys to follow and
+  turns the rocket and so forth and the rocket loops dangerously close
+  to the ground)
+* A marginally stable rocket will have its CP very close to the CoG.
+  Air pressure forces will cause very large movements... demonstrate
+  how a small movement close to the CoG fulcrum displaces the rocket much
+  more than the same amount of movement far away.
+  How do you think it will fly? (Erratic, possibly spiraling. May stabilize
+  as the rocket fuel burns because the CoG will move forward away from
+  the CP).
+* An overstable rocket has its CP too far behind the CoG. How
+  will it fly? (turns into even the slightest breeze
+  and shoots horizontally across the field).
+* Find center or pressure by cutting out profile of rocket in cardboard and
+  finding where the center of gravity of the cardboard cutout is. This point
+  will be the center of pressure of the rocket.
+** How can we move the CP back? (bigger fins)
+** How can we move the CoG forward? (weight in the nosecone)
+* Swing test. Tie a string around rocket at CoG and spin it around.
+  A stable rocket should fly true. Unstable will fly backwards. Marginally
+  stable will tumble.
+
+===== Hobby Building
+There's no "spare parts" for your rocket kit.
+Work slowly and carefully. Any mistake will have to be repaired.
+
+
+.Teaming:
+Teams of 2-3 grouping younger and older student(s) together
+
+.Challenge:
+Placeholder
+
+.Class Inquiry:
+Placeholder
+
+.Further Challenges:
+Placeholder
+
+// vim: set syntax=asciidoc:
