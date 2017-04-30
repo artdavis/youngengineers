@@ -4,6 +4,9 @@
 * Physics
 * Hobby safety
 
+.Resources
+* https://www.cmu.edu/ehs/fact-sheets/guidelines-for-exacto-knife-use.pdf
+
 .Materials:
 * Plastic Bags
 * Hobby knives
@@ -31,9 +34,7 @@ image::workshops/rocket_club/Rocket-Balloon-Instructions.png["Rocket Balloon",wi
 .Teaming:
 Teams of 2-3 grouping younger and older student(s) together
 
-==== Lecture
-
-===== Introduction
+==== Introduction
 
 * Name tags for all. Every meeting.
 
@@ -46,7 +47,7 @@ Teams of 2-3 grouping younger and older student(s) together
   Failure is part of the process and should be celebrated.
 
 
-===== Safety and Discipline
+==== Safety and Discipline
 
 * Everyone must at all times control their actions and follow the instructions
   of the adults. I know this is especially difficult after a long day in
@@ -61,7 +62,7 @@ Teams of 2-3 grouping younger and older student(s) together
    coloring sheets or Legos.
 
 
-===== Newton's Laws of Motion
+==== Newton's Laws of Motion
 
 . Inertia: An object at rest stays at rest. An object in motion stays in motion.
 * After a rocket engine burns out, the rocket continues to go up.
@@ -108,7 +109,7 @@ Teams of 2-3 grouping younger and older student(s) together
   forward thrust.
 * Hold up spent and unspent rocket engines as a demonstration.
 
-===== Air Resistance
+==== Air Resistance
 
 .Inquire
 Where have you felt air resistance?
@@ -141,7 +142,7 @@ gravity.
    acceleration because the counteracting force of the air pressure is less
    significant compared to the force of gravity.
 
-===== Cutting Knife Safety
+==== Cutting Knife Safety
 
 Let the class know that the activities are about to start.
 The first activity will require the use of a hobby knife.
@@ -177,9 +178,7 @@ Methodically explain each of the rules for hobby knife safety:
 * When done cutting, place the knife down on the table. Adult assistants
   should then recap the knife.
 
-==== Activities
-
-===== Making a parachute
+==== Making a parachute
 
 .Principle:
 Air Resistance
@@ -199,7 +198,7 @@ Air Resistance
 ** Would a hammer and feather fall at the same rate in a vacuum?
 *** Search the internet for "feather and hammer drop on moon"
 
-===== Rocket Balloon
+==== Rocket Balloon
 
 .Principle:
 Newton's Laws of Motion: For every action, there is an equal and opposite reaction
