@@ -20,31 +20,28 @@ will be building to the assistants ahead of time.
 * Wood/Plastic Glues
 * Safety Glasses
 * Ruler or long tube
-* Binder clips or clothespins
+* Binder clips, clothespins or clamps
 
 .Location:
 Classroom/Lab
 
-==== Lecture
-
-===== Center of Gravity (CG)
+==== Center of Gravity (CG)
 
 * Does anyone know what center of gravity is?
 * Demonstrate sliding fingers together on ruler or long tube
   to find center of gravity in the middle.
 * Attach clip to one end and show how CG moved toward that end.
 * Attach many more clips and show how much CG moves.
-* Attach clip to opposite and and show how it starts moving back to
+* Attach clip to opposite end and show how it starts moving back to
   the center.
 * Equate the ruler or tube with the rocket body. If a force is applied
   to either side, where will the pivot point be? (the rocket pivots about
   the CG)
-
 * What happens to the center of gravity as the engine burns its fuel?
   (back of the rocket gets lighter, CG moves forward - as an example,
   take away clips from the end of the ruler/tube).
 
-===== Center of Pressure (CP)
+==== Center of Pressure (CP)
 
 * Center of pressure is like the center of gravity, but instead of using
   the mass of the rocket, it uses the surface area of the rocket.
@@ -92,33 +89,60 @@ Classroom/Lab
   A stable rocket should fly true. Unstable will fly backwards. Marginally
   stable will tumble.
 
-===== Hobby Building
+==== Hobby Building
 There's no "spare parts" for your rocket kit.
 Work slowly and carefully. Any mistake will have to be repaired.
 
-Plastic glues. Try to avoid breathing in the fumes.
-If it gets on your hands, immediately go wash.
-Never touch your face, mouth or eyes after handling the glue.
-Be sure to wash up after done using the glue.
+.Plastic Cement:
+* Avoid breathing in the fumes.
+** If you start to feel dizzy or light headed, talk to an adult so we can
+   take you outside and get some fresh air.
+* If you get it on your hands, immediately go wash.
+* Do not get glue in your mouth
+** If you do, find an adult. Do not make yourself throw up. We will call
+   the poison control center.
+* Do not get glue in your eyes
+** If you do, find an adult, we will have to wash your eye while holding
+   your eyelid open under running water for 15 minutes and call the poison
+   control center.
+* Never touch your face, mouth or eyes after handling the glue.
+** If you have some on your hands, this will cause ingestion or eye exposure.
+* Be sure to wash up well using soap and water after done using the glue in
+  case you did get a small amount of glue on your skin.
+* If you find your skin is getting irritated where you may have touched
+  the glue be sure to tell an adult.
+* If you get any of the symptoms after you go home, be sure to tell your
+  parents.
+* An adult must supervise your usage of the plastic cement at all times.
 
-Knife safety covered in last class. Adult helpers will manage the hobby
-knife at each table.
+.Hobby Knife:
+Knife safety was covered in the previous workshop
+(Rocketry Fundamentals: Cutting Knife Safety).
+Adult helpers will manage the hobby knife at each table. Remember only adults
+are allowed to take the plastic safety cap off the blade of the knife.
+An adult can only supervise use of one thing at a time, either the hobby knife
+or the plastic cement. If the adult is helping someone with the knife and you
+need to use the glue, please be patient and wait until they are done
+helping with the knife before you try to use the plastic cement.
 
-Drawing a straight line up and down a tube.
+.Lines on Cylinders:
+When building rockets, you often have to make straight lines on and around
+cylindrical tubes.
 
-Drawing a straight line around a tube.
+* How might you draw a straight line up and down a tube?
+** One trick is to fit the tube into the corner of a door jam and use the
+   straight edge to trace the line
+* How might you draw a straight line around the tube?
+** Cut off a strip from the edge of a piece of paper. Wrap the
+   strip tightly around the rocket body so it's straight and trace a line.
+* How might you mark out evenly spaced lines around the rocket body? For
+  instance for locating fins.
+** Fold the strip of paper into equal sections and make a mark at the creases.
+   Wrap the paper around the rocket body and transfer the marks from the
+   strip to the tube. Then draw straight lines on the tube at the marked points
+   using the door jam.
 
-
-.Teaming:
-Teams of 2-3 grouping younger and older student(s) together
-
-.Challenge:
-Placeholder
-
-.Class Inquiry:
-Placeholder
-
-.Further Challenges:
-Placeholder
+==== Rocket Build
+Distribute the rocket kits and oversee their construction.
 
 // vim: set syntax=asciidoc:

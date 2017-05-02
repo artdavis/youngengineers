@@ -143,7 +143,6 @@ gravity.
    significant compared to the force of gravity.
 
 ==== Cutting Knife Safety
-
 Let the class know that the activities are about to start.
 The first activity will require the use of a hobby knife.
 All cutting will be done under the direct supervision of an adult.
