@@ -102,12 +102,18 @@ include::workshops/monoculight.adoc[]
 include::workshops/computer_engineering.adoc[]
 
 = Rocket Club
+Additional references:
+
+* https://www.nasa.gov/audience/foreducators/rocketry/lessonplans/
 
 == Rocketry {counter:rockets}: Rocketry Fundamentals
 include::workshops//rocket_club/rocketry_fundamentals.adoc[]
 
 == Rocketry {counter:rockets}: First Rocket Build
 include::workshops//rocket_club/first_rocket_build.adoc[]
+
+== Rocketry {counter:rockets}: First Rocket Launch
+include::workshops//rocket_club/first_rocket_launch.adoc[]
 
 = Untested Workshops
 
