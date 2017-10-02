@@ -1,0 +1,53 @@
+=== First Rocket Launch
+.Disciplines:
+* Rocketry
+
+.Preparation:
+Prepare the field for the rocket launch.
+
+Put every student's name into a hat. To determine launch order
+pull names when the launchpad(s) are ready for the next student.
+
+.Resources:
+* http://www.nar.org/safety-information/model-rocket-safety-code/
+
+.Materials:
+* Completed rocket builds
+* Launchpad (base, launch rod, blast deflector)
+* High current battery
+* Launch control box
+* Appropriate rocket engines
+* Fire extinguisher
+
+.Location:
+Large outdoor field
+
+==== Prepare rockets
+Instruct students on rocket preparation.
+Be sure wadding and recovery system are pack properly.
+Engine and igniters are installed properly.
+
+==== Launch Controls
+* Make sure control box safety "Arm" switch is down in the off position.
+* Connect jumper cables to the control box (red is +, black is -)
+* Connect jumper cables to the battery (- terminal first)
+* Green safe lights come on on control box
+* Confirm safe launch conditions as per "Rocket Launch" section below.
+* Flip "Arm" switch up to the on position.
+* Armed red lights come on on the control box.
+* For launch, hold down the Launch button for several seconds until rocket
+  fires.
+* Flip the "Arm" switch back to the off position.
+* Disconnect the red + terminal from the BATTERY.
+* NEVER EVER touch the red and black jumper cable clips together.
+
+
+==== Rocket Launch
+* For D engines or below, everyone must be at least 15 feet away from the
+  launch pad.
+* Everyone must be paying attention to the launch.
+* Do not disengage the safety interlock until everyone is clear and prepared.
+* Count down loudly before launch.
+* If there is a misfire, wait a full minute before approaching the rocket.
+
+// vim: set syntax=asciidoc:
