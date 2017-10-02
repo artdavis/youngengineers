@@ -1,0 +1,72 @@
+=== Structural Engineering
+.Disciplines:
+* Mechanical Engineering
+* Structural Engineering
+* Statics
+
+.Resources:
+
+* https://www.teachengineering.org/activities/view/cub_intro_lesson01_activity1[Hands-on Activity: Shapes of Strength]
+* https://nj.pbslearningmedia.org/resource/phy03.sci.phys.mfw.lp_shapes/shapes-that-make-structures-strong/[Shapes That Make Structures Strong]
+* https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/[Building Big: Human Arch Mini-Activity]
+* https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumdome/[Building Big: Human Dome Mini-Activity]
+* https://nj.pbslearningmedia.org/asset/phy03_doc_lpastrawsh/[Building Big: Straw Shapes handout]
+
+.Materials:
+* Large ball (at least soccer ball size)
+* Straws
+* Paperclips
+
+.Class Discussion
+Shapes of Strength
+
+* Reference: https://www.teachengineering.org/activities/view/cub_intro_lesson01_activity1[Hands-on Activity: Shapes of Strength]
+** What makes buildings strong? Historical examples? (Pyramids, Parthenon)
+
+
+.Class Activities:
+Compression and Tension
+
+CAUTION: These activities have plenty of opportunity for the students to get up
+to mischief. Encourage safety and keep a watchful eye.
+
+* Reference: https://nj.pbslearningmedia.org/resource/phy03.sci.phys.mfw.lp_shapes/shapes-that-make-structures-strong/[Shapes That Make Structures Strong]
+** Have student pairs put their hands together palm to palm with arms extended.
+  Have them bend their arms at the elbow to experience compression.
+  What happens under compression when they move their hands closer together
+  or farther apart?
+** Now have the students clench each others hands starting with their elbows
+  bent and then extend their arms to experience tension. Now what happens as
+  they move their hands closer or farther apart?
+
+* Reference: https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/[Building Big: Human Arch Mini-Activity]
+** Circle 5 kids around a ball and have them lean in on the ball with one
+   arm extended. Have them slide their feet out as far as possible.
+** Now push down on the ball to "add weight". The kids feet will start to slip
+   out. How can the dome support more compression?
+** Add kids (buttresses) seated around the feet of the kids supporting
+   the ball (ribs).
+
+.Activity:
+Which shape is more stable?
+
+* Reference: https://nj.pbslearningmedia.org/asset/phy03_doc_lpastrawsh/[Building Big: Straw Shapes handout]
+** Inquire which shape will be more stable: triangles or squares.
+** Supply each group with straws and paper clips. If you have bendy straws,
+   cut off the bendy end of eachs straw.
+** Pairs of paper clips can be linked and a clip each inserted into a straw
+   end will link two straws. In this way build a square an triangular patterns.
+** Compare the different shape stability. By pressing down on the structures.
+   What are the failure modes? Brainstorm... (Buckling, Compression, Shear, Split)
+** Paperclips pushing in are under compression. Paperclips pulling out are
+   under tension.
+** How can the square be made more stable? (Connect a straw across the
+   diagonal to make a rhombus out of two trinagles).
+** Build a structure out of many straws and paperclips (possibly enforcing
+   a limit of 40 paperclips and 20 straws). Compete on maximum weight held.
+*** Structure should hold weight (books, awshers, etc) at least 2" above the
+    table surface.
+*** Multiple rounds. After first round have everyone compare there results and
+    learn what ideas worked and then move on to the next rounf.
+
+// vim: set syntax=asciidoc:

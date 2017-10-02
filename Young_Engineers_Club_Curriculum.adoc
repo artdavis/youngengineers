@@ -117,6 +117,9 @@ include::workshops//rocket_club/first_rocket_launch.adoc[]
 
 = Untested Workshops
 
+== Workshop {counter:workshop}: Structureal Engineering
+include::workshops/structural_engineering.adoc[]
+
 == Workshop {counter:workshop}: Siphon
 include::demos/siphon.adoc[]
 
