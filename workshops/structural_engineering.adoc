@@ -33,11 +33,12 @@ to mischief. Encourage safety and keep a watchful eye.
 * Reference: https://nj.pbslearningmedia.org/resource/phy03.sci.phys.mfw.lp_shapes/shapes-that-make-structures-strong/[Shapes That Make Structures Strong]
 ** Have student pairs put their hands together palm to palm with arms extended.
   Have them bend their arms at the elbow to experience compression.
-  What happens under compression when they move their hands closer together
-  or farther apart?
-** Now have the students clench each others hands starting with their elbows
-  bent and then extend their arms to experience tension. Now what happens as
-  they move their hands closer or farther apart?
+  What happens as they walk their feet further away from each other? Don't go
+  too far before their feet slip out.
+** Now have the students stand side by side and each grab one hand. Have
+   them lean away from each other to experience tension. Can they lean farther
+   when their feet are braced against each other vs. when they aren't?
+   Is it compression or tension forces against their feet?
 
 * Reference: https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/[Building Big: Human Arch Mini-Activity]
 ** Circle 5 kids around a ball and have them lean in on the ball with one
@@ -55,7 +56,8 @@ Which shape is more stable?
 ** Supply each group with straws and paper clips. If you have bendy straws,
    cut off the bendy end of eachs straw.
 ** Pairs of paper clips can be linked and a clip each inserted into a straw
-   end will link two straws. In this way build a square an triangular patterns.
+   end will link two straws. In this way build a square and triangular patterns.
+   It may help to illustrate the patterns on a white board.
 ** Compare the different shape stability. By pressing down on the structures.
    What are the failure modes? Brainstorm... (Buckling, Compression, Shear, Split)
 ** Paperclips pushing in are under compression. Paperclips pulling out are
@@ -64,9 +66,9 @@ Which shape is more stable?
    diagonal to make a rhombus out of two trinagles).
 ** Build a structure out of many straws and paperclips (possibly enforcing
    a limit of 40 paperclips and 20 straws). Compete on maximum weight held.
-*** Structure should hold weight (books, awshers, etc) at least 2" above the
+*** Structure should hold weight (books, washers, etc) at least 2" above the
     table surface.
 *** Multiple rounds. After first round have everyone compare there results and
-    learn what ideas worked and then move on to the next rounf.
+    learn what ideas worked and then move on to the next round.
 
 // vim: set syntax=asciidoc:
