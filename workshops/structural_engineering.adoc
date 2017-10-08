@@ -43,10 +43,20 @@ to mischief. Encourage safety and keep a watchful eye.
 * Reference: https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/[Building Big: Human Arch Mini-Activity]
 ** Circle 5 kids around a ball and have them lean in on the ball with one
    arm extended. Have them slide their feet out as far as possible.
+*** This may not work if the floor is not sufficiently smooth. Also it may
+    work better if the students take their shoes off so they can slide easier
+    with their socks.
 ** Now push down on the ball to "add weight". The kids feet will start to slip
    out. How can the dome support more compression?
 ** Add kids (buttresses) seated around the feet of the kids supporting
    the ball (ribs).
+
+* What materials are good under compression? (rigid materials, stone, brick, wood)
+* What materials are good under tensions? (rope, cables)
+** Are ropes and cables good under compression?
+
+* Draw figures on the board representing buckling, crushing, shearing, splitting
+** Have the students try to identify the name of the failure in each figure.
 
 .Activity:
 Which shape is more stable?
@@ -59,7 +69,7 @@ Which shape is more stable?
    end will link two straws. In this way build a square and triangular patterns.
    It may help to illustrate the patterns on a white board.
 ** Compare the different shape stability. By pressing down on the structures.
-   What are the failure modes? Brainstorm... (Buckling, Compression, Shear, Split)
+   What are the failure modes? Brainstorm... (Buckling, Crushing, Shear, Split)
 ** Paperclips pushing in are under compression. Paperclips pulling out are
    under tension.
 ** How can the square be made more stable? (Connect a straw across the
