@@ -78,7 +78,7 @@ Which shape is more stable?
    a limit of 40 paperclips and 20 straws). Compete on maximum weight held.
 *** Structure should hold weight (books, washers, etc) at least 2" above the
     table surface.
-*** Multiple rounds. After first round have everyone compare there results and
+*** Multiple rounds. After first round have everyone compare their results and
     learn what ideas worked and then move on to the next round.
 
 // vim: set syntax=asciidoc:

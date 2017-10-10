@@ -1,0 +1,120 @@
+=== 3D Printing
+.Disciplines:
+* Chemical Engineering
+* Mechanical Engineering
+
+.Resources:
+
+.Materials:
+* Hot glue gun and glue sticks for each student/team
+* 608 ball bearings (22mm diam ball bearings)
+** Quality and price varies widely and better bearings will make better spinners
+* M8-1.25 Hex Nuts or similar
+
+.Preparation
+* Print and cut out the fidget spinner templates. The central circle and
+  hexagonal shapes on the 3 arms should also be trimmed out using a blade.
+  If you have sufficient time and supervision, students may do the cutting.
+
+.Warmup:
+Have some example 3D Printed parts available for the students to play with.
+What discernible features can they notice and describe?
+
+.Topic Introduction:
+
+* Who knows what 3D Printing is?
+
+* What are the different kinds of 3D Printing?
+** SLA/DLP - Stereolithograph and Dligital Light Processing
+*** Light is used to cure/harden layer by layer
+** FDM - Fused deposition modeling
+*** Most common consumer printers
+*** Plastic filament pressed into a hot nozzle and melted. Plastic is
+    deposited layer by layer to build up the part.
+* SLS/SLM - Selective Laser Sintering/Melting
+** High power laser scans over matallic powder and either fuses (sintering)
+   or melts the particles layer by layer to form the part.
+
+* Notice how the technology typically works by building a part up, layer
+  by layer. Imagine (or demonstrate) cutting an apple up into slices.  Build
+  the apple back up by stacking the layers on top of each other.
+
+* Draw some sample shapes and how they will slice up
+** Cube - Easy to print. What does each layer cross section look like?
+   (squares)
+** Cone - Easy to print. Layers? (Progressively smaller circles)
+** Sphere - Difficult to print. Layers (Small to large to small circles).
+*** Difficult to print large circles on top of small circles.
+*** Any way to make easier? (Print two hemispheres and put them together)
+** Standing candy cane - Can't print without "support". Nothing for the end of
+   the cane to hold it up
+*** Can think of a way to print the candy cane? (print it on its side)
+** Can the class think of some other object shape limitations?
+
+* Draw a block diagram to illustrate the process of 3D Printing
+** DESIGN (or download) 3D Model. What kind of software do you think is used?
+   (CAD - Computer Aided Design)
+** SLICE the CAD model. Turn the 3D model into flat layers so that the 3D
+   printer can build it up.
+** PRINT. The sliced model is sent to the printer 1 layer at a time.
+
+* The most common consumer 3D printers are FDM printers
+  (Fused Deposition Modeling).
+** Plastic filament is pressed into a hot nozzle and melted. Plastic is
+    deposited layer by layer to build up the part.
+** What every day crafty thing can you think of that works like the hot nozzle
+   of an FDM printer? (glue guns)
+** How do you imagine you could make a flat solid layer with a glue gun?
+   (outline the perimeter and then go back and fill-in the inside).
+
+WARNING: Review Glue Gun Safety
+Ref: https://www.gluegunsdirect.com/service-and-advice/glue-gun-safety-advice/
+* Do not horseplay. Unsafe users will not be able to use glue guns and will
+  have them taken away.
+* Do not get your face close to the glue gun or hot glue.
+  * If the fumes bother you, get some fresh air
+  * If you get it in your eyes, rinse with cold water and have an adult seek
+    medical attention for you.
+  * If you ingest hot glue, do not throw up. Drink lots of water and have an
+    adult seek medical attention for you.
+* Do not touch the molten glue. If you get it on your skin, immediately run
+  cold water over it. Ask an adult to help with removal (using olive oil or
+  liquid paraffin cotton pad).
+* Wear safety glasses
+* Don't touch or touch anything else with the hot nozzle tip.
+* Give the glueing work your full attention at all times.
+* Place the glue gun down safely so the hot tip is not in contact with anything
+* Always unplug the glue gun when your are done
+* Make sure to work on a surface that hot glue can drip on safely.
+
+.Activity
+
+Manually 3D Print a fidget spinner using a glue gun
+
+* Decorate a fidget spinner paper template as you like.
+* Cut out the paper template including central circular hole and 3 hexagons
+  on the arms if not already trimmed.
+* Place a ball bearing on the center hole and 3 hexnuts over the hexagonal
+  shapes on the arms.
+* Use a glue gun to trace the perimeters of the bearing and nuts which should
+  affix them to the paper template.
+* Apply a bead of glue around the outside perimeter of the template.
+* Apply the "infill" by systematically filling in the spaces between the
+  perimeter glue beads.
+
+NOTE: Make sure to to apply an equal amount of glue to each arm of the template
+so that the spinner will be in balance. A poorly balance spinner will not
+spin well.
+
+* Repeat this process again 1 layer at a time until the glue thickness equals
+  the thickness of the bearing and the hex nuts.
+* Allow several minutes for the glue to cool
+* Pluck off any extra strands of glue
+* Spin your spinner!
+
+Two 4in. length glue sticks should be enough to make 1 spinner.
+
+The central bearing may be popped out and replaced and/or used for making
+a new spinner.
+
+
