@@ -32,7 +32,7 @@ What discernible features can they notice and describe?
 *** Plastic filament pressed into a hot nozzle and melted. Plastic is
     deposited layer by layer to build up the part.
 * SLS/SLM - Selective Laser Sintering/Melting
-** High power laser scans over matallic powder and either fuses (sintering)
+** High power laser scans over metallic powder and either fuses (sintering)
    or melts the particles layer by layer to form the part.
 
 * Notice how the technology typically works by building a part up, layer
@@ -68,6 +68,7 @@ What discernible features can they notice and describe?
    (outline the perimeter and then go back and fill-in the inside).
 
 WARNING: Review Glue Gun Safety
+
 Ref: https://www.gluegunsdirect.com/service-and-advice/glue-gun-safety-advice/
 * Do not horseplay. Unsafe users will not be able to use glue guns and will
   have them taken away.
@@ -103,7 +104,7 @@ Manually 3D Print a fidget spinner using a glue gun
   perimeter glue beads.
 
 NOTE: Make sure to to apply an equal amount of glue to each arm of the template
-so that the spinner will be in balance. A poorly balance spinner will not
+so that the spinner will be in balance. A poorly balanced spinner will not
 spin well.
 
 * Repeat this process again 1 layer at a time until the glue thickness equals
