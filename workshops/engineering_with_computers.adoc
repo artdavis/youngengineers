@@ -1,0 +1,53 @@
+=== Engineering with Computers
+.Disciplines:
+* Interdisciplinary
+
+.Materials:
+* 1 laptop per 1-2 students
+* Ubermix Linux operating system
+** http://www.ubermix.org/
+
+.Location:
+Large room with computers available at each table
+
+.Preparation:
+Install `ubermix` on all of the computers. Alternatively acquire enough
+USB keys to have the students do it as part of the workshop.
+
+.Topic Introduction
+* What is Computer Engineering?
+** Electrical Engineering and Computer Science for the development of computer
+   hardware and software.
+* Is all Engineering using a computer considered Computer Engineering?
+* What other types of Engineering can a computer be used for?
+** Pretty much everything.
+
+* Make a large table on the whiteboard with the following three headings:
+** Communication, Simulation, Automation
+** Solicit examples for putting under each heading.
+** Communication: Reports, Graphics, Figures, Emails, Collaboration,
+                  Sofrware Distribution, Technical Drawings (CAD)
+** Design/Simulation: Computer Aided Design (CAD),
+                      Finite Element Analysis (FEA),
+                      Physical, Chemical, Electrical, Optical, Meteorlogical,
+                      Aerospace, Cosmological
+** Automation: Computer Aided Manufacturing (CAM), Numerical Processing,
+               Scripting
+
+.Challenges:
+1. Communication
+* Use Tux Paint (under Graphics) to make an "Engineering Communication"
+** Examples: structural drawings, engineering concepts
+** More advanced students may explore Gimp, Inkscape and/or LibreCAD
+
+2. Design/Simulation
+* Explore physics simulation with Numpty physics (under Games)
+* Explore simulation programs in Scratch (under Programming)
+** File -> Open -> Examples
+
+3. Automation
+* Write a Scratch program to count to 100 by 5's
+* Write a Scratch program to count almost to 100 but not past by 6's
+* Slow down the count so it's readable
+* Draw a square with Scratch
+* Draw a triangle, circle, spiral
