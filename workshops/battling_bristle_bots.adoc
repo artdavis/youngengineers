@@ -1,0 +1,42 @@
+=== Battling Bristle Bots
+.Disciplines:
+* Robotic Engineering
+* Electrical Engineering
+
+.Materials:
+Per Student
+* Toothbrushes
+* Pager Motors
+* 3D Printed Parts
+* CR2032 Batteries
+
+.Preparation:
+3D print enough bristle bot bodies for the class.
+
+.Topic Introduction:
+Demonstrate the design process
+* Inspiration research
+* Preliminary prototyping
+* Incremental iteration
+* 3D Printing
+* Circuit/motor demonstration for instance using snap circuits
+
+Demonstrate how a closed curcuit with an electric motor causes the
+motor to turn.
+
+Walk through the prototype process:
+* Hot glue motor and battery onto toothbrush
+  - Kept falling over. Ideas to fix?
+    - Needs to be balanced
+* Iterations on 3D Printed parts
+  - First getting toothbrush to fit
+  - Ridges to capture toothbrush
+  - Features to hold motor and battery
+  - Feature for routing wires
+  - Features to hold custom add-ons
+* Solicit any theories on how the bristlebot locomotion works
+  - Demonstrate what happens if bristles are bent one way or the other.
+
+.Challenge:
+Construct and customize a Bristle Bot then pit them against the bots built
+by your classmates.

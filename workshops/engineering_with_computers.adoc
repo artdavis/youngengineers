@@ -14,7 +14,7 @@ Large room with computers available at each table
 Install `ubermix` on all of the computers. Alternatively acquire enough
 USB keys to have the students do it as part of the workshop.
 
-.Topic Introduction
+.Topic Introduction:
 * What is Computer Engineering?
 ** Electrical Engineering and Computer Science for the development of computer
    hardware and software.
@@ -26,7 +26,7 @@ USB keys to have the students do it as part of the workshop.
 ** Communication, Simulation, Automation
 ** Solicit examples for putting under each heading.
 ** Communication: Reports, Graphics, Figures, Emails, Collaboration,
-                  Sofrware Distribution, Technical Drawings (CAD)
+                  Software Distribution, Technical Drawings (CAD)
 ** Design/Simulation: Computer Aided Design (CAD),
                       Finite Element Analysis (FEA),
                       Physical, Chemical, Electrical, Optical, Meteorlogical,
