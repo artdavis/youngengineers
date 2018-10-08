@@ -101,6 +101,11 @@ include::workshops/monoculight.adoc[]
 == Workshop {counter:workshop}: Computer Engineering
 include::workshops/computer_engineering.adoc[]
 
+== Workshop {counter:workshop}: Battling Bristle Bots
+Battling Robots design, build and tournament
+include::workshops/battling_bristle_bots.adoc[]
+
+
 = Rocket Club
 Additional references:
 
@@ -194,9 +199,6 @@ best decorated rocket, craziest flight pattern
 
 == Workshop {counter:workshop}: Raspberry Pi Computer
 Raspberry Pi
-
-== Workshop {counter:workshop}: Battling Robots Design, Build and Tournament
-Battling Robots design, build and tournament
 
 == Workshop {counter:workshop}: Engineering Showdown Games
 Engineering Showdown Games. Paper airplane challenge, egg toss etc.
