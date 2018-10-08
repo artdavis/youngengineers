@@ -103,6 +103,7 @@ include::workshops/computer_engineering.adoc[]
 
 == Workshop {counter:workshop}: Battling Bristle Bots
 Battling Robots design, build and tournament
+
 include::workshops/battling_bristle_bots.adoc[]
 
 
