@@ -10,6 +10,10 @@ Per Student
 * 3D Printed Parts
 * CR2032 Batteries
 
+.Safety:
+* If you or a sibling swallow a batter or motor, tell
+  your parents and go straight to the Emergency Room.
+
 .Preparation:
 3D print enough bristle bot bodies for the class.
 
@@ -21,6 +25,15 @@ Demonstrate the design process
 * 3D Printing
 * Circuit/motor demonstration for instance using snap circuits
 
+Components of a robot:
+* Sensors
+* Control System
+* End Effector
+* (Actuator/Manipulator/Arm)
+* (Body)
+* (Power Supply)
+* (Drive system)
+
 Demonstrate how a closed curcuit with an electric motor causes the
 motor to turn.
 
@@ -29,6 +42,7 @@ Walk through the prototype process:
   - Kept falling over. Ideas to fix?
     - Needs to be balanced
 * Iterations on 3D Printed parts
+  - See if class can arrange prototypes in developmental order.
   - First getting toothbrush to fit
   - Ridges to capture toothbrush
   - Features to hold motor and battery

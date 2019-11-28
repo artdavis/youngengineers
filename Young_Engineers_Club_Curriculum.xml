@@ -1,0 +1,4632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<book lang="en">
+<bookinfo>
+    <title>Young Engineers Club Curriculum</title>
+    <date>2016-04-22</date>
+    <author>
+        <firstname>Arthur</firstname>
+        <surname>Davis</surname>
+        <email>art.davis@gmail.com</email>
+    </author>
+    <authorinitials>AD</authorinitials>
+<revhistory><revision><revnumber>0.3</revnumber><date>2016-04-22</date><authorinitials>AD</authorinitials></revision></revhistory>
+</bookinfo>
+<preface id="_introduction">
+<title>Introduction</title>
+<simpara>Traditionally, education in the field of engineering is not made available to
+students until they reach the college level. Even though primary school
+students may not be prepared to handle the advanced science and mathematics
+that are the typical domain of the engineering disciplines it&#8217;s never too early
+to apply engineering principles to solving problems.</simpara>
+<simpara>The Young Engineers Club is open to all ages attending the Saratoga Independent
+School and will expose students to engineering fundamentals on a level they
+will find engaging and fun.</simpara>
+<simpara>Each club meeting will briefly introduce an engineering discipline and then
+pose an open ended engineering challenge in that realm.  Sometimes the whole
+club will work together to solve a problem, other times we will break out in to
+teams for some friendly competition. This self-directed problem based
+approach is an enjoyable way to foster engineering fundamentals such as
+innovation and original thought.</simpara>
+<simpara>Engineering areas that we&#8217;ll be exploring include: Acoustical, Aerospace,
+Architectural, Biomedical, Chemical, Computer Aided Design, Electrical,
+Mechanical, Naval, Optical, Robotics, Rocketry, Software and more.  As the
+school year progresses, club members will add skills from earlier topics to
+their toolkit which they may bring to bear for solving more interdisciplinary
+challenges. If students develop an affinity to certain activities then we&#8217;ll
+find ways to incorporate those activities into the various subjects that we
+cover. We&#8217;ll also include tangential topics based on student interest.</simpara>
+<simpara>Club members will be using tools that may typically be labeled "Keep out of
+reach of children" (e.g. cordless drill, soldering iron, etc.). We&#8217;ll be sure
+to closely supervise as necessary but also promote empowering students to use
+tools safely and effectively. On days where we use tools we&#8217;ll always start out
+by emphasizing safety procedures and make sure participants are wearing
+appropriate safety gear. Additional precautions will be taken based on age.</simpara>
+<simpara>Occasionally we may ask students to bring in craft supplies, various
+recyclables or broken gadgets from home for use in the club. If you have a
+technological household item that you are going to throw away, consider hanging
+on to it to send in when called for so that we can explore some reverse
+engineering and disassembling skills.</simpara>
+<simpara>Club meetings will be weekly occurring after school on Tuesdays. Parents are
+welcome to attend meetings to help with organization and safety but remember,
+please try to participate only as a passive resource. The process of trying to
+solve a problem without boundary is part of the joy of engineering. As
+difficult as it may be to watch your child try to do something the "wrong" way,
+this more often than not can lead to a very clever solution that you will find
+wonderfully surprising.</simpara>
+<simpara>Finally, we may plan an occasional weekend meet up at local events that are of
+interest to the club (for example, FIRST LEGO tournament).</simpara>
+<formalpara><title>Optional Materials</title><para>Some optional materials you may consider supplying for your child include:</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Safety Glasses. We will have safety glasses on hand for
+  every club member. But if preferred, students may bring in their own safety
+  glasses. Please be sure they are labeled with their name. Alternatively if
+  your child wears prescription glasses you may find compatible clip on side
+  shields.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Engineering Notebook. Keeping an engineering notebook is not required, but
+  older students may want to keep one. Exactly what to use for an engineering
+  notebook is a matter of personal preference. Typically graph paper type
+  stationary is used (for instance, an engineering computation notepad and a 1"
+  3 ring binder).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Tools. We&#8217;ll have tools on hand for projects as needed though students are
+  welcome to bring their own tools if available. A minimum tool set would be a
+  small toolbox that includes Phillips and common blade screwdrivers, slip
+  joint pliers, needle nose pliers, a ruler, a tape measure and diagonal
+  cutters.  Please clearly label everything with the student&#8217;s name.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Broken gadgets. Remember to keep an eye out for things that can be sent
+  in for disassembly. Our reverse engineering workshop is planned for early
+  January. Whatever you send in, be sure it&#8217;s disposable as it will be
+  thoroughly unusable once we&#8217;re done with it.
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Also please check with your child after each meetup for any additional
+preparation requests for the following week&#8217;s club meeting. I will provide
+handouts with any additional supplies or actions requested as necessary.</simpara>
+<section id="_materials">
+<title>Materials</title>
+<simpara>Required materials are listed within each workshop decription.
+Alternative supplies may be substituted or often you can improvise
+around not having supplies by adjusting the workshop activities.</simpara>
+</section>
+</preface>
+<part id="_curriculum_workshops">
+<title>Curriculum Workshops</title>
+<chapter id="_workshop_1_what_is_engineering">
+<title>Workshop 1: What is Engineering?</title>
+<sidebar>
+<simpara>Feedback rating: 3.1/5</simpara>
+</sidebar>
+<section id="_what_is_engineering">
+<title>What is Engineering?</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Engineering Fundamentals
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+What&#8217;s an Engineer? Crash Course Kids
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=owHF9iLyxic">https://www.youtube.com/watch?v=owHF9iLyxic</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Engineering Process
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=fxJWin195kU">https://www.youtube.com/watch?v=fxJWin195kU</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Philosophy:</title><para>For this and all ensuing workshops, prioritize allowing the students to steer the direction.
+These workshops are guidelines for providing a medium for exploration but there&#8217;s no need to hold fast to them.
+If the class is motivated to do something totally different, encourage this even if it&#8217;s not part of the plan.</para></formalpara>
+<simpara>For reference, Wikipedia defines Engineering as follows, (there&#8217;s no need to actually read this to the class, but it may be helpful in case you get a few pedantic inquires):</simpara>
+<blockquote>
+<attribution>
+Wikipedia
+<citetitle>Engineering</citetitle>
+</attribution>
+<simpara>Engineering is the application of mathematics, empirical evidence and
+scientific, economic, social, and practical knowledge in order to invent,
+innovate, design, build, maintain, research, and improve structures, machines,
+tools, systems, components, materials, processes and organizations.</simpara>
+<simpara>The discipline of engineering is extremely broad, and encompasses a range of
+more specialized fields of engineering, each with a more specific emphasis on
+particular areas of applied science, technology and types of application.</simpara>
+<simpara>The term Engineering is derived from the Latin ingenium, meaning "cleverness"
+and ingeniare, meaning "to contrive, devise".</simpara>
+</blockquote>
+<simpara>In short: Engineering is the application of knowledge to invent, design and
+build systems.</simpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf">http://www.mechatronics-mec.org/downloads/Engineering%20Notebook08.pdf</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large whiteboard and dry erase markers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Tape (e.g. masking tape that will be easily removable from whiteboard)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Index cards
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computer workstation with internet access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Make Magazines and/or similar
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Various gears and other engineering like gizmos
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ruler
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Various stickers and coloring sheets of technical items for students
+  to choose for personalizing their engineering notebooks. Example
+  coloring sheet ideas:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Gears, pulleys, clocks, Rube Goldberg
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Vehicles: automotive, nautical, construction equipment, aerospace
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Instrumentation
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Drafting symbols/stickers
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Indoor classroom/lab environment</para></formalpara>
+<formalpara><title>Preparation:</title><para>Write the challenge "What is engineering?" on the board.</para></formalpara>
+<simpara>Draw five large circles on the board. At the top of each circle write each of
+the following categories:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Mechanical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Chemical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Civil
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Electrical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Software
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Interdisciplinary
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>For reference here are some definitions:</simpara>
+<blockquote>
+<attribution>
+Wikipedia
+<citetitle>List of engineering branches</citetitle>
+</attribution>
+<variablelist>
+<varlistentry>
+<term>
+Mechanical engineering
+</term>
+<listitem>
+<simpara>
+is the discipline that applies the principles of engineering, physics, and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery. It is one of the oldest and broadest of the engineering disciplines.
+</simpara>
+</listitem>
+</varlistentry>
+<varlistentry>
+<term>
+Chemical engineering
+</term>
+<listitem>
+<simpara>
+is a branch of engineering that applies physical sciences (physics and chemistry) and life sciences (microbiology and biochemistry) together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy. Essentially, chemical engineers design large-scale processes that convert chemicals, raw materials, living cells, microorganisms and energy into useful forms and products.
+</simpara>
+</listitem>
+</varlistentry>
+<varlistentry>
+<term>
+Civil engineering
+</term>
+<listitem>
+<simpara>
+is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, canals, dams, and buildings.
+</simpara>
+</listitem>
+</varlistentry>
+<varlistentry>
+<term>
+Electrical engineering
+</term>
+<listitem>
+<simpara>
+comprises the study and application of electricity,
+electronics, and electromagnetism.
+</simpara>
+</listitem>
+</varlistentry>
+<varlistentry>
+<term>
+Software engineering
+</term>
+<listitem>
+<simpara>
+is the application of engineering to the design, development, implementation and maintenance of software in a systematic method.
+</simpara>
+</listitem>
+</varlistentry>
+</variablelist>
+</blockquote>
+<simpara>Wikipedia classifies the sub-disciplines as follows:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Civil
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Architectural, Construction, Earthquake, Hydraulic, Mining, Structural,
+   Geotechnical, Transportation, Environmental
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Mechanical
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Aerospace, Acoustical, Automotive, Marine, Mechatronics, Railway
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Electrical
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Computer, Control, Electronics, Electromechanics, Optical, Power,
+   Photonics, Telecommunications, Radio Frequency
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Chemical
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Biochemical, Biological, Molecular, Nanotechnology, Process, Reaction,
+   Thermodynamics, Transport phenomena
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Interdisciplinary
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Audio, Engineering mathematics, Biomedical, Fire, Industrial,
+   Materials science, Robotics, Military, Nuclear, Security, Systems, Privacy
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<simpara>Distribute the gears/gizmos, magazines and index cards across all the classroom
+tables.  Don&#8217;t offer direction one way or another whether the kids are allowed
+to touch these things. When they do start playing/reading don&#8217;t make them stop
+when you move on to new activities.</simpara>
+<simpara>Have a computer workstation set up and pointing at the webpage: <ulink url="http://spacefem.com/quizzes/engineer">http://spacefem.com/quizzes/engineer</ulink> .
+During the challenge allow students to individually come up and take the quiz (with assistance if necessary).
+If you have engineering notebooks, have them log their results.</simpara>
+<simpara>Consider starting the meeting seated among the students: "So, who&#8217;s going to teach us today?".
+If there are any volunteers, see where it goes before taking formal charge.</simpara>
+<note>
+<title>Engineering Notebook (Optional)</title>
+<simpara>Have the students assemble an Engineering Notebook. Notify club members before
+this first meeting to bring the necessary notebook supplies.  They can use a
+notebook of their own choice suitable to their tastes (spiral bound,
+composition, binder, pocket folder with brads, etc.). Absent any strong student
+preference though, suggest a 1" 3 ring binder with 3-hole filler graph or
+engineering pad paper.  This way paper can be used for scratch work as
+necessary while archival worthy pages can be placed in the binder.
+Encourage doodling in their notebooks</simpara>
+<simpara>A good engineering notebook is a valuable tool to a practicing engineer
+but assigning too much importance to it here may be of minimal value.
+Especially if it gets in the way of the creative process. It may be better to
+instead have a class notebook/binder that students can take turns writing in or
+that students can submit reports to.</simpara>
+</note>
+<formalpara><title>Challenge:</title><para>Pose the question "What is engineering?".
+Allow the discussion to be driven by the students.
+Invite the students to write down or draw something on the index cards that they think has to do with engineering.
+Let them make as many index cards as they want.</para></formalpara>
+<simpara>Also create cards (optionally extra large) with your own selection of engineering disciplines.
+My choices include: Acoustical, Aerospace, Architectural, Automotive, Biomedical, Chemical, Civil, Computer Aided, Electrical, Manufacturing, Marine, Mechanical, Optical, Robotic, Software.</simpara>
+<simpara>Have the students tape their cards into as many of the 5 category circles drawn up on the board.
+For example an Automotive engineering card might well be placed in each of the circles whereas the gears would likely only be placed in the Mechanical circle.</simpara>
+<simpara>Based on the results illustrate some Venn diagrams for various disciplines.
+Ask the students to pick some of their favorite cards and try to identify a discipline that they like.</simpara>
+<formalpara><title>Optional notebook activity</title><para>Have the students log their favorite discipline in their notebook and compare that to their quiz results.
+Have them put their name and date on the page.</para></formalpara>
+<simpara>Redistribute the notebooks so everyone has somebody else&#8217;s notebook.
+Invite the students to report on whose notebook they got and what kind of engineer their colleague is.
+As a "peer review" then they can sign and date their name at the bottom of the page and return the notebook to the owner.</simpara>
+<section id="_additional_activities">
+<title>Additional activities</title>
+<simpara>Optionally bring the <xref linkend="straw_rocket"/> materials as an additional activity for students.</simpara>
+<simpara>Make worksheets that the students can populate Venn diagrams themselves.
+Make 1" - 1.5" diameter circular icon images on a printed page that can be punched out with a 1" - 1.5" punch.
+Each image can be an engineering related picture/term.
+The graphics can be line art and the students can be encouraged to color them as they please.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Gears: mechanical, automotive
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computer workstation: software and all disciplines
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Iconic lab glassware: chemical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Optics, Laser: optical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rocket, airplane: aerospace
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Heart: biomedical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Eyeball: biomedical optics
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Boat, Dam: Marine, mechanical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Robot: electrical, software robotic
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Assembly line: manufacturing
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bridge: civil, mechanical, architectural
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computer chip: electrical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+skyscraper building: architectural, mechanical
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+electrical symbols: resistor, capacitor, power supply, opamp etc
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+drafting symbols: centerline, dimensional callout etc
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Also have some blank disks for the kids to draw their own pictures/terms
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</chapter>
+<chapter id="_workshop_2_straw_rockets">
+<title>Workshop 2: Straw Rockets</title>
+<sidebar>
+<simpara>Run with "What is Engineering?" workshop.</simpara>
+<simpara>Feedback rating: 3.1/5</simpara>
+</sidebar>
+<section id="_straw_rocket">
+<title>Straw Rocket</title>
+<simpara id="straw_rocket" xreflabel="Straw Rocket">This demonstration can just as well be repurposed as a full class
+activity.</simpara>
+<formalpara><title>Attribution</title><para>This rocket design is inspired by "Stefan" type Nerf darts:
+<ulink url="http://nerf.wikia.com/wiki/Stefan">http://nerf.wikia.com/wiki/Stefan</ulink></para></formalpara>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Aerospace Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/">http://buggyandbuddy.com/straw-rockets-with-free-rocket-template/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.pleasantestthing.com/make-straw-rockets">http://www.pleasantestthing.com/make-straw-rockets</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./">http://www.instructables.com/id/Make-your-own-Nerf-darts.-AKA%3A-Stefans./</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=_kJodRNFphE">https://www.youtube.com/watch?v=_kJodRNFphE</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Whiteboard
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Straw
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+5/8" Foam Backer Rod
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Business cards or thick index cards
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+3D Printed parts from: www.thingiverse.com/thing:1782060
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Optional: squishy bottle (a bottle that will survive stomping on and return to it&#8217;s original shape)
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Large room or auditorium where all students have a good view.</para></formalpara>
+<itemizedlist><title>Preparation:</title>
+<listitem>
+<simpara>
+3D Print the <literal>Forming-Rod</literal> in a rigid material such as PLA
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The <literal>Straw-Holder</literal> and <literal>bottle-tube-coupler</literal> are optional.
+  Print these parts if you want to connect the straw to a squeeze bottle for launching.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Print <literal>Fin-Holder</literal> and <literal>nosecone-plug</literal> in your material of choice.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Test the fit of a card in the slots of the <literal>Fin-Holder</literal>.
+   Use a blade to clean out the slots for a good fit if necessary.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Preferably print <literal>nose-ogive</literal> in a flex material for safety.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Push the <literal>nose-ogive</literal> part onto the slotted side of the <literal>nosecone-plug</literal>.
+  The friction fit should be sufficient or you may use glue if needed.
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Challenge:</title><para>"Design, Build and Launch a Rocket"</para></formalpara>
+<itemizedlist><title>Demonstration</title>
+<listitem>
+<simpara>
+Inquire of the group what are the parts of a rocket.
+  Draw the parts on the whiteboard as they give them to you.
+  Keep going until you get the key components:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Body tube
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Fins
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Nosecone
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Engine
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+For the body tube, cut a 3" (75mm) length of 5/8" foam backer rod.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Use the 3D printed "Forming-Rod" to core a hole through the foam.
+  Coring half way through from each side works well.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatively a straw that has been cut with serrations may be used, but the 3D printed rigid tool is much more effective.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Ask for ideas for how to make the nosecone.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Introduce the 3D printed nosecone assembly and attach that to one end of the foam body tube.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatives to the 3D printed nosecone might include a shaped piece of clay, candy corn or card stock formed into a cone.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Announce that you plan to make the fins out of some business/index cards.
+  Ask how you might cut 3 exactly identical fins.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stack three cards together and cut a fin shape of choice about 1" (25mm) in length.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask how to attach the fins to the body tube.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Slide the fin-holder onto the rocket body and attach the fins.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you don&#8217;t have the 3D fin-holder it should be possible to glue or tape the fins on.
+   You may try scoring three a shallow slits in the foam body or folding the root edge of the fins to help attach them.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Inquire for ideas about what to use for an engine.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bring out the straw and say that we&#8217;ll use the straw as the engine.
+  Slide the rocket on to the long end.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Have the class do a countdown and on "blastoff" put the straw in your ear.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Everyone should offer the suggestion that you need to blow into the straw.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Do another countdown and blow into the straw like your saying "Ha" without closing your mouth around it.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+OK, this time for real, countdown an launch the rocket.
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Optional</title><para>If you&#8217;ve got a squishy bottle you can make a more powerful launcher.
+You&#8217;ll just need a proper sized coupling to connect the bottle to the straw.
+The default bottle tube coupler included with on the thingiverse page will fit a 16mm diameter bottle opening.</para></formalpara>
+<note><simpara>TODO: create a customizer for this to fit any bottle size.</simpara></note>
+<itemizedlist>
+<listitem>
+<simpara>
+Slide the Straw-Holder onto the straw to secure it at a 90° angle.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Connect the bottle and the straw together using the coupler.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Get a volunteer to stomp on the bottle and launch the rocket after the
+  class does the countdown.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_3_unsinkable_boat">
+<title>Workshop 3: Unsinkable Boat</title>
+<sidebar>
+<simpara>Feedback rating: 4.4/5</simpara>
+</sidebar>
+<section id="_unsinkable_boat">
+<title>Unsinkable Boat</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/parentseducators/resources/watercraft.html">http://pbskids.org/designsquad/parentseducators/resources/watercraft.html</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_Watercraft.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/build/watercraft/">http://pbskids.org/designsquad/build/watercraft/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+50 plastic straws per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+1 roll of tape per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+25 pennies
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+1 paper cup per team
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic Wrap
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Additional coins/washers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Digital scale (or triple balance scale)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Internet Media Access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+golf ball
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+ping pong ball
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Clay
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Inside or outside on a warm day.</para></formalpara>
+<formalpara><title>Preparation:</title><para>Fill the tub with water.</para></formalpara>
+<itemizedlist><title>Facilitator notes</title>
+<listitem>
+<simpara>
+Buoyancy is the force of the water against the boat
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+An object that floats displaces it&#8217;s equal weight in water
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Increasing surface area will increase water displacement and increase buoyancy
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Demonstration:</title><para>Show the first 6.5 minutes of the Bill Nye video:</para></formalpara>
+<simpara><ulink url="https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy">https://www.schooltube.com/video/7100de854a0a40fead91/Bill%20Nye%20-%20Buoyancy</ulink></simpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+<formalpara><title>Challenge:</title><para>Build a boat that can hold 25 pennies for at least 10 seconds before sinking</para></formalpara>
+<simpara>Discuss buoyancy. Inquire for some items to float test and try them.
+Demonstrate the golf ball and ping pong ball buoyancy.</simpara>
+<simpara>Use a balled up blob of modeling clay that is about the same size as the golf ball.
+Demonstrate that it sinks.
+Reshape it to a boat shape and demonstrate that it floats.</simpara>
+<simpara>Discuss the challenge and the provided materials to the class.
+Allow them to come up with some ideas in an open discussion ahead of time.
+Have them draw some sketches for their ideas.</simpara>
+<simpara>Give each team tape, straws, a sheet of plastic wrap and a cup.
+The cups are there as a vessel for holding the pennies (but don&#8217;t discourage students if they decide to use them in other creative ways).
+For those interested, try adding additional weight (coins and/or washers) to see how much their boats can take before sinking.</simpara>
+<simpara>Students can weigh the coins/washers their boat held and log it in their notebook.
+If the scale is sensitive enough they might also weigh their boat.</simpara>
+</section>
+</chapter>
+<chapter id="_workshop_4_spooky_engineering">
+<title>Workshop 4: Spooky Engineering</title>
+<sidebar>
+<simpara>Feedback rating: 4.3/5</simpara>
+</sidebar>
+<section id="_spooky_engineering">
+<title>Spooky Engineering</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Chemical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas">http://www.weareteachers.com/blogs/post/2013/09/17/spooky-science-ideas</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/">http://www.science-sparks.com/2012/09/20/spooky-lava-lamps/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.weareteachers.com/lessons-resources/details/diy-slime">http://www.weareteachers.com/lessons-resources/details/diy-slime</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.instructables.com/id/Oobleck/">http://www.instructables.com/id/Oobleck/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://en.wikipedia.org/wiki/Non-Newtonian_fluid">https://en.wikipedia.org/wiki/Non-Newtonian_fluid</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Vi Hart Scary Sierpinski Skull: <ulink url="https://www.youtube.com/watch?v=z8ZWlUamNPI">https://www.youtube.com/watch?v=z8ZWlUamNPI</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Food coloring
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Alka-seltzer
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Vegetable oil
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Dish soap
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Per student:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+A clear plastic bottle or jar
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+A bottle of vegetable oil
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Cup of water
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Dixie cup of corn starch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Paper bowl
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Spoon
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/Lab</para></formalpara>
+<warning><simpara>Collect all of the bottle/jar tops before beginning the activity. The
+students won&#8217;t be able to resist capping their lava lamps after putting in the
+alka-seltzer which will cause pressure build up and potential explosion.  You
+could also make a safety demonstration by putting water and alka-seltzer into a
+capped bottle made of lightweight plastic and then leaving it in a safe
+location where it can explode without injuring anyone (safety glasses
+recommended).</simpara></warning>
+<formalpara><title>Teaming:</title><para>Individual or teams based on amount of supplies available.</para></formalpara>
+<formalpara><title>Challenge:</title><para>Perform some spooky Mad Scientist Experiments.</para></formalpara>
+<simpara>"Make a Lava Lamp from varying density liquids"</simpara>
+<simpara>"Make Oobleck: a Non Newtonian Fluid"</simpara>
+<simpara>Standard lava lamp:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Fill the bottle or jar a quarter full with water and fill the rest with vegetable oil.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+After the separation between the oil and water settles add several drops of food coloring.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Add half an alka seltzer for a bubbling reaction.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Add more bits of alka-seltzer to create a lava-lamp rising and falling of bubbles.
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Let the kids design their own lava lamp using dish soap, water, vegetable oil and food coloring.
+Things to experiment with include:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Order in which liquids are added
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Size of alka-seltzer tablets
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When to add food coloring
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Class Inquiry:</title><para>TODO: Education on reaction of alka-seltzer
+Discussion on density. Ask about why the oil and water separate. Can the
+class think of different density gasses?</para></formalpara>
+<formalpara><title>Oobleck</title><para>Non Newtonian fluid</para></formalpara>
+<simpara>Mix 1 cup water with 1.5-2cups corn starch (about 1:2 ratio water to cornstarch)
+and a few drops of food coloring
+in mixing bowl. Student&#8217;s will have a Non Newtonian Fluid which acts like
+a liquid when poured but as a solid when touched.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If the oobleck is too watery add a spoon of cornstarch and mix in thoroughly
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If it isn&#8217;t watery when picked up, add a spoon of water
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Repeat until achieving proper consistency
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Class Inquiry</title><para>Unlike most fluids, a non-Newtonian fluid&#8217;s viscosity is dependent on
+the shear rate it is exposed to. Silly Putty is another example.
+It will stretch and mold, but ball it up and throw it and it bounces.</para></formalpara>
+<formalpara><title>Further Challenges:</title><para>Prepare for a Ballistic Pumpkin challenge for the next meeting after Halloween.
+Have students bring in small pumpkins/Jack-O-Lanterns that may be launched
+across the field outside. Brainstorm some ideas for launching pumpkins.  Watch
+some videos on Trebuchets and Punkin Chunkin.</para></formalpara>
+</section>
+</chapter>
+<chapter id="_workshop_5_ballistic_pumpkins">
+<title>Workshop 5: Ballistic Pumpkins</title>
+<sidebar>
+<simpara>Feedback rating: 4.1/5</simpara>
+</sidebar>
+<section id="_ballistic_pumpkins">
+<title>Ballistic Pumpkins</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>Depending on available materials, you can either have teams build multiple
+trebs or build one trebuchet (let the whole class assemble it as 1 team) and
+then let them break out and compete on getting the best distance with their own
+customized sling designs.</para></formalpara>
+<simpara>Miniature pumpkin gourds or alternatively golf balls may be used for
+launching. You could get orange golf balls and or decorate them like
+jack-o-lanterns to keep with the pumpkin theme.</simpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="https://www.punkinchunkin.com/">https://www.punkinchunkin.com/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.sciencechannel.com/tv-shows/punkin-chunkin/">http://www.sciencechannel.com/tv-shows/punkin-chunkin/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Punkin Chunkin documentary:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=dmSyrGsqmg8">https://www.youtube.com/watch?v=dmSyrGsqmg8</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.real-world-physics-problems.com/trebuchet-physics.html">http://www.real-world-physics-problems.com/trebuchet-physics.html</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+MythBusters:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=9-Hwxw4fgqk">https://www.youtube.com/watch?v=9-Hwxw4fgqk</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.instructables.com/id/Trebuchet-Project/">http://www.instructables.com/id/Trebuchet-Project/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html">http://www.pvcfittingsonline.com/406-005-1-2-schedule-40-pvc-90-ell.html</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://parts.spearsmfg.com/ProductDetails.aspx?pid=41">http://parts.spearsmfg.com/ProductDetails.aspx?pid=41</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Garbage bags for cleanup
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Trebuchet (see below)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Minature pumpkins/gourds
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Tennis balls
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Golf balls
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bouncy balls
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+≥100ft long tape measure
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Lawn Marking chalk
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Online media access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Wastebasket or bucket
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Large field outside.</para></formalpara>
+<itemizedlist><title>Preparation:</title>
+<listitem>
+<simpara>
+Build PVC pipe trebuchet
+</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="images/Trebuchet-Assem2.png" contentwidth="400"/>
+  </imageobject>
+  <textobject><phrase>Trebuchet Build</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Some experimentation will be necessary to build the throwing arm and might
+be incorporated into a workshop. I made a throwing arm out of plywood with
+good success.</simpara>
+<formalpara><title>Demonstration:</title><para>Show Mythbusters trebuchet prototype video:</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=9-Hwxw4fgqk">https://www.youtube.com/watch?v=9-Hwxw4fgqk</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Launch a mini-pumpkin as far as possible"</para></formalpara>
+<warning><simpara>Be sure to use a rope to pull the trigger pin while everyone stands clear of the trebuchet.</simpara></warning>
+<simpara>For consistency, and if you don&#8217;t have mini-pumpkins, tennis balls may be used instead.
+See what modifications can be made to get the projectiles the farthest.
+Try launching different kinds of balls like golf balls and bouncy balls.
+See what happens when the sling is filled with several smaller bouncy balls.</simpara>
+<warning><simpara>Make sure to take necessary precautions to avoid having a projectile
+hit someone. Particularly with hard projectiles like golf balls.</simpara></warning>
+<formalpara><title>Further Challenges:</title><para>"Launch a mini-pumpkin into a target bucket"</para></formalpara>
+<simpara>Adjusting the pin on the sling arm can control the release angle.
+Changing the sling length will have an effect on distance.
+Safely increasing the conterweight will make the balls launch farther.
+Mounting wheels on the frame will make it launch farther.</simpara>
+</section>
+</chapter>
+<chapter id="_workshop_6_lego_building_game_show">
+<title>Workshop 6: LEGO Building Game Show</title>
+<sidebar>
+<simpara>Feedback rating: 3.3/5</simpara>
+</sidebar>
+<section id="_lego_building_game_show">
+<title>LEGO Building Game Show</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>You may come up with various ways to break the students into teams.
+For a class size of 16, print the team_cards document:</para></formalpara>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="workshops/lego_gameshow/team_cards_1.png" contentwidth="400"/>
+  </imageobject>
+  <textobject><phrase>Team Cards</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Cut out the cards and distribute one to each student. These will allow you to
+make 4 teams of 4 unique team members for up to 5 rounds. For example, starting
+with number, break the teams out into numbers 1, 2, 3, 4. Next round break the
+teams out by letter A, B, C, D. Unique teams with no students ever on the same
+team again can be made when the teams are broken out by: number, letter, color,
+shape and direction. If you have time for more rounds there&#8217;s also season,
+element and phase but the teams won&#8217;t be unique any more.</simpara>
+<simpara>Divvy up the LEGO&#8217;s so there&#8217;s evenly distributed LEGO quantities at each
+team table.</simpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www.bricklink.com/">http://www.bricklink.com/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://shop.lego.com/en-US/Pick-a-Brick">https://shop.lego.com/en-US/Pick-a-Brick</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://education.lego.com/en-us/">https://education.lego.com/en-us/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+MythBusters LEGO Ball:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=KLWLTs90_po">https://www.youtube.com/watch?v=KLWLTs90_po</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=M8vdTXO0lpE">https://www.youtube.com/watch?v=M8vdTXO0lpE</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+This is a great video to show the celebration of failure. Point out
+   how many weeks of hard work it was building the ball and then what was
+   everyone&#8217;s reaction when it crumbled. Absolute joy!
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Also see what else the class notices from the experiment. Another
+   thing to call attention to was the safety precautions. Yes the experiment
+   failed, but by making sure everyone is safe, nobody was in danger of
+   getting hurt.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+LEGO Rube Goldberg ball run: <ulink url="https://www.youtube.com/watch?v=xwUg3sf4Lvo">https://www.youtube.com/watch?v=xwUg3sf4Lvo</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+10 most amazing LEGO machines: <ulink url="https://www.youtube.com/watch?v=3_q8O8xQnlQ">https://www.youtube.com/watch?v=3_q8O8xQnlQ</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Assorted LEGO&#8217;s (≥100 pcs assorted per student plus multiple figurines)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+LEGO Creationary cards or similar
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/Lab</para></formalpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-4</para></formalpara>
+<formalpara><title>Helpers</title><para>Activities helper students may do:
+* Run time
+* Keep score
+* Sort/distribute/cleanup LEGOs
+* Judge</para></formalpara>
+<formalpara><title>Preparation</title><para>Show the MythBusters LEGO ball video and have a discussion about celebrating
+failute and practicing safety. What other comments do the students have on
+the experiment?</para></formalpara>
+<simpara>Explain that we&#8217;re going to have a game show style challenge because a little
+competition makes it fun. But remember there&#8217;s more to be learned by not
+winning. If another team gets more points, try not to get frustrated.  Observe
+carefull what they did. Learn from your observations. Improve your own methods.
+Keep trying.</simpara>
+<simpara>When something doesn&#8217;t work shout "Hooray! Science!". Everybody together
+shout "Hooray! Science!". Maybe one more time louder. Then jump into the game.</simpara>
+<formalpara><title>Challenge:</title><para>Play the LEGO Building Game Show</para></formalpara>
+<simpara>Pick a build time limit like 5 minutes.</simpara>
+<simpara>Start with an easy level object card for each team. Each team should keep
+their card secret from the other teams. Also it may be helpful to pick
+objects with a given theme and make everyone aware of what that theme is.</simpara>
+<simpara>Start the timer and have each team build their creation. The teams may use
+their LEGO minifigures as they see fit. You may pick build objects for the
+teams that would benefit identification via the use of minifigures.</simpara>
+<simpara>At the end of the round, each team holds up their creations in turn while
+the others secretly write down what they think it is. Every team that
+gets a right answer gets a point. Every team that gets their creation judged
+correctly gets a point for every correct guess. The points can be tallied
+seperately and it will be interesting at the end to analyze which teams
+did the best guessing and which teams got the most correctly guessed builds.</simpara>
+<simpara>For the next round teams may keep their creation and use it as part of their
+next build or take parts off of it as they need. You may want to distribute
+object cards specifically to encourage creative re-use or previous builds.
+Also you can tailor the object build difficulty as a handicap to help keep
+the scores fairly close.</simpara>
+<simpara>Shuffle up the teams using the team cards after each round.</simpara>
+<simpara>Keep track of the results entering the data in the lego_build_data_record
+spreadsheet each round. Save the data and run the Jupyter notebook
+data analysis program on the data.</simpara>
+<itemizedlist><title>Further Challenges:</title>
+<listitem>
+<simpara>
+Decrease the allowed build time
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Only show the picture to the team and then take the card back instead
+  of letting them keep it to look at the whole time
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Just tell the team what the object is without showing them the picture
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Provide multiple build objects per round
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Run a round where everyone works individually.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Give everyone the same object and have each team rank every other teams
+  build in order. Highest points to best rank.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_7_lego_structure_drop_test">
+<title>Workshop 7: LEGO Structure Drop Test</title>
+<sidebar>
+<simpara>Feedback rating: 4.2/5</simpara>
+</sidebar>
+<section id="_lego_engineering_challenge">
+<title>LEGO Engineering Challenge</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>By selecting one building challenge activity for all of the teams to work
+on there is more opportunity for collaboration. If a team completes their
+project try to direct them on to additional challenges on the same
+project. They may also help out other teams or work on sorting the main LEGO
+collection.</para></formalpara>
+<formalpara><title>Resources:</title><para>The Educating Young Engineers website provides very good ideas for LEGO
+design challenges:</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/lego-clubs/">http://www.educatingyoungengineers.com/lego-clubs/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf">http://www.educatingyoungengineers.com/s/lego-club-how-to-guide-cagr.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/lego-club-activity-ideas">http://www.educatingyoungengineers.com/lego-club-activity-ideas</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Adam Savage LEGO Sisyphus: <ulink url="https://www.youtube.com/watch?v=U46Yo_6z_F4">https://www.youtube.com/watch?v=U46Yo_6z_F4</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+MythBusters LEGO Ball:
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=KLWLTs90_po">https://www.youtube.com/watch?v=KLWLTs90_po</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=M8vdTXO0lpE">https://www.youtube.com/watch?v=M8vdTXO0lpE</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+This is a great video to show the celebration of failure. Point out
+   how many weeks of hard work it was building the ball and then what was
+   everyone&#8217;s reaction when it crumbled. Absolute joy!
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Also see what else the class notices from the experiment. Another
+   thing to call attention to was the safety precautions. Yes the experiment
+   failed, but by making sure everyone is safe, nobody was in danger of
+   getting hurt.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+LEGO Rube Goldberg ball run: <ulink url="https://www.youtube.com/watch?v=xwUg3sf4Lvo">https://www.youtube.com/watch?v=xwUg3sf4Lvo</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+10 most amazing LEGO machines: <ulink url="https://www.youtube.com/watch?v=3_q8O8xQnlQ">https://www.youtube.com/watch?v=3_q8O8xQnlQ</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Most amazing LEGO Sculptures: <ulink url="https://www.youtube.com/watch?v=dW9eHPkYLeo">https://www.youtube.com/watch?v=dW9eHPkYLeo</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Assorted LEGO&#8217;s (≥100 pcs assorted per student plus multiple figurines)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Meter stick/Tape Measure (Drop Test/Tallest Tower)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Digital scale (Drop Test)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stop Watch or music source (Musical Monsters)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Large plastic bins (Engineering Escapes)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Tub of water (Boat Building)
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/Lab</para></formalpara>
+<formalpara><title>Helpers</title><para>Activities helper students may do:</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Measure
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Record data on whiteboard
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Sort/distribute/cleanup LEGOs
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Challenges:</title>
+<listitem>
+<simpara>
+Drop Test
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/drop-test">http://www.educatingyoungengineers.com/drop-test</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Teaming: Individual
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Combine exactly 20 LEGO bricks so that when dropped they do not break
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If gathering 20 identical bricks for each student is too tall of an order,
+    impose a minimum weight requirement (around the weight of 20 2x6 bricks).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Alternatively leave the requirements open and allow the students to record
+    the number of bricks, drop height and weight of their creation. Evaluate
+    correlations.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Use a meter stick to drop from progressively higher distances and record the max drop height before their structure breaks apart.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Have the students iterate to try to improve their height
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Have a review discussion on successful strategies
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="workshops/lego_droptest/lego_droptest_table.png" contentwidth="400"/>
+  </imageobject>
+  <textobject><phrase>Team Cards</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<itemizedlist>
+<listitem>
+<simpara>
+Collaborative Monsters
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/musical-monsters">http://www.educatingyoungengineers.com/musical-monsters</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Teaming: Individual
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Everyone starts bulding a monster. Use music or a stopwatch to indicate when
+   to stop building and pass their creation off to their neighbor. Continue for
+   several rounds and then review everyones creations.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask if any of the monsters turned out how they thought they would when they
+   started building them.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Engineering Escapes
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/engineering-escapes">http://www.educatingyoungengineers.com/engineering-escapes</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Teaming: 3-5
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Put a LEGO minifigure in a bin and have the team build a solution to
+   get him out.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+With each iteration, impose new challenges
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+No stairs
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+No elevators
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Tallest Tower
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/tallest-tower">http://www.educatingyoungengineers.com/tallest-tower</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Teaming: 3-5
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+See who can build the tallest tower.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Have teams request measurement checkpoints with a tape measure.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Discuss successful and unsuccessful strategies.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Boat Building
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.educatingyoungengineers.com/boat-building">http://www.educatingyoungengineers.com/boat-building</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Reproduce the <ulink url="workshops/unsinkable_boat.adoc">Uninskable Boat</ulink> workshop
+   except with LEGOS.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_8_cup_tower_battle">
+<title>Workshop 8: Cup Tower Battle</title>
+<sidebar>
+<simpara>Feedback rating: 4.2/5</simpara>
+</sidebar>
+<section id="_tower_build_battle">
+<title>Tower Build Battle</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Architectural/Civil Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+Strong building towers with cups:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=iGRLY08Kn2o">https://www.youtube.com/watch?v=iGRLY08Kn2o</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+STEM Activities for Kids - Structure Building
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=TycfVSTOI">https://www.youtube.com/watch?v=TycfVSTOI</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+How tall can skyscrapers get?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=Cioj_KYMVP8">https://www.youtube.com/watch?v=Cioj_KYMVP8</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large Plastic cups
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatively building blocks, cut up 2x4&#8217;s, paper/cardboard crafted blocks
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Tape measure
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Poster board for optional "earthquake" simulation activity.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Materials for ball hurling contraptions
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Spoons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Popsicle sticks
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rubber bands
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+10-20 foam balls or wiffle balls
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Gymnasium or outdoors</para></formalpara>
+<formalpara><title>Preparation:</title><para>Arrange tables so each team is on opposite ends. Be wary of students blocking
+ballistic projectiles between the build areas.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Brainstorm some ideas on the whiteboard with the class for good ways to build
+tall stable structures.</para></formalpara>
+<formalpara><title>Teaming:</title><para>Split the students into 2 evenly distributed teams or teams of 4-6 each.
+Having more than 2 teams may also be possible.</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Build the best structure for a variety of challenges"</para></formalpara>
+<simpara>If you have enough materials, teams can build their architectural structures
+simultaneously. Otherwise one team can build their structure while the other
+teams constructs a ball hurling device that will be used to try to knock it
+down.</simpara>
+<simpara>Start with a 5 minute limit. See who can build the tallest structure.
+Measure with a measuring tape and have the students make a schematic in their
+notebook of their structure and its dimensions.</simpara>
+<simpara>If everyone was able to build their own structures at the same time then each
+team can be tasked with building it&#8217;s own "wrecking ball" device to see who
+can knock down their tower with the fewest shots. Otherwise teams can pit
+their building again other teams wrecking contraptions. Be sure to encourage
+keeping track of the the results in the students notebooks.</simpara>
+<simpara>Impose some limit on wrecking contraptions like "cannot be thrown" or must
+be launched from table using a mechanism.</simpara>
+<simpara>For maximum pandemonium allow teams to launch their wrecking balls at each
+other during the build to help get their tower building team in the lead.
+Alternatively take build breaks and allow each team to take 3 shots at
+the other teams towers.</simpara>
+<formalpara><title>Further Challenges:</title><para>An optional additional activity is to have the teams build their towers on
+a poster board. Then time how quickly they can move the poster board across the
+table without their tower falling.</para></formalpara>
+<formalpara><title>Class Inquiry:</title><para>What lessons were learned about building strong structures and effective
+projectiles?</para></formalpara>
+</section>
+</chapter>
+<chapter id="_workshop_9_water_bottle_flip_optimization">
+<title>Workshop 9: Water Bottle Flip Optimization</title>
+<sidebar>
+<simpara>Feedback rating: 4.2/5</simpara>
+</sidebar>
+<section id="_water_bottle_flip_optimization">
+<title>Water Bottle Flip Optimization</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Dynamics
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Data Analysis
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+dy/dan BottleFlipping and the Lessons you throw back
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/">http://blog.mrmeyer.com/2016/bottleflipping-the-lessons-you-throw-back/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip">https://s3.amazonaws.com/ddmeyer/bottle-flipping-media.zip</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Desmos water bottle flipping calculator
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.desmos.com/calculator/k54pcfbuy4">https://www.desmos.com/calculator/k54pcfbuy4</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://en.wikipedia.org/wiki/Dynamics_(mechanics)">https://en.wikipedia.org/wiki/Dynamics_(mechanics)</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+16-20 ounce water bottle per student
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Digital scale
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Measuring cups
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Water
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Cafeteria or large room with tables.</para></formalpara>
+<formalpara><title>Preparation:</title><para>Distribute data sheets for every participant.</para></formalpara>
+<formalpara><title>Class Inquiry:</title><para>Ask the class for ideas for the meaning of "Dynamics".</para></formalpara>
+<blockquote>
+<attribution>
+Wikipedia
+<citetitle>Engineering</citetitle>
+</attribution>
+<simpara>Dynamics is a branch of applied mathematics (specifically classical mechanics)
+concerned with the study of forces and torques and their effect on motion.</simpara>
+</blockquote>
+<simpara>In other words, how something moves when acted on by forces.</simpara>
+<formalpara><title>Demonstration:</title><para>Show the Desmos water bottle flipping calculator. Inquire of the class
+what they think it is demonstrating. Play with the various controls to
+change the motion. Point out the paths trace by the top and bottom of the
+model.</para></formalpara>
+<simpara>Show the Act 1 video from dy/dan&#8217;s bottle flipping media. Ask the class to
+predict which of A,B,C,D trials will land standing.</simpara>
+<simpara>Show the Act 2 video and pause on each trial. See if using the graph overlay
+will help the predictions.</simpara>
+<simpara>Show the Act 3 video for the results.</simpara>
+<formalpara><title>Teaming:</title><para>Individual</para></formalpara>
+<formalpara><title>Challenge:</title><para>Find the optimum amount of water for successful bottle flipping.</para></formalpara>
+<simpara>With each trial, suggest that students empty their bottle and refill
+it with the volume of water under test. Otherwise, incrementally
+adding/subtracting water will introduce errors to the recorded amount
+of water. Alternatively, water may be incrementally added/subtracted if
+the digital scale will be used to measure the weight before each trial.</simpara>
+<simpara>Fluid ounces is volume and ounces is weight, but for water, the two
+quantities are equal.</simpara>
+<formalpara><title>Class Inquiry:</title><para>Enter the student recorded data into the flip_results spreadsheet and
+import it into the Jupyter notebook for analysis.</para></formalpara>
+<simpara>Explain a histogram.  Show how the results indicate which quantity of water
+resulted in the highest frequency of good flip percentages.</simpara>
+<simpara>Also show histograms for raw number of good flips and total flips.
+Are the results any different?</simpara>
+<simpara>Move on to binning by student name.
+Show results for percentages, good flips and total flips.</simpara>
+<simpara>Give an example where someone had 10 good flips in a row with no bad flips
+and someone else had 10 good flips and 10 bad flips. They both have the
+same number of good flips, but which was better? 100% vs. 50%.</simpara>
+<formalpara><title>Further Challenges:</title><para>After finding the optimum amount of water, have everyone fill there bottle
+with their ideal amount. Line everyone up and see if you can get the whole
+class to successively (or simultaneously) flip their bottles and land
+upright.</para></formalpara>
+</section>
+</chapter>
+<chapter id="_workshop_10_craft_stick_catapult">
+<title>Workshop 10: Craft Stick Catapult</title>
+<sidebar>
+<simpara>Feedback rating: 4.3/5</simpara>
+</sidebar>
+<section id="_craft_stick_catapult">
+<title>Craft Stick Catapult</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>3D print the parts available here: TODO. Or alternatively use the
+instructables directions that uses hot glue instead of 3D printed parts.</para></formalpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www.instructables.com/id/Mini-Siege-Engines/">http://www.instructables.com/id/Mini-Siege-Engines/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Craft Sticks
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rubber bands
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+3D Printed parts
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Room with tables</para></formalpara>
+<figure><title>Preparation:</title>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="images/Craft-Stick-Catapault-1.png" contentwidth="400"/>
+  </imageobject>
+  <textobject><phrase>Craft Stick Catapault</phrase></textobject>
+</mediaobject>
+</figure>
+<formalpara><title>Teaming:</title><para>Individual</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Build a catapault using the engineering drawing and supplied materials"</para></formalpara>
+</section>
+</chapter>
+<chapter id="_workshop_11_holiday_engineering">
+<title>Workshop 11: Holiday Engineering</title>
+<sidebar>
+<simpara>Feedback rating: 4.0/5</simpara>
+</sidebar>
+<section id="_holiday_engineering">
+<title>Holiday Engineering</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical, chemical, architectural
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+Snowman Marshmallow Shooters
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=y1HW2-W0zfI">https://www.youtube.com/watch?v=y1HW2-W0zfI</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Candy Cane Slime
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://littlebinsforlittlehands.com/candy-cane-slime-recipe/">http://littlebinsforlittlehands.com/candy-cane-slime-recipe/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Gumdrop structures
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://thehomeschoolscientist.com/gumdrop-structures-engineering-challenge/">http://thehomeschoolscientist.com/gumdrop-structures-engineering-challenge/</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323">https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://littlebinsforlittlehands.com/gumdrop-bridge-building-engineering-activity-stem/">http://littlebinsforlittlehands.com/gumdrop-bridge-building-engineering-activity-stem/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Vi Hart "The Gauss Christmath Special"
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=sxnX5_LbBDU">https://www.youtube.com/watch?v=sxnX5_LbBDU</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Gumdrops
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Marshmallows
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Toothpicks
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Balloons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Styrofoam cups
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Cutting blade
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Liquid starch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Elmer&#8217;s glue (white/clear)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Mixing containers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Food coloring
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Cafeteria/Lab</para></formalpara>
+<formalpara><title>Preparation:</title><para>Print and ditribute page 3 from: <ulink url="https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323">https://www.teacherspayteachers.com/Product/Gumdrop-Structure-Inquiry-Challenge-592323</ulink></para></formalpara>
+<simpara>If not using commercial liquid starch, prepare enough ahead of time:
+<ulink url="http://www.carlemuseum.org/blogs/making-art/homemade-liquid-starch-glue">http://www.carlemuseum.org/blogs/making-art/homemade-liquid-starch-glue</ulink></simpara>
+<formalpara><title>Class Inquiry:</title><para>Write topics on the board
+* Gumdrop House
+* Snowman Marshmallow Cannon
+* Candy Cane Slime</para></formalpara>
+<simpara>Describe each activity and solicite suggestions for relevant engineering disciplines.</simpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-3.</para></formalpara>
+<formalpara><title>Challenge:</title><para>Have everyone start on the gumdrop house building first.  After students have
+completed their task, start distributing the materials individually
+for the snowman cannons and the candy cane slime.  Students can continue to
+work on the gumdrop project until you get around to them to supervise using the
+blade to cut the bottom off their styrofoam cups.</para></formalpara>
+<simpara>The gumdrop challenge recommends using books to test the structural integrity
+of the builds; alternatively use heavy washers placed into a dish sitting
+on the house to see how many washers a particular design can hold. Also, for
+some mess, use the holiday slime in a dish as the weight.</simpara>
+</section>
+</chapter>
+<chapter id="_workshop_12_reverse_engineering">
+<title>Workshop 12: Reverse Engineering</title>
+<sidebar>
+<simpara>Feedback rating: 4.4/5</simpara>
+</sidebar>
+<section id="_reverse_engineering">
+<title>Reverse Engineering</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Multidisciplinary
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>Have students bring in broken technology/gadgets from home and toolkits if
+they have them. Make sure the gadgets they bring in are disposable and their
+pieces may be thrown in the garbage after the workshop is complete.</para></formalpara>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Lots of Tools. Screwdrivers are especially important. Allen wrenches and Torx
+  wrenches may prove helpful as well.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Power supply
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Multimeter
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Safety Glasses
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Lab</para></formalpara>
+<itemizedlist><title>Demonstration:</title>
+<listitem>
+<simpara>
+Solicit suggestions for purposes of Reverse Engineering
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Understanding how something works
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Take care of the tools and return them to their place
+</simpara>
+</listitem>
+</itemizedlist>
+<sidebar>
+<important><simpara>Safety</simpara></important>
+<itemizedlist>
+<listitem>
+<simpara>
+Listen and follow directions
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Only use tools for their intended use
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Do not use tools on anything other then objects being disassembled
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Never horseplay with tools
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+No running
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<emphasis role="strong">WEAR SAFETY GLASSES AT ALL TIMES</emphasis>
+</simpara>
+</listitem>
+</itemizedlist>
+</sidebar>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+<formalpara><title>Challenge:</title><para>Disassemble broken gadgets to understand how they work.</para></formalpara>
+<important><simpara>Closely monitor students for unsafe activity and intervene with
+corrective action quickly.</simpara></important>
+<simpara>Use the multimeter for testing circuit components students may uncover.</simpara>
+<simpara>Use the power supply to energize extracted components like motors and lamps where possible.</simpara>
+<important><simpara>Observe electrical and mechanical safety precautions.</simpara></important>
+</section>
+</chapter>
+<chapter id="_workshop_13_programming_board_game">
+<title>Workshop 13: Programming Board Game</title>
+<sidebar>
+<simpara>Feedback rating: 2.2/5</simpara>
+</sidebar>
+<section id="_programming_board_game">
+<title>Programming Board Game</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Software Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Setup:</title><para>Print a copy for each student of programming_boardgame.pdf</para></formalpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+Robot Turtles Board Game (Copyright Robot Turtles LLC)
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.robotturtles.com/">http://www.robotturtles.com/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Scratch Programming Language (Copyright MIT Media Lab)
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://scratch.mit.edu/">https://scratch.mit.edu/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://scratch.mit.edu/projects/139317744/">https://scratch.mit.edu/projects/139317744/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<simpara>Robot Turtles and Scratch are not required for this workshop but they are
+excellent resources you may want to use in your curriculum.</simpara>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Scissors (and optionally paper cutter)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Computer (optional)
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom with group tables</para></formalpara>
+<formalpara><title>Preparation:</title><para>Distribute printout packets of the programming_boardgame.pdf file and have
+students cut out programming cards and tokens.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Have everyone run through the single player board with the cards successively
+suggested for runs A, B and C.</para></formalpara>
+<formalpara><title>Class Inquiry:</title><para>Using repeat command structure to make programming more efficient.</para></formalpara>
+<simpara>Using function definitions to encapsulate often used code blocks.</simpara>
+<formalpara><title>Teaming:</title><para>Single player for warmup, then teams of 2-5 for group games.</para></formalpara>
+<formalpara><title>Challenge:</title><para>More advanced students can play the role of the "compiler" running the command
+cards for the other players.</para></formalpara>
+<simpara>The students will naturally assume getting to the star first equals winning.
+Encourage the conclusion that shorter more efficient code stacks helps win.</simpara>
+<formalpara><title>Further Challenges:</title><para>Have some exhibition rounds near the end where 1 group at a time plays head
+to head using the Pwned rules and everyone else watches.</para></formalpara>
+<simpara>Make available the Scratch program in Programming_Boardgame.sb2 (weblink
+supplied in resources). Allow students to try the different programs and
+compare it to the boardgame (be sure to click the "see inside" button).</simpara>
+</section>
+</chapter>
+<chapter id="_workshop_14_optical_engineering">
+<title>Workshop 14: Optical Engineering</title>
+<sidebar>
+<simpara>Feedback rating: 3.4/5</simpara>
+</sidebar>
+<section id="_monoculight">
+<title>Monoculight</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Optical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Resources:</title><para>*</para></formalpara>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Pencils
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rulers
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Where?</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Inquire about what an image is.
+Can you touch it? Taste it? Smell it? Hear it? Why?</para></formalpara>
+<simpara>Demonstrate the large Fresnel lens and the image it projects.</simpara>
+<simpara>Imagine each point on an object as a tiny light source.</simpara>
+<simpara>Introduce raytracing. Draw a diagram of a thin singlet positive lens.
+Rays represent the path of light.
+What&#8217;s the first place they all intersect? (points on the object)
+What happens when the light rays intersect on a screen? (real image)</simpara>
+<simpara>Explain the Rules for raytracing.
+A positive lens has a front focal length and a back focal length.
+Any ray that goes through a focal point and then hits the lens will
+be collimated horizontally.
+Does everyone know what horizontal means?
+Does anyone know what collimated means? (rays will all be parallel)
+Does everyone know what parallel means?</simpara>
+<simpara>Any ray that comes in horizontal, will pass through the focal point.</simpara>
+<simpara>Any rays that hits the center of the lens will travel through the lens
+undeviated.
+Anyone know what undeviated means?</simpara>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 making sure youngest are teamed with older student(s)</para></formalpara>
+</section>
+</chapter>
+<chapter id="_workshop_15_computer_engineering">
+<title>Workshop 15: Computer Engineering</title>
+<section id="_computer_engineering">
+<title>Computer Engineering</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Computer
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Software
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Electronics
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="https://en.wikipedia.org/wiki/Computer_engineering">https://en.wikipedia.org/wiki/Computer_engineering</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+1 laptop per 1-2 students
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ubermix Linux operating system
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://www.ubermix.org/">http://www.ubermix.org/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Large room with outlets available at each table</para></formalpara>
+<formalpara><title>Preparation:</title><para>Install <literal>ubermix</literal> on all of the laptops. Alternatively acquire enough
+USB keys to have the students do it as part of the workshop.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>In a single column on the white board, write the following categories:</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+CPU, Kernel, O/S, Device
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Review the meaning of each with the class.
+Solicit suggestions for items in each category. Include the following:</simpara>
+<simpara>Under CPU:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Intel x86, AMD x86, ARM
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Under Kernel:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Linux, WinNT, Darwin/XNU
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Under O/S:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+macOS, Windows, iOS, Android, ChromeOS
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Linux Distributions
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Ubuntu, Red Hat Enterprise Linux, Debian, Mint, Arch, Gentoo
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+CentOS, openSUSE, Mageia, ubermix
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<simpara>Device:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Server, Desktop, Laptop, Phone, Tablet
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>For each device, run through which O/S, Kernel, CPUs are typically used.</simpara>
+<simpara>Introduce Scratch on demonstration Laptop:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Control &#8594; when flag clicked
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Variables &#8594; Make a variable
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+set variable, change variable
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Control &#8594; Repeat
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Teaming:</title><para>Teams of 1-2</para></formalpara>
+<itemizedlist><title>Challenge:</title>
+<listitem>
+<simpara>
+Each student create a work of art in Tux Paint (under Graphics)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+See how many levels you can pass in Numpty physics (under Games)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Scratch challenges (under Programming)
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Write a Scratch program to count to 100 by 5&#8217;s
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Write a Scratch program to count almost to 100 but not past by 6&#8217;s
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Slow down the count so it&#8217;s readable
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Draw a square with Scratch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Draw a triangle, circle, spiral
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+</part>
+<part id="_rocket_club">
+<title>Rocket Club</title>
+<simpara>Additional references:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.nasa.gov/audience/foreducators/rocketry/lessonplans/">https://www.nasa.gov/audience/foreducators/rocketry/lessonplans/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<chapter id="_rocketry_1_rocketry_fundamentals">
+<title>Rocketry 1: Rocketry Fundamentals</title>
+<section id="_rocketry_fundamentals">
+<title>Rocketry Fundamentals</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Rocketry
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Physics
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hobby safety
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources</title>
+<listitem>
+<simpara>
+<ulink url="https://www.cmu.edu/ehs/fact-sheets/guidelines-for-exacto-knife-use.pdf">https://www.cmu.edu/ehs/fact-sheets/guidelines-for-exacto-knife-use.pdf</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Plastic Bags
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hobby knives
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+String
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Clothespins
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Balloons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Tape
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Paper
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hollow plastic and real golf balls
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Spent/unspent rocket engines for demonstration
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Safety Glasses
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/Lab</para></formalpara>
+<formalpara><title>Preparation:</title><para>Print copies of instructions and prepare materials for students.</para></formalpara>
+<figure><title>Plastic-Bag-Parachute-Instructions.pdf</title>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="workshops/rocket_club/Plastic-Bag-Parachute-Instructions.png" contentwidth="200"/>
+  </imageobject>
+  <textobject><phrase>Plastic Bag Parachute</phrase></textobject>
+</mediaobject>
+</figure>
+<figure><title>Rocket-Balloon-Instructions.pdf</title>
+<mediaobject>
+  <imageobject>
+  <imagedata fileref="workshops/rocket_club/Rocket-Balloon-Instructions.png" contentwidth="200"/>
+  </imageobject>
+  <textobject><phrase>Rocket Balloon</phrase></textobject>
+</mediaobject>
+</figure>
+<formalpara><title>Teaming:</title><para>Teams of 2-3 grouping younger and older student(s) together</para></formalpara>
+<section id="_introduction_2">
+<title>Introduction</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Name tags for all. Every meeting.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+For all of our meetings, everyone must wear footwear that fully covers
+  your feet.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+We will be building and launching rockets.
+  Rockets will get lost. Prepare for that.
+  It will make you sad but always try to learn from the failure.
+  Failure is part of the process and should be celebrated.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_safety_and_discipline">
+<title>Safety and Discipline</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Everyone must at all times control their actions and follow the instructions
+  of the adults. I know this is especially difficult after a long day in
+  school and the excitement of being outside and launching rockets. But
+  PLEASE control your actions. We&#8217;ll be here to help, but if you cannot do
+  it, you will not build and launch a rocket. I&#8217;m sorry, it just is not safe.
+  Being safe is our most important task.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you are chasing someone&#8230; STOP immediately
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If you are being chased do not run away. Calmly ask the chaser to stop and
+   walk over to an adult for help.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If you are not being safe, you will have to do an alternative activity like
+   coloring sheets or Legos.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_newton_8217_s_laws_of_motion">
+<title>Newton&#8217;s Laws of Motion</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>
+Inertia: An object at rest stays at rest. An object in motion stays in motion.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+After a rocket engine burns out, the rocket continues to go up.
+   The ejection charge is on a delay.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Ask what happens to the rockets direction when the engine burns out
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Demonstrate throwing a ball upwards.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+All the upward force on the ball stops as soon as I release the ball.
+    Yet it continues upward.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask about the ball&#8217;s velocity or speed (decreases on way up, zero at
+    apogee and increases on way down).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask about velocity of the ball at the moment it&#8217;s released and the moment
+    I catch it (If caught at the same point it was released, the downward
+    velocity when caught equals the upward velocity when thrown).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What is acceleration? (how fast the velocity changes)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What is the acceleration of the ball? (a constant 9.8m/s/s downward once
+     released).
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+<inlineequation>
+<alt><![CDATA[F=m\times a]]></alt>
+<inlinemediaobject><textobject><phrase></phrase></textobject></inlinemediaobject>
+</inlineequation>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Does everyone know how to multiply?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If the mass of something increases, what happens to the force of gravity
+   on it? (it increases&#8230; it weighs more) Draw up arrows on the <literal>F</literal> and <literal>m</literal>.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<literal>a</literal> is the acceleration of the object as it falls. <literal>F</literal> increases the
+   same amount as <literal>m</literal> increases. <literal>a</literal> stays the same; heavy and lightweight
+   objects fall with the same acceleration.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+A force changes velocity.
+  The change depends on mass.
+  A change in velocity generates a force.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The force of gravity is always pulling down.
+  Slow an upward travelling rocket to a stop and rocket begins to go downward.
+  When does free fall start? (when engine burns out, even though still going up)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+For increasing mass, the acceleration due to gravity stays the same so the
+  force of gravity is increased.
+  Or another way, since if mass is increased, more force is required to create
+  the same amount of acceleration since acceleration due to gravity is constant.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If the force of gravity were to hypothetically stay fixed with increasing mass,
+  then the acceleration would have to decrease for heavier objects and heavier
+  objects would fall slower than lighter objects.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The acceleration due to gravity is the same no matter the weight.
+  Demonstrate dropping two balls that are the same size but different weight
+  (golf ball vs. hollow plastic golf ball) from high up.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+For every action, there is an equal and opposite reaction.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Exhaust from burning fuel shoots out the back of a rocket engine causing
+  forward thrust.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hold up spent and unspent rocket engines as a demonstration.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</orderedlist>
+</section>
+<section id="_air_resistance">
+<title>Air Resistance</title>
+<formalpara><title>Inquire</title><para>Where have you felt air resistance?</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Wind, fans, open car window
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Inquire</title><para>How can you increase air resistance?</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Increase surface area
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Increase speed (of the wind or of the object? does it matter?)
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Demonstration</title>
+<listitem>
+<simpara>
+Take two sheets of paper. Ask if they weigh the same.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Crumple one up. Ask if the two sheets of paper still weigh the same.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Have the class predict what will happen when both sheets of paper are
+  dropped from a height simultaneously.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Why did the balled up sheet of paper hit the ground first?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+More surface area means greater air resistance.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The force of air pressure for a falling object works against the force of
+gravity.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What is the force of air resistance for a stationary object?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What happens to the air pressure as the object moves faster and faster?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+For heavier objects, more air pressure is required to counteract the
+  force of gravity since heavier objects experience increased force from
+  gravity.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+From the golf ball example, since the real golf ball and the lightweight
+   plastic one are the same size, they will have the same air resistance. But
+   since the force of gravity on the real golf ball is more, it will have more
+   acceleration because the counteracting force of the air pressure is less
+   significant compared to the force of gravity.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_cutting_knife_safety">
+<title>Cutting Knife Safety</title>
+<simpara>Let the class know that the activities are about to start.
+The first activity will require the use of a hobby knife.
+All cutting will be done under the direct supervision of an adult.
+Methodically explain each of the rules for hobby knife safety:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Do not goof around with the knife at all, in any way, ever.
+  Anyone who does so even once will have the knife taken away immediately
+  and will not get a second chance to use a knife today.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+NEVER even pretend to use a blade improperly
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+NEVER point a blade at another person
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Instruct the workshop helpers to have zero tolerance on this rule.
+   Any observed violation results in immediate hobby knife confiscation
+   for the rest of the workshop.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Always wear safety glasses when using a hobby knife.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The knife may only be used under the direct supervision of an adult.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Only an adult may take the plastic cap off the top of the knife.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Instruct the adult assistants that when they are ready, uncap the knife
+   and place it back down on the table.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Make sure that when you place the knife down that it is not in a position
+  where it can roll off the table. If it does so, it may very easily stick
+  into your foot. Everyone must have footwear that fully covers their feet.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Only cut on an acceptable cutting surface. Cutting boards will be provided.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Prepare and think before each cut. Consider what will happen to the blade
+  if it was to slip and make sure there&#8217;s nothing in the way to harm.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Never hold the workpiece you are cutting in your hand. It should always
+  lay on the cutting surface.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When cutting, give your undivided attention to the workpiece the whole time.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hold the blade like a pencil.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Slowly and steadily draw the blade toward yourself or at a diagonal while cutting.
+  Only very light downward pressure should be necessary.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Keep the blade straight on with the cut. Never twist the blade.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When done cutting, place the knife down on the table. Adult assistants
+  should then recap the knife.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_making_a_parachute">
+<title>Making a parachute</title>
+<formalpara><title>Principle:</title><para>Air Resistance</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Parachute components: Canopy, suspension lines, harness, payload
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Student groups make their own parachute using the
+  <literal>Plastic-Bag-Parachute-Instructions</literal> worksheet.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Adult helpers must closely supervise hobby knife usage.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Additional challenges:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Race the parachutes to the ground. Last one down is the winner.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Predict and experiment with increasing the weight of the payload with
+   extra clothespins or other improvised weights.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Predict and experiment with multiple canopies per clothespin.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Test what happens when cutting a hole in the canopy.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Experiment with different number of suspension lines and canopy shape.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Let the students come up with ideas to experiment with.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Would a hammer and feather fall at the same rate in a vacuum?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Search the internet for "feather and hammer drop on moon"
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_rocket_balloon">
+<title>Rocket Balloon</title>
+<formalpara><title>Principle:</title><para>Newton&#8217;s Laws of Motion: For every action, there is an equal and opposite reaction</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Student groups make balloon rockets following the
+  <literal>Rocket-Balloon-Instructions</literal> worksheet.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Race balloon vehicles along string/fishing line tracks.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Try different inclination angles of the string. Does the balloon fly
+  different distances at different inclination angles? What force is acting
+  against it at higher inclination angles? (gravity)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What if we tape a payload to the rocket? Why doesn&#8217;t it go as far or fast?
+  (increased weight means increased force due to gravity which counteracts
+  the force of the thrust)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What would happen with parachute taped to the balloon?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+What about cutting a hole in the middle of the parachute?
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</chapter>
+<chapter id="_rocketry_2_first_rocket_build">
+<title>Rocketry 2: First Rocket Build</title>
+<section id="_first_rocket_build">
+<title>First Rocket Build</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Rocketry
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Physics
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hobby safety
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Preparation:</title><para>Distribute rocket build instructions for the rockets the students
+will be building to the assistants ahead of time.</para></formalpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+Dowloadable Estes Rocket Instructions:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.estesrockets.com/customer-service/instructions">https://www.estesrockets.com/customer-service/instructions</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Finding center of gravity on a ruler
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.youtube.com/watch?v=djmec-Bweeg">https://www.youtube.com/watch?v=djmec-Bweeg</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Beginners rocket kits
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Hobby knifes
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Wood/Plastic Glues
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Safety Glasses
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ruler or long tube
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Binder clips, clothespins or clamps
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/Lab</para></formalpara>
+<section id="_center_of_gravity_cg">
+<title>Center of Gravity (CG)</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Does anyone know what center of gravity is?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Demonstrate sliding fingers together on ruler or long tube
+  to find center of gravity in the middle.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Attach clip to one end and show how CG moved toward that end.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Attach many more clips and show how much CG moves.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Attach clip to opposite end and show how it starts moving back to
+  the center.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Equate the ruler or tube with the rocket body. If a force is applied
+  to either side, where will the pivot point be? (the rocket pivots about
+  the CG)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What happens to the center of gravity as the engine burns its fuel?
+  (back of the rocket gets lighter, CG moves forward - as an example,
+  take away clips from the end of the ruler/tube).
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_center_of_pressure_cp">
+<title>Center of Pressure (CP)</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Center of pressure is like the center of gravity, but instead of using
+  the mass of the rocket, it uses the surface area of the rocket.
+  It is the point on the rocket you can consider all of the aerodynamic
+  force to be concentrated.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Recall the parachute experiment and how air exerted a force to slow
+   the descent.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Demonstrate how the rocket will move if the CP is in front of or
+  behind the CG.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ideally a stable rocket should have its CP 1-2 body tube diameters
+  behind the CG. The CP always wants to follow the wind. Which
+  way is the wind for a zooming rocket? (downward, so as the rocket
+  flies upward the CP wants to follow the wind and if the rocket starts to
+  veer off, the force at the CP will straighten it out).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+An unstable rocket has the CP in front of the CG. Demonstrate with a
+  rocket. What will happen if there is a force in front of the CG
+  constantly trying to follow the wind? (Demonstrate that as the rocket
+  turns, the direction of the wind turns so the CP trys to follow and
+  turns the rocket and so forth and the rocket loops dangerously close
+  to the ground)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+A marginally stable rocket will have its CP very close to the CG.
+  Air pressure forces will cause very large movements&#8230; demonstrate
+  how a small movement close to the CG fulcrum displaces the rocket much
+  more than the same amount of movement far away.
+  How do you think it will fly? (Erratic, possibly spiraling. May stabilize
+  as the rocket fuel burns because the CG will move forward away from
+  the CP).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+An overstable rocket has its CP too far behind the CG. How
+  will it fly? (turns into even the slightest breeze
+  and shoots horizontally across the field).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Find center or pressure by cutting out profile of rocket in cardboard and
+  finding where the center of gravity of the cardboard cutout is. This point
+  will be the center of pressure of the rocket.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Cardboard cutout "converts" surface area to mass so then the location
+   of the CM of the cutout represents the CP of the rocket.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can we move the CP back? (bigger fins; also adds mass and moves the
+   CG backward a little bit too)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can we move the CG forward? (weight in the nosecone)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Rocket needs to be stable with both an unused and a spent rocket engine.
+   Why? (As the rocket fuel burns, the tail of the rocket will get lighter,
+   and which way does that move the CG? Forward while the CP stays in
+   the same place&#8230; Rocket may go straight up, become over-stable and veer
+   in to the wind).
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Swing test. Tie a string around rocket at CG and spin it around.
+  A stable rocket should fly true. Unstable will fly backwards. Marginally
+  stable will tumble.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_hobby_building">
+<title>Hobby Building</title>
+<simpara>There&#8217;s no "spare parts" for your rocket kit.
+Work slowly and carefully. Any mistake will have to be repaired.</simpara>
+<itemizedlist><title>Plastic Cement:</title>
+<listitem>
+<simpara>
+Avoid breathing in the fumes.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you start to feel dizzy or light headed, talk to an adult so we can
+   take you outside and get some fresh air.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+If you get it on your hands, immediately go wash.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Do not get glue in your mouth
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you do, find an adult. Do not make yourself throw up. We will call
+   the poison control center.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Do not get glue in your eyes
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you do, find an adult, we will have to wash your eye while holding
+   your eyelid open under running water for 15 minutes and call the poison
+   control center.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Never touch your face, mouth or eyes after handling the glue.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+If you have some on your hands, this will cause ingestion or eye exposure.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Be sure to wash up well using soap and water after done using the glue in
+  case you did get a small amount of glue on your skin.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If you find your skin is getting irritated where you may have touched
+  the glue be sure to tell an adult.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If you get any of the symptoms after you go home, be sure to tell your
+  parents.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+An adult must supervise your usage of the plastic cement at all times.
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Hobby Knife:</title><para>Knife safety was covered in the previous workshop
+(Rocketry Fundamentals: Cutting Knife Safety).
+Adult helpers will manage the hobby knife at each table. Remember only adults
+are allowed to take the plastic safety cap off the blade of the knife.
+An adult can only supervise use of one thing at a time, either the hobby knife
+or the plastic cement. If the adult is helping someone with the knife and you
+need to use the glue, please be patient and wait until they are done
+helping with the knife before you try to use the plastic cement.</para></formalpara>
+<formalpara><title>Lines on Cylinders:</title><para>When building rockets, you often have to make straight lines on and around
+cylindrical tubes.</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+How might you draw a straight line up and down a tube?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+One trick is to fit the tube into the corner of a door jam and use the
+   straight edge to trace the line
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+How might you draw a straight line around the tube?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Cut off a strip from the edge of a piece of paper. Wrap the
+   strip tightly around the rocket body so it&#8217;s straight and trace a line.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+How might you mark out evenly spaced lines around the rocket body? For
+  instance for locating fins.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Fold the strip of paper into equal sections and make a mark at the creases.
+   Wrap the paper around the rocket body and transfer the marks from the
+   strip to the tube. Then draw straight lines on the tube at the marked points
+   using the door jam.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_rocket_build">
+<title>Rocket Build</title>
+<simpara>Distribute the rocket kits and oversee their construction.</simpara>
+</section>
+</section>
+</chapter>
+<chapter id="_rocketry_3_first_rocket_launch">
+<title>Rocketry 3: First Rocket Launch</title>
+<section id="_first_rocket_launch">
+<title>First Rocket Launch</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Rocketry
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Preparation:</title><para>Prepare the field for the rocket launch.</para></formalpara>
+<simpara>Put every student&#8217;s name into a hat. To determine launch order
+pull names when the launchpad(s) are ready for the next student.</simpara>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www.nar.org/safety-information/model-rocket-safety-code/">http://www.nar.org/safety-information/model-rocket-safety-code/</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Completed rocket builds
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Launchpad (base, launch rod, blast deflector)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+High current battery
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Launch control box
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Appropriate rocket engines
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Fire extinguisher
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Large outdoor field</para></formalpara>
+<section id="_prepare_rockets">
+<title>Prepare rockets</title>
+<simpara>Instruct students on rocket preparation.
+Be sure wadding and recovery system are pack properly.
+Engine and igniters are installed properly.</simpara>
+</section>
+<section id="_launch_controls">
+<title>Launch Controls</title>
+<itemizedlist>
+<listitem>
+<simpara>
+Make sure control box safety "Arm" switch is down in the off position.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Connect jumper cables to the control box (red is +, black is -)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Connect jumper cables to the battery (- terminal first)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Green safe lights come on on control box
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Confirm safe launch conditions as per "Rocket Launch" section below.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Flip "Arm" switch up to the on position.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Armed red lights come on on the control box.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+For launch, hold down the Launch button for several seconds until rocket
+  fires.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Flip the "Arm" switch back to the off position.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Disconnect the red + terminal from the BATTERY.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+NEVER EVER touch the red and black jumper cable clips together.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_rocket_launch">
+<title>Rocket Launch</title>
+<itemizedlist>
+<listitem>
+<simpara>
+For D engines or below, everyone must be at least 15 feet away from the
+  launch pad.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Everyone must be paying attention to the launch.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Do not disengage the safety interlock until everyone is clear and prepared.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Count down loudly before launch.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+If there is a misfire, wait a full minute before approaching the rocket.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</chapter>
+</part>
+<part id="_untested_workshops">
+<title>Untested Workshops</title>
+<chapter id="_workshop_16_structureal_engineering">
+<title>Workshop 16: Structureal Engineering</title>
+<section id="_structural_engineering">
+<title>Structural Engineering</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Structural Engineering
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Statics
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="https://www.teachengineering.org/activities/view/cub_intro_lesson01_activity1">Hands-on Activity: Shapes of Strength</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nj.pbslearningmedia.org/resource/phy03.sci.phys.mfw.lp_shapes/shapes-that-make-structures-strong/">Shapes That Make Structures Strong</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/">Building Big: Human Arch Mini-Activity</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumdome/">Building Big: Human Dome Mini-Activity</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nj.pbslearningmedia.org/asset/phy03_doc_lpastrawsh/">Building Big: Straw Shapes handout</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large ball (at least soccer ball size)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Straws
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Paperclips
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Class Discussion</title><para>Shapes of Strength</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Reference: <ulink url="https://www.teachengineering.org/activities/view/cub_intro_lesson01_activity1">Hands-on Activity: Shapes of Strength</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+What makes buildings strong? Historical examples? (Pyramids, Parthenon)
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Class Activities:</title><para>Compression and Tension</para></formalpara>
+<caution><simpara>These activities have plenty of opportunity for the students to get up
+to mischief. Encourage safety and keep a watchful eye.</simpara></caution>
+<itemizedlist>
+<listitem>
+<simpara>
+Reference: <ulink url="https://nj.pbslearningmedia.org/resource/phy03.sci.phys.mfw.lp_shapes/shapes-that-make-structures-strong/">Shapes That Make Structures Strong</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Have student pairs put their hands together palm to palm with arms extended.
+  Have them bend their arms at the elbow to experience compression.
+  What happens under compression when they move their hands closer together
+  or farther apart?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Now have the students clench each others hands starting with their elbows
+  bent and then extend their arms to experience tension. Now what happens as
+  they move their hands closer or farther apart?
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Reference: <ulink url="https://nj.pbslearningmedia.org/asset/phy03_doc_lpahumarch/">Building Big: Human Arch Mini-Activity</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Circle 5 kids around a ball and have them lean in on the ball with one
+   arm extended. Have them slide their feet out as far as possible.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Now push down on the ball to "add weight". The kids feet will start to slip
+   out. How can the dome support more compression?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Add kids (buttresses) seated around the feet of the kids supporting
+   the ball (ribs).
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Activity:</title><para>Which shape is more stable?</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Reference: <ulink url="https://nj.pbslearningmedia.org/asset/phy03_doc_lpastrawsh/">Building Big: Straw Shapes handout</ulink>
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Inquire which shape will be more stable: triangles or squares.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Supply each group with straws and paper clips. If you have bendy straws,
+   cut off the bendy end of eachs straw.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Pairs of paper clips can be linked and a clip each inserted into a straw
+   end will link two straws. In this way build a square an triangular patterns.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Compare the different shape stability. By pressing down on the structures.
+   What are the failure modes? Brainstorm&#8230; (Buckling, Compression, Shear, Split)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Paperclips pushing in are under compression. Paperclips pulling out are
+   under tension.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can the square be made more stable? (Connect a straw across the
+   diagonal to make a rhombus out of two trinagles).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Build a structure out of many straws and paperclips (possibly enforcing
+   a limit of 40 paperclips and 20 straws). Compete on maximum weight held.
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Structure should hold weight (books, awshers, etc) at least 2" above the
+    table surface.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Multiple rounds. After first round have everyone compare there results and
+    learn what ideas worked and then move on to the next rounf.
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_17_siphon">
+<title>Workshop 17: Siphon</title>
+<section id="_siphon">
+<title>Siphon</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+20ft of clear 1" diameter tubing
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Several large balloons
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Food coloring
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Step ladder
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Outside on a warm day near a water hose feed or
+in a lab/kitchen area with a large sink.</para></formalpara>
+<formalpara><title>Demonstration</title><para>Illustrate the workings of the siphon.</para></formalpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Place the tub up on the step ladder and fill it with water.
+</simpara>
+</listitem>
+</itemizedlist>
+<warning><simpara>STUDENTS MUST STAY CLEAR OF THE LADDER. A LARGE TUB OF WATER UP
+    HIGH IS A FALLING HAZARD.</simpara></warning>
+<itemizedlist>
+<listitem>
+<simpara>
+Fill the hose with water, block it with your thumb and take one end out to
+  demonstrate siphoning.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Go to aim the end of the hose at the students but bring it up above the level
+  of the tub as you do so and the water will stop flowing.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bring the hose down to look into the end "Huh I wonder why it&#8217;s not working"
+  to get sprayed in the face for raucous laughter.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Partially block the tube output with your thumb to spray the water.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask the class if they think you can spray the water back up into the tub
+  and show what happens.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ask what will happen if an empty balloon is put at the end of the siphon.
+  A balloon full of air? Hold the tube above the level of the tub to stop
+  the flow of water and put a drop of food coloring in. Then try the different
+  tests with the balloon.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Fill the tube with water, add food coloring and plug it with your thumb.
+  Bring it down below the level of the tub. Remove the end in the tub and allow
+  some water to bleed out with your thumb so there is a large air gap on the
+  tub side. Put the tube on the tub side back in the water. Ask the class
+  what they think will happen when you remove your thumb and show them. Try
+  it with different sized air gaps.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Challenge the students for a way to get the siphon going without submerging
+  the tube. If the water and the tube are clean enough, demonstrate sucking
+  out the air in the tube to get the siphon started.
+</simpara>
+</listitem>
+</itemizedlist>
+<important><simpara>WARN AGAINST ATTEMPTING THIS AS IT IS A CHOKING HAZARD AND SHOULD
+    ESPECIALLY BE AVOIDED IF THE LIQUID IS TOXIC.</simpara></important>
+<itemizedlist>
+<listitem>
+<simpara>
+Alternatively if there is a hose available to backfill the tube (or make
+  a water balloon that can be used to back fill the tube) this also will get
+  the siphon going.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+When demonstration is complete, drain the tub to a safe weight and take it
+  down from the ladder.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_18_ramp_racers">
+<title>Workshop 18: Ramp Racers</title>
+<section id="_ramp_racers">
+<title>Ramp Racers</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Automotive Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www.thingiverse.com/thing:1219729">http://www.thingiverse.com/thing:1219729</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Ramp. A large board or table that can be tipped at an angle. You may even
+  task the students to come up with a suitable ramp.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Building materials on hand like gears, wheels, Legos, K&#8217;Nex. Let the kids
+  find what they may.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Ball
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Slingmobiles: <ulink url="http://www.thingiverse.com/thing:1219729">http://www.thingiverse.com/thing:1219729</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Board or otherwise improvised road block
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Classroom/lab with materials on hand for improvised construction</para></formalpara>
+<formalpara><title>Preparation:</title><para>Write the challenge statement up on the whiteboard. Don&#8217;t call the "racer" a
+"car" and don&#8217;t call attention to the fact that it doesn&#8217;t have to be a car.
+Many students may start out building cars.</para></formalpara>
+<formalpara><title>Teaming:</title><para>Students may form teams or work individually</para></formalpara>
+<formalpara><title>Challenge:</title><para>"Build a racer that is the fastest down the ramp."</para></formalpara>
+<simpara>As students complete their builds use the stopwatch to time their racer down
+the ramp. They should record each time in their engineering notebook. They are
+free to modify their racer and try again. Changes and new trial times are good
+details to keep records of in their notebook. Keep a leader board of times.</simpara>
+<simpara>Ask them to review their notes to identify the changes that made the
+best improvement to their times.</simpara>
+<itemizedlist><title>Class Inquiry:</title>
+<listitem>
+<simpara>
+Why does the racer go down the ramp?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+What is gravity?
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>
+Put a car sideways on the ramp. Why doesn&#8217;t it go down the ramp?
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+What is friction? Where is the friction? (High friction where the wheel
+    meets the ramp, low friction on the wheel axles).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Can anyone come up with a racer that will slide (instead of roll) down the
+    ramp?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How will larger or smaller diameter wheels affect the racer?
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Further Challenges:</title>
+<listitem>
+<simpara>
+Facilitator enter your own racer for a time trial. Start with just a ball.
+  When the students object, point at the challenge on the whiteboard indicating
+  that a "racer" doesn&#8217;t need to be a car.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Allow the kids to make a new round of "racers" and have them keep track of
+  their new designs and times.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Race your ball again this time giving it a strong rolling push at the
+  starting line. Also not expressly against any rules.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+The kids will probably get carried away in the next round zooming their
+  racers down the ramp.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Add the constraint that the racers may no longer be pushed down the ramp.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Bring out the Slingmobiles with their rubber band catapult and see how they
+  do in the time trials.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Invite the kids to build their own launching systems.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Add a board or otherwise complete roadblock halfway down the middle of the
+  ramp. See how the kids design around surmounting that challenge.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter id="_workshop_19_paddle_power">
+<title>Workshop 19: Paddle Power</title>
+<section id="_paddle_power">
+<title>Paddle Power</title>
+<itemizedlist><title>Disciplines:</title>
+<listitem>
+<simpara>
+Naval Engineering
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Mechanical Engineering
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Resources:</title>
+<listitem>
+<simpara>
+<ulink url="http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf">http://www-tc.pbskids.org/designsquad/pdf/parentseducators/DS_Act_Guide_complete.pdf</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Design Squad Season 2, Episode 8: Aquatic Robots
+</simpara>
+</listitem>
+</itemizedlist>
+<itemizedlist><title>Materials:</title>
+<listitem>
+<simpara>
+Large tub or large watertight storage bin
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Stopwatch
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Internet Media Access
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Per team:
+</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+Chipboard cardboard (such as a cereal box)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic tape
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+2 paper cups (≥8oz)
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Plastic wrap
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+5 rubber bands
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Scissors
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Straws
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Washers
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+Dowels
+</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+<formalpara><title>Location:</title><para>Inside or outside on a warm day</para></formalpara>
+<formalpara><title>Preparation:</title><para>Fill the tub with water.</para></formalpara>
+<formalpara><title>Demonstration:</title><para>Watch the Design Squad video when done.
+<ulink url="http://pbskids.org/designsquad/build/paddle-power/">http://pbskids.org/designsquad/build/paddle-power/</ulink></para></formalpara>
+<simpara>Loop a 1x2" piece of cardboard through a rubber band hold taught between
+your fingers. Illustrate winding it up and letting it go to show how it spins.</simpara>
+<simpara>Introduce potential (wound up rubber band) and kinetic energy (unwinding
+rubber band and spinning paddle).</simpara>
+<itemizedlist><title>Class Inquiry:</title>
+<listitem>
+<simpara>
+Where is the energy stored?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can the potential energy be increased?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+How can you tell when potential energy is being used?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What are the different kinds of kinetic energy that occurs as the boat moves
+  through the water?
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+What other examples of potential and kinetic energy can you think of?
+</simpara>
+</listitem>
+</itemizedlist>
+<formalpara><title>Teaming:</title><para>Teams of 2-3. Partnering younger with older students.</para></formalpara>
+<formalpara><title>Challenge:</title><para>Build a boat that paddles itself using a rubber band as its power source.</para></formalpara>
+<simpara>Time how long it takes for the boat to travel across the tub. Have students
+keep records in their engineeering notebooks.</simpara>
+</section>
+</chapter>
+</part>
+<part id="_workshops_in_development">
+<title>Workshops in development</title>
+<chapter id="_workshop_20_software_engineering">
+<title>Workshop 20: Software Engineering</title>
+<simpara>This first workshop doesn&#8217;t need a computer. Run challenges with Scratch
+programming using large foamboard cutouts of scratch command blocks, play
+Robot Turtle, get Marbles on Rails programming game put together.</simpara>
+<simpara>For the next workshop prepare by having kids get Scratch accounts with their
+parents.  Next workshop will be in the computer lab.</simpara>
+<simpara>coding, scratch, python, lightbot, TurtleArt</simpara>
+</chapter>
+<chapter id="_workshop_21_electrical_engineering_projects">
+<title>Workshop 21: Electrical Engineering Projects</title>
+<simpara>Snap Circuits, Little Bits, Breakout Boards, Power Supplies,
+Makey Makey, Soldering</simpara>
+</chapter>
+<chapter id="_workshop_22_computer_aided_design">
+<title>Workshop 22: Computer Aided Design</title>
+<simpara>CAD, OpenSCAD, OnShape, Inventor</simpara>
+</chapter>
+<chapter id="_workshop_23_3d_printing">
+<title>Workshop 23: 3D Printing</title>
+<simpara>3D Printing, Perler Beads, Foam Board layering, bring in printer,
+automation, plastics mfg.</simpara>
+</chapter>
+<chapter id="_workshop_24_biomedical_engineering">
+<title>Workshop 24: Biomedical Engineering</title>
+<simpara>Biomedical engineering, 3D Printed hearts, Red blood siphon pump</simpara>
+</chapter>
+<chapter id="_workshop_25_biomedical_optics">
+<title>Workshop 25: Biomedical Optics</title>
+<simpara>Biomedical engineering, Optical Engineering
+Monoculight Maker Faire Edition</simpara>
+</chapter>
+<chapter id="_workshop_26_optical_engineering">
+<title>Workshop 26: Optical Engineering</title>
+<simpara>Optical Engineering, telescope, microscope, Rochester cloak, giant Fresnel
+lenses</simpara>
+</chapter>
+<chapter id="_workshop_27_mult_disciplinary_engineering">
+<title>Workshop 27: Mult-Disciplinary Engineering</title>
+<simpara>LED light mixer, multi-disciplinary, LEDs, Optics, Electronics, 3D Printing</simpara>
+</chapter>
+<chapter id="_workshop_28_crash_test_eggs_design_build_and_tournament">
+<title>Workshop 28: Crash Test Eggs Design, Build and Tournament</title>
+<simpara>Egg Olympics build day. Egg drop, pine derby car. Zany categories: speed,
+force, egg survival, egg destruction
+Egg drop challenge
+Egg Olympics</simpara>
+</chapter>
+<chapter id="_workshop_29_rocketry_design_and_build">
+<title>Workshop 29: Rocketry Design and Build</title>
+<simpara>Resources:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.apogeerockets.com/">https://www.apogeerockets.com/</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS">https://www.amazon.com/Estes-1980-Designer-Special/dp/B0084JTDOS</ulink> $60
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46">https://www.amazon.com/Estes-A8-3-Engines-Bulk-Pack/dp/B0006N6Z46</ulink> $55
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW">https://www.amazon.com/Estes-C6-5-Engines-Bulk-Pack/dp/B0006N6UIW</ulink> $65
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02">https://www.amazon.com/Estes-Wizard-Rocket-Bulk-Pack/dp/B009EZPF02</ulink> $50
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78">https://www.amazon.com/Estes-302215-Porta-Pad-Launch-Pad/dp/B0006NAQ78</ulink> $15
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6">https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6</ulink> $20
+</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Rocketry, start build, Launch electronics</simpara>
+</chapter>
+<chapter id="_workshop_30_rocket_launch">
+<title>Workshop 30: Rocket Launch</title>
+<simpara>Rocket Launch
+Zany contest categories: Longest air time, shortest air time,
+best crash, catch a recovery out of the air, loudest countdown,
+best decorated rocket, craziest flight pattern</simpara>
+</chapter>
+<chapter id="_workshop_31_raspberry_pi_computer">
+<title>Workshop 31: Raspberry Pi Computer</title>
+<simpara>Raspberry Pi</simpara>
+</chapter>
+<chapter id="_workshop_32_battling_robots_design_build_and_tournament">
+<title>Workshop 32: Battling Robots Design, Build and Tournament</title>
+<simpara>Battling Robots design, build and tournament</simpara>
+</chapter>
+<chapter id="_workshop_33_engineering_showdown_games">
+<title>Workshop 33: Engineering Showdown Games</title>
+<simpara>Engineering Showdown Games. Paper airplane challenge, egg toss etc.
+Challenges announced 15 minutes before each event. Each team then
+designs and constructs their entry before for competition.</simpara>
+</chapter>
+</part>
+<colophon id="_license">
+<title>License</title>
+<simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="cc-by-sa.png" contentdepth="16"/>
+  </imageobject>
+  <textobject><phrase>CC-BY-SA</phrase></textobject>
+</inlinemediaobject></simpara>
+<simpara>Young Engineers Club Curriculum by
+<ulink url="mailto:art.davis@gmail.com">Arthur Davis</ulink> is licensed under a
+<ulink url="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution-ShareAlike 4.0 International License</ulink>.</simpara>
+<simpara>Original work is available at <ulink url="https://github.com/artdavis/youngengineers">https://github.com/artdavis/youngengineers</ulink>.</simpara>
+</colophon>
+</book>

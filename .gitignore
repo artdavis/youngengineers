@@ -1,1 +1,7 @@
 untracked/
+out.*
+test.*
+tmp.*
+.ipynb_checkpoints/
+handouts/201*
+handouts/Calendar*

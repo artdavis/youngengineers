@@ -24,8 +24,13 @@ What discernible features can they notice and describe?
 
 * Who knows what 3D Printing is?
 
+* Have various 3D printed parts available
+** What do you notice about the parts?
+*** Built up from flat layers
+*** Show where there may be defects from lack of support
+
 * What are the different kinds of 3D Printing?
-** SLA/DLP - Stereolithograph and Dligital Light Processing
+** SLA/DLP - Stereolithograph and Digital Light Processing
 *** Light is used to cure/harden layer by layer
 ** FDM - Fused deposition modeling
 *** Most common consumer printers
@@ -66,6 +71,38 @@ What discernible features can they notice and describe?
    of an FDM printer? (glue guns)
 ** How do you imagine you could make a flat solid layer with a glue gun?
    (outline the perimeter and then go back and fill-in the inside).
+
+* Parts of 3D Printer
+** X/Y/Z Motors
+** Timing Belts
+** X/Y Carriage
+** Z screw
+** Heated Bed
+** Platen
+** Hot End/Extruder
+*** Barrel
+*** Heater block with cartridge
+*** Nozzel
+*** Cooling Fan
+*** Heat Sink
+** Microcontroller (RAMPS board)
+** Filament/Spool
+** Frame
+
+* Preparing for print with the Slicer
+** Infill
+** Perimeters
+** Brim
+** Bed adhesion: Skirt, Raft
+** Support
+
+* Demo Slicer Software
+** Walk through the layer preview
+
+* How to print the "one piece" fidget spinner?
+** Brainstorm ideas
+** Introduce cross section and draw on the board.
+** Show the cross sectionde fidget spinner print
 
 WARNING: Review Glue Gun Safety
 
